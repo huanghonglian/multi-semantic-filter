@@ -76,9 +76,9 @@ usage: semantic_filter.py [-h] -c CASE [-f]
 Entity processing tool  
 
 options:  
-&emsp;-h,&emsp;--help      show this help message and exit  
-&emsp;-c&emsp;CASE, --case CASE     Specify the case name  
-&emsp;-f,&emsp;--filter         Using the semantic filter; if -f is not included, it defaults to False.  
+&emsp;-h,&emsp;--help&emsp;&emsp;&emsp;&emsp;&emsp;      show this help message and exit  
+&emsp;-c&emsp;CASE, --case CASE&emsp;&emsp;&emsp;     Specify the case name  
+&emsp;-f,&emsp;--filter&emsp;&emsp;&emsp;&emsp;&emsp;         Using the semantic filter; if -f is not included, it defaults to False.  
 
 The results with filter are saved in _./case/MetaMap/metamap_anno_filter.txt_, while the results without filter are in the  _./case/MetaMap/metamap_anno.txt_. Sentences are saved in./case/metamap/metamap_sent.txt
 
