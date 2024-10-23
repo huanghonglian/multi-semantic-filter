@@ -68,10 +68,10 @@ Semantic filters are used to remove false positive entities resulting from metam
 ```python
 # For a case named test, we run step 1-3:
 cd lib
-python metamap2anno.py -c test -f
+python semantic_filter.py -c test -f
 ```
 
-usage: metamap2anno1.py [-h] -c CASE [-f]  
+usage: semantic_filter.py [-h] -c CASE [-f]  
 
 Entity processing tool  
 
