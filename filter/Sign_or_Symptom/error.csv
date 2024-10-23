@@ -1,0 +1,36 @@
+,name,site,list
+0,Bradykinesia,c,"['Slow movements', 'N Slowness of movements']"
+1,Breath_holding_spell,c,['BHS']
+2,Breathing_abnormally_deep,c,"['N deep breathing', 'deep breathing']"
+3,Burning_sensation,c,"['N Burning', 'Burning']"
+4,Cachexia,c,"['Wasting', 'N Wasting']"
+5,Continuous_Tremor,c,['Continuous Shaking']
+6,Flatulence,c,"['Wind NOS', 'winding']"
+7,Grunting_respiration,c,['Grunt']
+8,Hard_edema,c,['Hard swelling']
+9,head_pressure,c,['HEAD PRESSURE']
+10,lump_on_head,c,['']
+11,Lump_on_thigh,c,['thigh mass']
+12,Malaise,c,"['N Ill', 'Ill']"
+13,Muscular_stiffness,c,"['N Stiff', 'Stiff']"
+14,Nervousness,c,['Nervous']
+15,Paraneoplastic_Opsoclonus_Ataxia,c,['POA']
+16,Rectal_tenesmus,c,"['TENESMUS', 'N TENESMUS']"
+17,recurrent_muscle_twitches__symptom_,c,"['N Tic', 'Tics', 'Tic']"
+18,right_Ocular_proptosis,c,['right Proptosis']
+19,Right_sided_chest_pain,c,['Right chest pain']
+20,slight_fever,c,"['N Slight temperature increase', 'Minimal temperature']"
+21,Snoring,c,"['Snore', 'N Snore', 'N Snored']"
+22,soft_neurological_signs,c,['N Soft neurological signs']
+23,Sore_skin,c,['Sore']
+24,spells__neurological_symptom_,c,"['spell', 'spells']"
+25,Spots_on_skin,c,"['N Spotty', 'Spotty', 'Spots']"
+26,Telescoping_of_limb_at_hip,c,['Telescoping']
+27,Tremor,c,"['SHAKING', 'Shakes', 'shake', 'quiver']"
+28,Tricuspid_Valve_Regurgitation_Velocity,c,['TRV']
+29,Urinary_hesitation,c,"['N HESITANCY', 'HESITANCY']"
+30,Verbal_auditory_hallucinations,c,['Hearing voices']
+31,Very_Low_Birth_Weight,c,['VLBW']
+32,Virchows_node__disorder_,c,['signaling nodes']
+33,Visual_halos__disorder_,c,['Halo']
+34,Welts,c,['Hive']

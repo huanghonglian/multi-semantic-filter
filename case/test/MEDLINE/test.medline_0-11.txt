@@ -1,0 +1,1137 @@
+
+PMID- 39426639
+OWN - NLM
+STAT- Publisher
+LR  - 20241019
+IS  - 1096-1208 (Electronic)
+IS  - 0882-4010 (Linking)
+DP  - 2024 Oct 17
+TI  - The Role of c-Myc in Epstein-Barr Virus-Associated Cancers: Mechanistic Insights 
+      and Therapeutic Implications.
+PG  - 107025
+LID - S0882-4010(24)00492-3 [pii]
+LID - 10.1016/j.micpath.2024.107025 [doi]
+AB  - c-Myc is an important proto-oncogene belonging to the MYC family. In normal 
+      conditions, c-Myc regulates different aspects of cellular function. However, its 
+      dysregulation can result in the development of cancer due to various mechanisms. 
+      Epstein-Barr virus is a ubiquitous viral pathogen that infects a huge proportion 
+      of the global population. This virus is linked to various cancers, such as 
+      different types of lymphoma, nasopharyngeal, and gastric cancers. It can 
+      manipulate host cells, and many cellular and viral genes are important in the 
+      Epstein-Barr virus carcinogenesis. This review explores the complex relationship 
+      between c-Myc and Epstein-Barr virus in the context of cancer development. Also, 
+      potential therapeutic strategies targeting c-Myc to treat EBV-related cancers are 
+      discussed.
+CI  - Copyright (c) 2024. Published by Elsevier Ltd.
+FAU - Mahdavi, Pooya
+AU  - Mahdavi P
+AD  - College of Public Health, University of South Florida, Tampa, FL 33612, USA.
+FAU - Javaherdehi, Atefe Panahipour
+AU  - Javaherdehi AP
+AD  - Department of Biotechnology, Tehran Medical Sciences, Islamic Azad University, 
+      Tehran, Iran.
+FAU - Khanjanpoor, Parinaz
+AU  - Khanjanpoor P
+AD  - Department of health and science, University of Piedmont Orientale (UPO), Novara, 
+      Italy.
+FAU - Aminian, Hesam
+AU  - Aminian H
+AD  - Department of health and science, University of Piedmont Orientale (UPO), Novara, 
+      Italy.
+FAU - Zakeri, Mehrasa
+AU  - Zakeri M
+AD  - Department of Immunology, Pasteur Institute of Iran, Tehran, Iran.
+FAU - Zafarani, Alireza
+AU  - Zafarani A
+AD  - Cellular and Molecular Research Center, Iran University of Medical Sciences, 
+      Tehran, Iran; Department of Hematology & Blood Banking, School of Allied 
+      Medicine, Iran University of Medical Sciences, Tehran, Iran.
+FAU - Razizadeh, Mohammad Hossein
+AU  - Razizadeh MH
+AD  - Department of Virology, School of Medicine, Iran University of Medical Sciences, 
+      Tehran, Iran; Antimicrobial Resistance Research Center, Institute of Immunology 
+      and Infectious Diseases, Iran University of Medical Sciences, Tehran, Iran. 
+      Electronic address: Razizadeh.mh@gmail.com.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20241017
+PL  - England
+TA  - Microb Pathog
+JT  - Microbial pathogenesis
+JID - 8606191
+SB  - IM
+OTO - NOTNLM
+OT  - Epstein-Barr Virus
+OT  - Gastric cancer
+OT  - Lymphoma
+OT  - Nasopharyngeal Carcinoma
+OT  - c-Myc
+COIS- Declaration of Competing Interest ☒ The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper. ☐ The authors declare the following 
+      financial interests/personal relationships which may be considered as potential 
+      competing interests:
+EDAT- 2024/10/20 00:42
+MHDA- 2024/10/20 00:42
+CRDT- 2024/10/19 19:20
+PHST- 2024/10/20 00:42 [medline]
+PHST- 2024/10/20 00:42 [pubmed]
+PHST- 2024/08/05 00:00 [received]
+PHST- 2024/09/26 00:00 [revised]
+PHST- 2024/10/16 00:00 [accepted]
+PHST- 2024/10/19 19:20 [entrez]
+AID - S0882-4010(24)00492-3 [pii]
+AID - 10.1016/j.micpath.2024.107025 [doi]
+PST - aheadofprint
+SO  - Microb Pathog. 2024 Oct 17:107025. doi: 10.1016/j.micpath.2024.107025.
+
+PMID- 39348958
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240930
+LR  - 20240930
+IS  - 1791-7530 (Electronic)
+IS  - 0250-7005 (Linking)
+VI  - 44
+IP  - 10
+DP  - 2024 Oct
+TI  - Predictive Biomarkers of Lymph Node Metastasis in Early Gastric Cancer: A 
+      Reference of Clinicopathological Characteristics, Protein Expression, 
+      Epstein-Barr Virus Status, and Microsatellite Instability.
+PG  - 4435-4448
+LID - 10.21873/anticanres.17273 [doi]
+AB  - BACKGROUND/AIM: Predicting lymph node metastasis (LNM) in early gastric cancer 
+      (EGC) is crucial for making treatment decisions. This study aimed to confirm risk 
+      factors for LNM and identify novel auxiliary biomarkers for predicting LNM in 
+      EGC. PATIENTS AND METHODS: We established a training set, comprising 63 patients 
+      with LNM-EGC and 274 patients with non-LNM EGC, and a test set, comprising 19 
+      patients with LNM-EGC and 146 non-LNM EGC. Immunohistochemistry for 
+      lymphangiogenic and related pathway components (VEGF-C, TGF-beta1, SMAD2/3, VEGF-D, 
+      pSTAT3, E-cadherin, CD44, c-MET, YAP, and HER2), in situ hybridization for 
+      Epstein-Barr virus-encoded small RNAs, and multiplex PCR for microsatellite 
+      instability were conducted. RESULTS: In the training set, Lauren's diffuse/mixed 
+      classification, stromal desmoplasia, submucosal invasion >/=500 mum, lymphatic 
+      invasion, and high VEGF-C and SMAD2/3 expression were independent risk factors 
+      for LNM (p<0.05). A large tumor size, mixed histology, submucosal invasion, 
+      perineural invasion, and ulceration were determined as risk factors using 
+      univariate analysis (p<0.05). The tumor cutoff size for predicting LNM was 2.65 
+      cm, based on a ROC analysis. The test set study verified that stromal 
+      desmoplasia, submucosal invasion, and high VEGF-C expression were independent 
+      risk factors for LNM (p<0.05). Moreover, mixed histology, lymphatic invasion, 
+      ulceration, and high SMAD 2/3 expression were identified as additional risk 
+      factors using univariate analysis (p<0.05). CONCLUSION: Stromal desmoplasia, 
+      submucosal invasion, and high VEGF-C expression are potential biomarkers for LNM 
+      in EGC. VEGF-C expression might serve as an adjunct biomarker for predicting LNM 
+      on forceps-biopsy tissue at initial diagnosis.
+CI  - Copyright (c) 2024 International Institute of Anticancer Research (Dr. George J. 
+      Delinasios), All rights reserved.
+FAU - Byeon, Sun-Ju
+AU  - Byeon SJ
+AD  - Department of Pathology, Seoul National University Boramae Hospital, Seoul 
+      National University College of Medicine, Seoul, Republic of Korea.
+FAU - Chang, Mee Soo
+AU  - Chang MS
+AD  - Department of Pathology, Seoul National University Boramae Hospital, Seoul 
+      National University College of Medicine, Seoul, Republic of Korea; 
+      meesooch@snu.ac.kr.
+FAU - Park, Hye Eun
+AU  - Park HE
+AD  - Department of Pathology, Seoul National University Boramae Hospital, Seoul 
+      National University College of Medicine, Seoul, Republic of Korea.
+FAU - Kang, Doehee
+AU  - Kang D
+AD  - Department of Pathology, Seoul National University Boramae Hospital, Seoul 
+      National University College of Medicine, Seoul, Republic of Korea.
+FAU - Wang, Yuting
+AU  - Wang Y
+AD  - Department of Pathology, Seoul National University Boramae Hospital, Seoul 
+      National University College of Medicine, Seoul, Republic of Korea.
+FAU - Han, Dong-Seok
+AU  - Han DS
+AD  - Department of Surgery, Seoul National University Boramae Hospital, Seoul National 
+      University College of Medicine, Seoul, Republic of Korea.
+FAU - Ahn, Hye Sung
+AU  - Ahn HS
+AD  - Department of Surgery, Seoul National University Boramae Hospital, Seoul National 
+      University College of Medicine, Seoul, Republic of Korea.
+FAU - Heo, Seung Chul
+AU  - Heo SC
+AD  - Department of Surgery, Seoul National University Boramae Hospital, Seoul National 
+      University College of Medicine, Seoul, Republic of Korea.
+FAU - Lee, Myong Seok
+AU  - Lee MS
+AD  - Department of Radiology, Seoul National University Boramae Hospital, Seoul 
+      National University College of Medicine, Seoul, Republic of Korea.
+FAU - Kim, Won
+AU  - Kim W
+AD  - Internal Medicine, Seoul National University Boramae Hospital, Seoul National 
+      University College of Medicine, Seoul, Republic of Korea.
+FAU - Kim, Su Hwan
+AU  - Kim SH
+AD  - Internal Medicine, Seoul National University Boramae Hospital, Seoul National 
+      University College of Medicine, Seoul, Republic of Korea.
+FAU - Ahn, Dong-Won
+AU  - Ahn DW
+AD  - Internal Medicine, Seoul National University Boramae Hospital, Seoul National 
+      University College of Medicine, Seoul, Republic of Korea.
+FAU - Lee, Kook Lae
+AU  - Lee KL
+CN  - Gastrointestinal Diseases Study Group of Seoul National University Boramae 
+      Hospital
+LA  - eng
+PT  - Journal Article
+PL  - Greece
+TA  - Anticancer Res
+JT  - Anticancer research
+JID - 8102988
+RN  - 0 (Biomarkers, Tumor)
+RN  - 0 (Vascular Endothelial Growth Factor C)
+RN  - 0 (SMAD3 protein, human)
+RN  - 0 (Smad3 Protein)
+RN  - 0 (Smad2 Protein)
+RN  - 0 (SMAD2 protein, human)
+SB  - IM
+MH  - Humans
+MH  - *Stomach Neoplasms/pathology/virology/genetics/metabolism
+MH  - *Lymphatic Metastasis
+MH  - Male
+MH  - Female
+MH  - *Biomarkers, Tumor/genetics/metabolism
+MH  - Middle Aged
+MH  - *Microsatellite Instability
+MH  - *Herpesvirus 4, Human/genetics
+MH  - Aged
+MH  - Epstein-Barr Virus Infections/virology/pathology
+MH  - Vascular Endothelial Growth Factor C/metabolism/genetics
+MH  - Smad3 Protein/metabolism/genetics
+MH  - Adult
+MH  - Smad2 Protein/metabolism/genetics
+MH  - Risk Factors
+OTO - NOTNLM
+OT  - Early gastric cancer
+OT  - VEGF-C
+OT  - biomarker
+OT  - lymph node metastasis
+EDAT- 2024/10/01 04:18
+MHDA- 2024/10/01 04:19
+CRDT- 2024/09/30 20:33
+PHST- 2024/05/14 00:00 [received]
+PHST- 2024/07/31 00:00 [revised]
+PHST- 2024/08/03 00:00 [accepted]
+PHST- 2024/10/01 04:19 [medline]
+PHST- 2024/10/01 04:18 [pubmed]
+PHST- 2024/09/30 20:33 [entrez]
+AID - 44/10/4435 [pii]
+AID - 10.21873/anticanres.17273 [doi]
+PST - ppublish
+SO  - Anticancer Res. 2024 Oct;44(10):4435-4448. doi: 10.21873/anticanres.17273.
+
+PMID- 39338919
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240930
+IS  - 2076-0817 (Print)
+IS  - 2076-0817 (Electronic)
+IS  - 2076-0817 (Linking)
+VI  - 13
+IP  - 9
+DP  - 2024 Aug 28
+TI  - Unlocking the Potential: Epstein-Barr Virus (EBV) in Gastric Cancer and Future 
+      Treatment Prospects, a Literature Review.
+LID - 10.3390/pathogens13090728 [doi]
+LID - 728
+AB  - Gastric cancer (GC) is a complex disease with various etiologies. While 
+      Helicobacter pylori infection is still one of the leading risk factors for GC, 
+      increasing evidence suggests a link between GC and other infective agents such as 
+      Epstein Bar Virus (EBV). EBV-associated gastric cancer (EBVaGC) is now recognized 
+      as a distinct subgroup of GC, and the complex interactions between the virus and 
+      gastric mucosa may influence its development. A recent integrative analysis of 
+      the genome and proteome of GC tissues by The Cancer Genome Atlas project has 
+      identified EBVaGC as a specific subtype characterized by PIK3CA and ARID1A 
+      mutations, extensive DNA hyper-methylation, and activation of immune signaling 
+      pathways. These molecular characteristics are markers of the unique molecular 
+      profile of this subset of GC and are potential targets for therapy. This review 
+      aims to provide an overview of the current knowledge on EBVaGC. It will focus on 
+      the epidemiology, clinic-pathological features, and genetic characteristics of 
+      EBVaGC. Additionally, it will discuss recent data indicating the potential use of 
+      EBV infection as a predictive biomarker of response to chemotherapy and immune 
+      checkpoint inhibitors. The review also delves into potential therapeutic 
+      approaches for EBVaGC, including targeted therapies and adoptive immunotherapy, 
+      highlighting the promising potential of EBV as a therapeutic target.
+FAU - Corallo, Salvatore
+AU  - Corallo S
+AUID- ORCID: 0000-0002-6672-0233
+AD  - Department of Internal Medicine and Medical Therapy, University of Pavia, 27100 
+      Pavia, Italy.
+AD  - Department of Oncology, Fondazione IRCCS Policlinico San Matteo, 27100 Pavia, 
+      Italy.
+FAU - Lasagna, Angioletta
+AU  - Lasagna A
+AUID- ORCID: 0000-0002-9611-1164
+AD  - Department of Oncology, Fondazione IRCCS Policlinico San Matteo, 27100 Pavia, 
+      Italy.
+FAU - Filippi, Beatrice
+AU  - Filippi B
+AD  - Department of Internal Medicine and Medical Therapy, University of Pavia, 27100 
+      Pavia, Italy.
+AD  - Department of Oncology, Fondazione IRCCS Policlinico San Matteo, 27100 Pavia, 
+      Italy.
+FAU - Alaimo, Domiziana
+AU  - Alaimo D
+AD  - Department of Internal Medicine and Medical Therapy, University of Pavia, 27100 
+      Pavia, Italy.
+AD  - Department of Oncology, Fondazione IRCCS Policlinico San Matteo, 27100 Pavia, 
+      Italy.
+FAU - Tortorella, Anna
+AU  - Tortorella A
+AD  - Department of Internal Medicine and Medical Therapy, University of Pavia, 27100 
+      Pavia, Italy.
+AD  - Department of Oncology, Fondazione IRCCS Policlinico San Matteo, 27100 Pavia, 
+      Italy.
+FAU - Serra, Francesco
+AU  - Serra F
+AD  - Department of Internal Medicine and Medical Therapy, University of Pavia, 27100 
+      Pavia, Italy.
+AD  - Department of Oncology, Fondazione IRCCS Policlinico San Matteo, 27100 Pavia, 
+      Italy.
+FAU - Vanoli, Alessandro
+AU  - Vanoli A
+AD  - Department of Molecular Medicine, University of Pavia, 27100 Pavia, Italy.
+AD  - Anatomic Pathology Unit, Fondazione IRCCS Policlinico San Matteo, 27100 Pavia, 
+      Italy.
+FAU - Pedrazzoli, Paolo
+AU  - Pedrazzoli P
+AD  - Department of Internal Medicine and Medical Therapy, University of Pavia, 27100 
+      Pavia, Italy.
+AD  - Department of Oncology, Fondazione IRCCS Policlinico San Matteo, 27100 Pavia, 
+      Italy.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20240828
+PL  - Switzerland
+TA  - Pathogens
+JT  - Pathogens (Basel, Switzerland)
+JID - 101596317
+PMC - PMC11435077
+OTO - NOTNLM
+OT  - biomarker
+OT  - epstein-barr virus
+OT  - gastric cancer
+OT  - molecular classification
+OT  - treatment options
+COIS- The authors declare no conflicts of interest.
+EDAT- 2024/09/28 22:44
+MHDA- 2024/09/28 22:45
+PMCR- 2024/08/28
+CRDT- 2024/09/28 01:25
+PHST- 2024/08/01 00:00 [received]
+PHST- 2024/08/21 00:00 [revised]
+PHST- 2024/08/23 00:00 [accepted]
+PHST- 2024/09/28 22:45 [medline]
+PHST- 2024/09/28 22:44 [pubmed]
+PHST- 2024/09/28 01:25 [entrez]
+PHST- 2024/08/28 00:00 [pmc-release]
+AID - pathogens13090728 [pii]
+AID - pathogens-13-00728 [pii]
+AID - 10.3390/pathogens13090728 [doi]
+PST - epublish
+SO  - Pathogens. 2024 Aug 28;13(9):728. doi: 10.3390/pathogens13090728.
+
+PMID- 39335135
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240930
+IS  - 2072-6694 (Print)
+IS  - 2072-6694 (Electronic)
+IS  - 2072-6694 (Linking)
+VI  - 16
+IP  - 18
+DP  - 2024 Sep 15
+TI  - Gastric Cancer: An Up-to-Date Review with New Insights into Early-Onset Gastric 
+      Cancer.
+LID - 10.3390/cancers16183163 [doi]
+LID - 3163
+AB  - Gastric cancer (GC) is the fifth most frequently diagnosed cancer and the fifth 
+      most common cause of cancer death in the world. Regarding the age at which the 
+      diagnosis was made, GC is divided into early-onset gastric cancer (EOGC-up to 45 
+      years of age) and conventional GC (older than 45). EOGC constitutes approximately 
+      10% of all GCs. Numerous reports indicate that EOGC is more aggressive than 
+      conventional GC and is often discovered at an advanced tumor stage, which has an 
+      impact on the five-year survival rate. The median survival rate for 
+      advanced-stage GC is very poor, amounting to less than 12 months. Risk factors 
+      for GC include family history, alcohol consumption, smoking, Helicobacter pylori, 
+      and Epstein-Barr virus infection. It has been shown that a proper diet and 
+      lifestyle can play a preventive role in GC. However, research indicates that risk 
+      factors for conventional GC are less correlated with EOGC. In addition, the 
+      unclear etiology of EOGC and the late diagnosis of this disease limit the 
+      possibilities of effective treatment. Genetic factors are considered a likely 
+      cause of EOGC, as young patients are less exposed to environmental carcinogens. 
+      Research characterizing GC in young patients is scarce. This comprehensive study 
+      presents all aspects: epidemiology, risk factors, new treatment strategies, and 
+      future directions.
+FAU - Mazurek, Marek
+AU  - Mazurek M
+AUID- ORCID: 0000-0001-7470-6856
+AD  - Department of Surgical Oncology, Masovian Cancer Hospital, 05-135 Wieliszew, 
+      Poland.
+FAU - Szewc, Monika
+AU  - Szewc M
+AUID- ORCID: 0000-0001-8171-8505
+AD  - Department of Normal, Clinical and Imaging Anatomy, Medical University of Lublin, 
+      20-950 Lublin, Poland.
+FAU - Sitarz, Monika Z
+AU  - Sitarz MZ
+AD  - Department of Conservative Dentistry with Endodontics, Medical University of 
+      Lublin, 20-950 Lublin, Poland.
+FAU - Dudzinska, Ewa
+AU  - Dudzinska E
+AD  - Department of Dietetics and Nutrition Education, Medical University of Lublin, 
+      20-950 Lublin, Poland.
+FAU - Sitarz, Robert
+AU  - Sitarz R
+AUID- ORCID: 0000-0001-7267-9516
+AD  - Department of Normal, Clinical and Imaging Anatomy, Medical University of Lublin, 
+      20-950 Lublin, Poland.
+AD  - Department of Surgical Oncology, St. John's Cancer Center, 20-090 Lublin, Poland.
+LA  - eng
+GR  - 708, 675/Medical University of Lublin/
+PT  - Journal Article
+PT  - Review
+DEP - 20240915
+PL  - Switzerland
+TA  - Cancers (Basel)
+JT  - Cancers
+JID - 101526829
+PMC - PMC11430327
+OTO - NOTNLM
+OT  - early-onset gastric cancer
+OT  - risk factors
+OT  - therapy
+COIS- The authors declare no conflicts of interest.
+EDAT- 2024/09/28 22:45
+MHDA- 2024/09/28 22:46
+PMCR- 2024/09/15
+CRDT- 2024/09/28 01:04
+PHST- 2024/07/23 00:00 [received]
+PHST- 2024/09/06 00:00 [revised]
+PHST- 2024/09/13 00:00 [accepted]
+PHST- 2024/09/28 22:46 [medline]
+PHST- 2024/09/28 22:45 [pubmed]
+PHST- 2024/09/28 01:04 [entrez]
+PHST- 2024/09/15 00:00 [pmc-release]
+AID - cancers16183163 [pii]
+AID - cancers-16-03163 [pii]
+AID - 10.3390/cancers16183163 [doi]
+PST - epublish
+SO  - Cancers (Basel). 2024 Sep 15;16(18):3163. doi: 10.3390/cancers16183163.
+
+PMID- 39306800
+OWN - NLM
+STAT- Publisher
+LR  - 20240922
+IS  - 1549-490X (Electronic)
+IS  - 1083-7159 (Linking)
+DP  - 2024 Sep 21
+TI  - Clinicopathologic and molecular characterization of stages II-IV gastric cancer 
+      with Claudin 18.2 expression.
+LID - oyae238 [pii]
+LID - 10.1093/oncolo/oyae238 [doi]
+AB  - BACKGROUND: Claudin 18.2 (CLDN18.2) is a promising target for targeted therapies 
+      in gastric cancer (GC). This study investigated the prevalence of CLDN18.2 
+      expression in patients with stages II-IV GC or gastroesophageal junction (GEJ) 
+      adenocarcinoma and its correlation with clinicopathologic features and other 
+      crucial GC biomarkers. METHODS: We enrolled 1000 patients diagnosed with stages 
+      II-IV GC after surgical treatment. Immunohistochemistry for CLDN18 (43-14A 
+      clone), PD-L1 (22C3 pharmDx), HER2, and FGFR2 was performed. CLDN18.2 positivity 
+      was defined as moderate-to-strong (2+/3+) membranous staining in >/=75% of tumor 
+      cells. CLDN18.2 expression was compared with biomarker expression, Epstein-Barr 
+      virus (EBV) association and microsatellite instability status, and 
+      clinicopathologic features. RESULT: CLDN18.2 was positive in 34.4% of the 
+      patients. CLDN18.2 positivity was significantly higher in the middle and upper 
+      thirds than in the lower third gastric location (P < .001), but there was no 
+      correlation with age, sex, or stage (P > .05). CLDN18.2 positivity was rare 
+      (2.8%) in mucinous adenocarcinoma but frequent (90.9%) in a majority of gastric 
+      carcinomas with lymphoid stroma. CLDN18.2 positivity was higher in EBV-associated 
+      (P < .001) and PD-L1-positive (PD-L1 CPS >/= 5) GC (P = .014) but lower in HER2 
+      positive GC (P = .005). CLDN18.2 positivity was not significantly associated with 
+      overall survival and disease-free survival. CONCLUSION: This study provides a 
+      comprehensive evaluation of CLDN18.2 status and its correlation with the 
+      clinicopathologic characteristics of patients with stages II-IV GC in Korea and 
+      with crucial biomarkers. It may be valuable for guiding future drug development, 
+      expanding treatment options, and ultimately improving patient outcomes in GC.
+CI  - (c) The Author(s) 2024. Published by Oxford University Press.
+FAU - Kwak, Yoonjin
+AU  - Kwak Y
+AD  - Department of Pathology, Seoul National University Hospital, Seoul National 
+      University College of Medicine, Seoul, Korea.
+FAU - Kim, Tae-Yong
+AU  - Kim TY
+AD  - Department of Internal Medicine, Seoul National University Hospital, Seoul 
+      National University College of Medicine, Seoul, Korea.
+FAU - Nam, Soo Kyung
+AU  - Nam SK
+AD  - Department of Interdisciplinary Program in Cancer Biology, Seoul National 
+      University College of Medicine, Seoul, Korea.
+FAU - Hwang, Hye Jung
+AU  - Hwang HJ
+AD  - Department of Pathology, Seoul National University Hospital, Seoul National 
+      University College of Medicine, Seoul, Korea.
+FAU - Han, Daeyoung
+AU  - Han D
+AD  - Medical Affairs, Astellas Pharma Korea Inc., Seoul, Korea.
+FAU - Oh, Hyeon Jeong
+AU  - Oh HJ
+AD  - Department of Pathology, Seoul National University Bundang Hospital, Seongnam, 
+      Korea.
+FAU - Kong, Seong-Ho
+AU  - Kong SH
+AD  - Department of Surgery, Seoul National University Hospital, Seoul National 
+      University College of Medicine, Seoul, Korea.
+FAU - Park, Do Joong
+AU  - Park DJ
+AD  - Department of Surgery, Seoul National University Hospital, Seoul National 
+      University College of Medicine, Seoul, Korea.
+AD  - Cancer Research Institute, Seoul National University College of Medicine, Seoul, 
+      Korea.
+FAU - Oh, Do-Youn
+AU  - Oh DY
+AD  - Department of Internal Medicine, Seoul National University Hospital, Seoul 
+      National University College of Medicine, Seoul, Korea.
+AD  - Department of Interdisciplinary Program in Cancer Biology, Seoul National 
+      University College of Medicine, Seoul, Korea.
+AD  - Cancer Research Institute, Seoul National University College of Medicine, Seoul, 
+      Korea.
+FAU - Lee, Hyuk-Joon
+AU  - Lee HJ
+AUID- ORCID: 0000-0002-9530-647X
+AD  - Department of Surgery, Seoul National University Hospital, Seoul National 
+      University College of Medicine, Seoul, Korea.
+AD  - Cancer Research Institute, Seoul National University College of Medicine, Seoul, 
+      Korea.
+FAU - Im, Seock-Ah
+AU  - Im SA
+AD  - Department of Internal Medicine, Seoul National University Hospital, Seoul 
+      National University College of Medicine, Seoul, Korea.
+AD  - Department of Interdisciplinary Program in Cancer Biology, Seoul National 
+      University College of Medicine, Seoul, Korea.
+AD  - Cancer Research Institute, Seoul National University College of Medicine, Seoul, 
+      Korea.
+FAU - Yang, Han-Kwang
+AU  - Yang HK
+AUID- ORCID: 0000-0003-3495-3048
+AD  - Department of Surgery, Seoul National University Hospital, Seoul National 
+      University College of Medicine, Seoul, Korea.
+AD  - Cancer Research Institute, Seoul National University College of Medicine, Seoul, 
+      Korea.
+FAU - Lee, Hye Seung
+AU  - Lee HS
+AUID- ORCID: 0000-0002-1667-7986
+AD  - Department of Pathology, Seoul National University Hospital, Seoul National 
+      University College of Medicine, Seoul, Korea.
+AD  - Department of Interdisciplinary Program in Cancer Biology, Seoul National 
+      University College of Medicine, Seoul, Korea.
+AD  - Cancer Research Institute, Seoul National University College of Medicine, Seoul, 
+      Korea.
+LA  - eng
+PT  - Journal Article
+DEP - 20240921
+PL  - England
+TA  - Oncologist
+JT  - The oncologist
+JID - 9607837
+SB  - IM
+OTO - NOTNLM
+OT  - Epstein-Barr virus
+OT  - HER2
+OT  - PD-L1
+OT  - claudin 18.2
+OT  - gastric cancer
+OT  - immunohistochemistry
+OT  - microsatellite instability
+EDAT- 2024/09/22 16:20
+MHDA- 2024/09/22 16:20
+CRDT- 2024/09/22 10:42
+PHST- 2024/04/06 00:00 [received]
+PHST- 2024/08/01 00:00 [accepted]
+PHST- 2024/09/22 16:20 [medline]
+PHST- 2024/09/22 16:20 [pubmed]
+PHST- 2024/09/22 10:42 [entrez]
+AID - 7764129 [pii]
+AID - 10.1093/oncolo/oyae238 [doi]
+PST - aheadofprint
+SO  - Oncologist. 2024 Sep 21:oyae238. doi: 10.1093/oncolo/oyae238.
+
+PMID- 39283078
+OWN - NLM
+STAT- Publisher
+LR  - 20240916
+IS  - 2379-5077 (Electronic)
+IS  - 2379-5077 (Linking)
+DP  - 2024 Sep 16
+TI  - HCMV detection in Asian gastric cancer RNA-seq data sets and clinical validation 
+      in Indian GC patients reveals the HCMV-GC specific gene signatures.
+PG  - e0067324
+LID - 10.1128/msystems.00673-24 [doi]
+AB  - Gastric cancer (GC) prevalence is very high in the Asian population. Oncogenic 
+      viruses play a crucial role in the progression of different types of cancers. 
+      Through reanalysis of clinical RNA-seq data sets derived from Asian GC patients, 
+      this study identified the presence of human cytomegalovirus (HCMV) in Asian GC 
+      tumors, next to the well-studied association of EBV. Clinical recruitment of the 
+      Indian GC cohort and screening for HCMV presence identified a 14.28% occurrence, 
+      similar to that observed in the bioinformatics analysis. A combinatorial approach 
+      of rank-based meta-analysis and ranking of groups based on an 
+      expectation-maximization algorithm identified that the upregulated LINC02864 and 
+      MAGEA10 correlated with poor survival of GC patients and downregulated tumor 
+      suppressor genes enriching for gastric acid secretion pathway to be associated 
+      with HCMV-positive GC patients, revealing the progressive role of HCMV infection 
+      in GC. Genes that discriminate between different stages of GC were identified 
+      through feature selection implemented in a machine-learning approach. LTF and 
+      KLK10 expressions were found to be specifically dysregulated by HCMV and can also 
+      indicate the GC stages. The results of this study will guide future studies to 
+      identify the functional role of these genes in the HCMV-associated 
+      GC.IMPORTANCENearly 75% of gastric cancer (GC) cases reported globally are from 
+      the Asian population. Most existing public databases, such as TCGA, comprise only 
+      a fractional portion of data derived from Asian ancestry. This study identified 
+      EBV and human cytomegalovirus (HCMV)'s higher detection in GC patients. The 
+      presence and role of EBV associated with GC are well-known, and the observation 
+      of HCMV prompted us to validate the findings in a small cohort of 40 Indian GC 
+      patients. We observed a 14.28% occurrence of HCMV in the Indian cohort, similar 
+      to that observed from next-generation sequencing. A combinatorial approach of 
+      rank-based meta-analysis and ranking of groups based on an 
+      expectation-maximization algorithm identified that the upregulated LINC02864 and 
+      MAGEA10 correlated with poor survival of GC patients and downregulated tumor 
+      suppressor genes enriching for gastric acid secretion pathway to be associated 
+      with HCMV-positive GC patients, revealing the progressive role of HCMV infection 
+      in GC.
+FAU - Krishnamoorthy, Pandikannan
+AU  - Krishnamoorthy P
+AUID- ORCID: 0000-0001-9751-4443
+AD  - Department of Biological Sciences, Laboratory of Immunology and Infectious 
+      Disease Biology, Indian Institute of Science Education and Research (IISER) 
+      Bhopal, Bhopal, Madhya Pradesh, India.
+FAU - Raj, Athira S
+AU  - Raj AS
+AD  - Department of Biological Sciences, Laboratory of Immunology and Infectious 
+      Disease Biology, Indian Institute of Science Education and Research (IISER) 
+      Bhopal, Bhopal, Madhya Pradesh, India.
+FAU - Das, Nilanjana
+AU  - Das N
+AD  - Department of Biological Sciences, Laboratory of Immunology and Infectious 
+      Disease Biology, Indian Institute of Science Education and Research (IISER) 
+      Bhopal, Bhopal, Madhya Pradesh, India.
+FAU - Chenkual, Saia
+AU  - Chenkual S
+AD  - Department of Surgery, Zoram Medical College, Falkawn, Mizoram, India.
+FAU - Pautu, Jeremy L
+AU  - Pautu JL
+AD  - Department of Medical Oncology, Mizoram State Cancer Institute, Zemabawk, 
+      Mizoram, India.
+FAU - Ralte, Lalengkimi
+AU  - Ralte L
+AD  - Department of Biotechnology, Mizoram University, Aizawl, Mizoram, India.
+FAU - Senthil Kumar, Nachimuthu
+AU  - Senthil Kumar N
+AD  - Department of Biotechnology, Mizoram University, Aizawl, Mizoram, India.
+FAU - Kumar, Himanshu
+AU  - Kumar H
+AUID- ORCID: 0000-0001-5246-2694
+AD  - Department of Biological Sciences, Laboratory of Immunology and Infectious 
+      Disease Biology, Indian Institute of Science Education and Research (IISER) 
+      Bhopal, Bhopal, Madhya Pradesh, India.
+AD  - Laboratory of Host Defense, WPI Immunology, Frontier Research Centre, Osaka 
+      University, Osaka, Japan.
+LA  - eng
+PT  - Journal Article
+DEP - 20240916
+PL  - United States
+TA  - mSystems
+JT  - mSystems
+JID - 101680636
+SB  - IM
+OTO - NOTNLM
+OT  - HCMV
+OT  - RNA-seq
+OT  - clinical screening
+OT  - gastric cancer
+OT  - meta-analysis
+EDAT- 2024/09/17 10:44
+MHDA- 2024/09/17 10:44
+CRDT- 2024/09/16 09:03
+PHST- 2024/09/17 10:44 [medline]
+PHST- 2024/09/17 10:44 [pubmed]
+PHST- 2024/09/16 09:03 [entrez]
+AID - 10.1128/msystems.00673-24 [doi]
+PST - aheadofprint
+SO  - mSystems. 2024 Sep 16:e0067324. doi: 10.1128/msystems.00673-24.
+
+PMID- 39261055
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240911
+LR  - 20240911
+IS  - 0446-6586 (Print)
+IS  - 0446-6586 (Linking)
+VI  - 121
+IP  - 9
+DP  - 2024
+TI  - [Efficacy of nivolumab in combination with chemotherapy after radiotherapy for 
+      meningeal carcinomatosis in patients with Epstein-Barr virus-associated gastric 
+      cancer:a case report].
+PG  - 745-753
+LID - 10.11405/nisshoshi.121.745 [doi]
+AB  - A 62-year-old man presented with fever and anorexia since July X. Initial 
+      treatments were rendered ineffective, and due to altered consciousness and 
+      vomiting, he was referred to our hospital. On admission, he manifested delirium, 
+      drowsiness, and disorientation. While blood tests were normal, gastroscopy 
+      identified a type 3 tumor in his lower gastric body, later diagnosed as a poorly 
+      differentiated adenocarcinoma. Immunohistochemistry demonstrated negative human 
+      epidermal growth factor receptor 2 and positive programmed death-ligand 1 
+      expression with a combined positive score >/=5. Furthermore, a positive 
+      Epstein-Barr virus-encoded small RNA in situ hybridization result was noted. 
+      Abdominal contrast-enhanced CT and PET-CT scans demonstrated multiple lymph node 
+      metastases around the stomach and liver, establishing the diagnosis of stage IVB 
+      gastric cancer (T4aN2M1). Brain magnetic resonance imaging (MRI) demonstrated 
+      enhanced lesions in the brainstem, cerebellar sulci, and right occipital lobe. 
+      Although cerebrospinal fluid cytology was negative for malignancy, the clinical 
+      symptoms and MRI findings confirmed leptomeningeal carcinomatosis (LMC). The 
+      patient underwent radiotherapy for LMC (total of 30Gy in 10 fractions), followed 
+      by combination therapy with a nivolumab and SOX regimen. Posttreatment, the LMC 
+      symptoms resolved;however, he experienced grade 3 immune-related adverse events 
+      related to liver dysfunction. Nivolumab was discontinued, and with steroid 
+      administration, the adverse events improved. Imaging evaluations posttreatment 
+      showed gastric tumor reduction and the absence of LMC. After 7 cycles, nivolumab 
+      was reintroduced, with no liver dysfunction recurrence noted through 15 cycles. 
+      Endoscopic examination 1 year postonset demonstrated that the gastric tumor had 
+      scarred, and MRI showed no signs of LMC recurrence. In 5-8% of solid tumors, LMC 
+      complications are present, resulting in limited treatment options and poor 
+      prognosis. Recent reports suggest the potential of immune checkpoint inhibitors 
+      in treating intracranial metastasis from solid tumors. In Japan, nivolumab was 
+      approved for gastric cancer treatment in 2017 and for first-line therapy in 
+      combination with chemotherapy since 2021. We report a case in which radiotherapy 
+      and chemotherapy combined with nivolumab provided durable control of LMC 
+      originating from gastric cancer for more than 1 year.
+FAU - Kakinoki, Kaheita
+AU  - Kakinoki K
+AD  - Department of Gastroenterology, Public Central Hospital of Matto Ishikawa.
+FAU - Asai, Jun
+AU  - Asai J
+AD  - Department of Gastroenterology, Public Central Hospital of Matto Ishikawa.
+FAU - Kida, Akihiko
+AU  - Kida A
+AD  - Department of Gastroenterology, Public Central Hospital of Matto Ishikawa.
+FAU - Ogawa, Norihiko
+AU  - Ogawa N
+AD  - Department of Gastroenterology, Public Central Hospital of Matto Ishikawa.
+FAU - Niwa, Hideki
+AU  - Niwa H
+AD  - Department of Diagnostic Pathology, Public Central Hospital of Matto Ishikawa.
+FAU - Futatsuya, Chizuru
+AU  - Futatsuya C
+AD  - Department of Diagnostic Pathology, Public Central Hospital of Matto Ishikawa.
+FAU - Urabe, Takeshi
+AU  - Urabe T
+AD  - Department of Gastroenterology, Public Central Hospital of Matto Ishikawa.
+LA  - jpn
+PT  - Case Reports
+PT  - English Abstract
+PT  - Journal Article
+PL  - Japan
+TA  - Nihon Shokakibyo Gakkai Zasshi
+JT  - Nihon Shokakibyo Gakkai zasshi = The Japanese journal of gastro-enterology
+JID - 2984683R
+RN  - 31YO63LBSN (Nivolumab)
+SB  - IM
+MH  - Humans
+MH  - Male
+MH  - *Stomach Neoplasms
+MH  - Middle Aged
+MH  - *Nivolumab/therapeutic use/administration & dosage
+MH  - *Meningeal Carcinomatosis/secondary
+MH  - *Epstein-Barr Virus Infections/complications
+MH  - Treatment Outcome
+MH  - Herpesvirus 4, Human/isolation & purification
+EDAT- 2024/09/12 00:42
+MHDA- 2024/09/12 00:43
+CRDT- 2024/09/11 21:33
+PHST- 2024/09/12 00:43 [medline]
+PHST- 2024/09/12 00:42 [pubmed]
+PHST- 2024/09/11 21:33 [entrez]
+AID - 10.11405/nisshoshi.121.745 [doi]
+PST - ppublish
+SO  - Nihon Shokakibyo Gakkai Zasshi. 2024;121(9):745-753. doi: 
+      10.11405/nisshoshi.121.745.
+
+PMID- 39242811
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240907
+LR  - 20240916
+IS  - 2045-2322 (Electronic)
+IS  - 2045-2322 (Linking)
+VI  - 14
+IP  - 1
+DP  - 2024 Sep 6
+TI  - High levels of tumor cell-intrinsic STING signaling are associated with increased 
+      infiltration of CD8(+) T cells in dMMR/MSI-H gastric cancer.
+PG  - 20859
+LID - 10.1038/s41598-024-71974-3 [doi]
+LID - 20859
+AB  - Mismatch repair deficient (dMMR)/microsatellite instability-high (MSI-H) gastric 
+      cancer (GC) exhibits an immune-active tumor microenvironment (TME) compared to 
+      MMR proficient (pMMR)/microsatellite stable/Epstein-Barr virus-negative [EBV (-)] 
+      GC. The tumor cell-intrinsic cyclic GMP-AMP synthase (cGAS)-stimulator of 
+      interferon genes (STING) pathway has been considered a key regulator of immune 
+      cell activation in the TME. However, its significance in regulating the 
+      immune-active TME in dMMR/MSI-H GC remains unclear. Here, we demonstrated that 
+      tumor cell-intrinsic cGAS-STING was highly expressed in dMMR GC compared to 
+      pMMR/EBV (-) GC. The expression of tumor cell-intrinsic STING was significantly 
+      and positively associated with the number of CD8(+) tumor-infiltrating 
+      lymphocytes in GC. Analysis of TCGA datasets revealed that the expression of 
+      interferon-stimulated genes and STING downstream T-cell attracting chemokines was 
+      significantly higher in MSI-H GC compared to other subtypes of GC with EBV (-). 
+      These results suggest that tumor cell-intrinsic STING signaling plays a key role 
+      in activating immune cells in the dMMR/MSI-H GC TME and might serve as a novel 
+      biomarker predicting the efficacy of immunotherapy for GC treatment.
+CI  - (c) 2024. The Author(s).
+FAU - Kanoda, Ryo
+AU  - Kanoda R
+AD  - Department of Gastrointestinal Tract Surgery, Fukushima Medical University School 
+      of Medicine, Fukushima, Japan.
+FAU - Nakajima, Shotaro
+AU  - Nakajima S
+AD  - Department of Gastrointestinal Tract Surgery, Fukushima Medical University School 
+      of Medicine, Fukushima, Japan. ipsho555@gmail.com.
+AD  - Department of Multidisciplinary Treatment of Cancer and Regional Medical Support, 
+      Fukushima Medical University School of Medicine, 1 Hikariga-Oka, Fukushima City, 
+      Fukushima, 960-1295, Japan. ipsho555@gmail.com.
+FAU - Fukai, Satoshi
+AU  - Fukai S
+AD  - Department of Gastrointestinal Tract Surgery, Fukushima Medical University School 
+      of Medicine, Fukushima, Japan.
+FAU - Saito, Motonobu
+AU  - Saito M
+AD  - Department of Gastrointestinal Tract Surgery, Fukushima Medical University School 
+      of Medicine, Fukushima, Japan.
+FAU - Saito, Katsuharu
+AU  - Saito K
+AD  - Department of Gastrointestinal Tract Surgery, Fukushima Medical University School 
+      of Medicine, Fukushima, Japan.
+FAU - Suzuki, Hiroya
+AU  - Suzuki H
+AD  - Department of Gastrointestinal Tract Surgery, Fukushima Medical University School 
+      of Medicine, Fukushima, Japan.
+FAU - Kikuchi, Tomohiro
+AU  - Kikuchi T
+AD  - Department of Gastrointestinal Tract Surgery, Fukushima Medical University School 
+      of Medicine, Fukushima, Japan.
+FAU - Nirei, Azuma
+AU  - Nirei A
+AD  - Department of Gastrointestinal Tract Surgery, Fukushima Medical University School 
+      of Medicine, Fukushima, Japan.
+FAU - Okayama, Hirokazu
+AU  - Okayama H
+AD  - Department of Gastrointestinal Tract Surgery, Fukushima Medical University School 
+      of Medicine, Fukushima, Japan.
+FAU - Mimura, Kosaku
+AU  - Mimura K
+AD  - Department of Gastrointestinal Tract Surgery, Fukushima Medical University School 
+      of Medicine, Fukushima, Japan.
+AD  - Department of Blood Transfusion and Transplantation Immunology, Fukushima Medical 
+      University School of Medicine, Fukushima, Japan.
+FAU - Hanayama, Hiroyuki
+AU  - Hanayama H
+AD  - Department of Gastrointestinal Tract Surgery, Fukushima Medical University School 
+      of Medicine, Fukushima, Japan.
+FAU - Sakamoto, Wataru
+AU  - Sakamoto W
+AD  - Department of Gastrointestinal Tract Surgery, Fukushima Medical University School 
+      of Medicine, Fukushima, Japan.
+FAU - Momma, Tomoyuki
+AU  - Momma T
+AD  - Department of Gastrointestinal Tract Surgery, Fukushima Medical University School 
+      of Medicine, Fukushima, Japan.
+FAU - Saze, Zenichiro
+AU  - Saze Z
+AD  - Department of Gastrointestinal Tract Surgery, Fukushima Medical University School 
+      of Medicine, Fukushima, Japan.
+FAU - Kono, Koji
+AU  - Kono K
+AD  - Department of Gastrointestinal Tract Surgery, Fukushima Medical University School 
+      of Medicine, Fukushima, Japan.
+AD  - Department of Multidisciplinary Treatment of Cancer and Regional Medical Support, 
+      Fukushima Medical University School of Medicine, 1 Hikariga-Oka, Fukushima City, 
+      Fukushima, 960-1295, Japan.
+LA  - eng
+GR  - 23K08177/Japan Society for the Promotion of Science/
+PT  - Journal Article
+DEP - 20240906
+PL  - England
+TA  - Sci Rep
+JT  - Scientific reports
+JID - 101563288
+RN  - 0 (Membrane Proteins)
+RN  - 0 (STING1 protein, human)
+RN  - EC 2.7.7.- (Nucleotidyltransferases)
+RN  - EC 2.7.7.- (cGAS protein, human)
+SB  - IM
+MH  - *Stomach Neoplasms/genetics/immunology/pathology/metabolism
+MH  - Humans
+MH  - *Membrane Proteins/metabolism/genetics
+MH  - *Signal Transduction
+MH  - *CD8-Positive T-Lymphocytes/immunology/metabolism
+MH  - *Lymphocytes, Tumor-Infiltrating/immunology/metabolism
+MH  - *Tumor Microenvironment/immunology
+MH  - *Microsatellite Instability
+MH  - Male
+MH  - Female
+MH  - DNA Mismatch Repair/genetics
+MH  - Middle Aged
+MH  - Nucleotidyltransferases/metabolism/genetics
+MH  - Gene Expression Regulation, Neoplastic
+MH  - Aged
+PMC - PMC11379867
+OTO - NOTNLM
+OT  - CD8+ tumor-infiltrating lymphocytes
+OT  - Cyclic GMP-AMP synthase-stimulator of interferon genes
+OT  - Gastric cancer
+OT  - Mismatch repair deficient
+OT  - Tumor microenvironment
+COIS- The authors declare no competing interests.
+EDAT- 2024/09/07 14:42
+MHDA- 2024/09/07 14:43
+PMCR- 2024/09/06
+CRDT- 2024/09/06 23:46
+PHST- 2024/04/26 00:00 [received]
+PHST- 2024/09/02 00:00 [accepted]
+PHST- 2024/09/07 14:43 [medline]
+PHST- 2024/09/07 14:42 [pubmed]
+PHST- 2024/09/06 23:46 [entrez]
+PHST- 2024/09/06 00:00 [pmc-release]
+AID - 10.1038/s41598-024-71974-3 [pii]
+AID - 71974 [pii]
+AID - 10.1038/s41598-024-71974-3 [doi]
+PST - epublish
+SO  - Sci Rep. 2024 Sep 6;14(1):20859. doi: 10.1038/s41598-024-71974-3.
+
+PMID- 39228892
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240904
+LR  - 20240906
+IS  - 2235-2988 (Electronic)
+IS  - 2235-2988 (Linking)
+VI  - 14
+DP  - 2024
+TI  - Global transcriptomic network analysis of the crosstalk between microbiota and 
+      cancer-related cells in the oral-gut-lung axis.
+PG  - 1425388
+LID - 10.3389/fcimb.2024.1425388 [doi]
+LID - 1425388
+AB  - BACKGROUND: The diagnosis and treatment of lung, colon, and gastric cancer 
+      through the histologic characteristics and genomic biomarkers have not had a 
+      strong impact on the mortality rates of the top three global causes of death by 
+      cancer. METHODS: Twenty-five transcriptomic analyses (10 lung cancer, 10 gastric 
+      cancer, and 5 colon cancer datasets) followed our own bioinformatic pipeline 
+      based on the utilization of specialized libraries from the R language and DAVID s 
+      gene enrichment analyses to identify a regulatory metafirm network of 
+      transcription factors and target genes common in every type of cancer, with 
+      experimental evidence that supports its relationship with the unlocking of cell 
+      phenotypic plasticity for the acquisition of the hallmarks of cancer during the 
+      tumoral process. The network's regulatory functional and signaling pathways might 
+      depend on the constant crosstalk with the microbiome network established in the 
+      oral-gut-lung axis. RESULTS: The global transcriptomic network analysis 
+      highlighted the impact of transcription factors (SOX4, TCF3, TEAD4, ETV4, and 
+      FOXM1) that might be related to stem cell programming and cancer progression 
+      through the regulation of the expression of genes, such as cancer-cell membrane 
+      receptors, that interact with several microorganisms, including human T-cell 
+      leukemia virus 1 (HTLV-1), the human papilloma virus (HPV), the Epstein-Barr 
+      virus (EBV), and SARS-CoV-2. These interactions can trigger the MAPK, 
+      non-canonical WNT, and IFN signaling pathways, which regulate key transcription 
+      factor overexpression during the establishment and progression of lung, colon, 
+      and gastric cancer, respectively, along with the formation of the microbiome 
+      network. CONCLUSION: The global transcriptomic network analysis highlights the 
+      important interaction between key transcription factors in lung, colon, and 
+      gastric cancer, which regulates the expression of cancer-cell membrane receptors 
+      for the interaction with the microbiome network during the tumorigenic process.
+CI  - Copyright (c) 2024 Otalora-Otalora, Payan-Gomez, Lopez-Rivera, Pedroza-Aconcha, 
+      Aristizabal-Guzman, Isaza-Ruget and Alvarez-Moreno.
+FAU - Otalora-Otalora, Beatriz Andrea
+AU  - Otalora-Otalora BA
+AD  - Grupo de Investigacion INPAC, Unidad de Investigacion, Fundacion Universitaria 
+      Sanitas, Bogota, Colombia.
+FAU - Payan-Gomez, Cesar
+AU  - Payan-Gomez C
+AD  - Direccion Academica, Universidad Nacional de Colombia, Sede de La Paz, La Paz, 
+      Colombia.
+FAU - Lopez-Rivera, Juan Javier
+AU  - Lopez-Rivera JJ
+AD  - Grupo de Investigacion INPAC, Specialized Laboratory, Clinica Universitaria 
+      Colombia, Clinica Colsanitas S.A., Bogota, Colombia.
+FAU - Pedroza-Aconcha, Natalia Belen
+AU  - Pedroza-Aconcha NB
+AD  - Direccion Academica, Universidad Nacional de Colombia, Sede de La Paz, La Paz, 
+      Colombia.
+FAU - Aristizabal-Guzman, Claudia
+AU  - Aristizabal-Guzman C
+AD  - Grupo de Investigacion INPAC, Unidad de Investigacion, Fundacion Universitaria 
+      Sanitas, Bogota, Colombia.
+FAU - Isaza-Ruget, Mario Arturo
+AU  - Isaza-Ruget MA
+AD  - Keralty, Sanitas International Organization, Grupo de Investigacion INPAC, 
+      Fundacion Universitaria Sanitas, Bogota, Colombia.
+FAU - Alvarez-Moreno, Carlos Arturo
+AU  - Alvarez-Moreno CA
+AD  - Infectious Diseases Department, Clinica Universitaria Colombia, Clinica 
+      Colsanitas S.A., Bogota, Colombia.
+LA  - eng
+PT  - Journal Article
+DEP - 20240820
+PL  - Switzerland
+TA  - Front Cell Infect Microbiol
+JT  - Frontiers in cellular and infection microbiology
+JID - 101585359
+RN  - 0 (Transcription Factors)
+SB  - IM
+MH  - Humans
+MH  - *Gene Expression Profiling
+MH  - *Transcriptome
+MH  - *Gene Regulatory Networks
+MH  - Lung Neoplasms/microbiology/genetics
+MH  - Transcription Factors/genetics/metabolism
+MH  - Computational Biology
+MH  - Lung/microbiology/pathology
+MH  - Mouth/microbiology
+MH  - Signal Transduction
+MH  - Gastrointestinal Microbiome/genetics
+MH  - Microbiota/genetics
+MH  - Stomach Neoplasms/microbiology/genetics
+MH  - Gene Expression Regulation, Neoplastic
+PMC - PMC11368877
+OTO - NOTNLM
+OT  - cancer-related cells membrane receptors
+OT  - gut-lung cancer
+OT  - hallmarks of cancer
+OT  - microbiota
+OT  - oral-gut-lung axis
+OT  - transcription factors
+OT  - transcriptional regulatory network
+COIS- Authors JL-R and CA-M were employed by the company Clinica Colsanitas S.A. The 
+      remaining authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2024/09/04 06:42
+MHDA- 2024/09/04 06:43
+PMCR- 2024/01/01
+CRDT- 2024/09/04 04:30
+PHST- 2024/04/29 00:00 [received]
+PHST- 2024/07/15 00:00 [accepted]
+PHST- 2024/09/04 06:43 [medline]
+PHST- 2024/09/04 06:42 [pubmed]
+PHST- 2024/09/04 04:30 [entrez]
+PHST- 2024/01/01 00:00 [pmc-release]
+AID - 10.3389/fcimb.2024.1425388 [doi]
+PST - epublish
+SO  - Front Cell Infect Microbiol. 2024 Aug 20;14:1425388. doi: 
+      10.3389/fcimb.2024.1425388. eCollection 2024.
+
+PMID- 39096336
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240909
+LR  - 20240909
+IS  - 1572-994X (Electronic)
+IS  - 0920-8569 (Linking)
+VI  - 60
+IP  - 5
+DP  - 2024 Oct
+TI  - Stearoyl-CoA desaturase 1 is targeted by EBV-encoded miR-BART20-5p and regulates 
+      cell autophagy, proliferation, and migration in EBV-associated gastric cancer.
+PG  - 464-474
+LID - 10.1007/s11262-024-02094-3 [doi]
+AB  - Epstein-Barr virus (EBV) is the first human oncogenic virus known to express 
+      microRNAs (miRNAs), which are closely associated with the development of various 
+      tumors, including nasopharyngeal and gastric cancers. Stearoyl-CoA Desaturase 1 
+      (SCD1) is a key enzyme in fatty acid synthesis, highly expressed in numerous 
+      tumors, promoting tumor growth and metastasis, making it a potential therapeutic 
+      target. In this study, we found that SCD1 expression in EBV-associated gastric 
+      cancer (EBVaGC) was significantly lower than in EBV-negative gastric cancer 
+      (EBVnGC) at both cellular and tissue levels. In addition, EBV-miR-BART20-5p 
+      targets the 3'-UTR of SCD1, downregulating its expression. Moreover, 
+      overexpression of SCD1 in EBVaGC cells promoted cell migration and proliferation 
+      while inhibiting autophagy. These results suggest that EBV-encoded 
+      miRNA-BART20-5p may contribute to EBVaGC progression by targeting SCD1.
+CI  - (c) 2024. The Author(s), under exclusive licence to Springer Science+Business 
+      Media, LLC, part of Springer Nature.
+FAU - Gong, Zhiyuan
+AU  - Gong Z
+AD  - Department of Pathogenic Biology, School of Basic Medicine, Qingdao University, 
+      Qingdao, 266071, China.
+FAU - Shi, Duo
+AU  - Shi D
+AD  - Department of Pathogenic Biology, School of Basic Medicine, Qingdao University, 
+      Qingdao, 266071, China.
+FAU - Yan, Zhiyong
+AU  - Yan Z
+AD  - Department of Pathogenic Biology, School of Basic Medicine, Qingdao University, 
+      Qingdao, 266071, China.
+FAU - Sun, Lingling
+AU  - Sun L
+AD  - Department of Pathology of the Affiliated Hospital of Qingdao University, 16 
+      Jiangsu Road, Qingdao, 266003, China.
+FAU - Liu, Wen
+AU  - Liu W
+AD  - Department of Pathogenic Biology, School of Basic Medicine, Qingdao University, 
+      Qingdao, 266071, China. liu.wen@hotmail.com.
+FAU - Luo, Bing
+AU  - Luo B
+AD  - Department of Pathogenic Biology, School of Basic Medicine, Qingdao University, 
+      Qingdao, 266071, China. qdluobing@163.com.
+LA  - eng
+GR  - ZR2021MC068/Natural Science Foundation of Shandong Province/
+GR  - ZR2020MH302/Natural Science Foundation of Shandong Province/
+GR  - 32370177/National Natural Science Foundation of China/
+PT  - Journal Article
+DEP - 20240803
+PL  - United States
+TA  - Virus Genes
+JT  - Virus genes
+JID - 8803967
+RN  - 0 (MicroRNAs)
+RN  - EC 1.14.19.1 (Stearoyl-CoA Desaturase)
+RN  - EC 1.14.19.1 (SCD1 protein, human)
+RN  - 0 (3' Untranslated Regions)
+RN  - 0 (RNA, Viral)
+SB  - IM
+MH  - Humans
+MH  - *Stomach Neoplasms/virology/genetics/pathology
+MH  - *MicroRNAs/genetics
+MH  - *Stearoyl-CoA Desaturase/genetics
+MH  - *Autophagy/genetics
+MH  - *Cell Movement/genetics
+MH  - *Herpesvirus 4, Human/genetics
+MH  - *Cell Proliferation/genetics
+MH  - Cell Line, Tumor
+MH  - Epstein-Barr Virus Infections/virology/genetics
+MH  - Gene Expression Regulation, Neoplastic
+MH  - 3' Untranslated Regions/genetics
+MH  - RNA, Viral/genetics
+OTO - NOTNLM
+OT  - Epstein-Barr virus
+OT  - Gastric cancer
+OT  - Stearoyl CoA desaturase 1
+OT  - miR-BART20-5p
+EDAT- 2024/08/04 13:43
+MHDA- 2024/09/09 12:44
+CRDT- 2024/08/03 11:03
+PHST- 2024/02/21 00:00 [received]
+PHST- 2024/07/26 00:00 [accepted]
+PHST- 2024/09/09 12:44 [medline]
+PHST- 2024/08/04 13:43 [pubmed]
+PHST- 2024/08/03 11:03 [entrez]
+AID - 10.1007/s11262-024-02094-3 [pii]
+AID - 10.1007/s11262-024-02094-3 [doi]
+PST - ppublish
+SO  - Virus Genes. 2024 Oct;60(5):464-474. doi: 10.1007/s11262-024-02094-3. Epub 2024 
+      Aug 3.

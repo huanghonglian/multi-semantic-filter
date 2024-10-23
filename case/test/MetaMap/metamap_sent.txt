@@ -1,0 +1,118 @@
+pmid	sen_id	sentence
+39426639	39426639_ti1	The Role of c-Myc in Epstein-Barr Virus-Associated Cancers: Mechanistic Insights        and Therapeutic Implications. 
+39426639	39426639_ab1	c-Myc is an important proto-oncogene belonging to the MYC family. 
+39426639	39426639_ab2	In normal        conditions, c-Myc regulates different aspects of cellular function. 
+39426639	39426639_ab3	However, its        dysregulation can result in the development of cancer due to various mechanisms.  
+39426639	39426639_ab4	Epstein-Barr virus is a ubiquitous viral pathogen that infects a huge proportion        of the global population. 
+39426639	39426639_ab5	This virus is linked to various cancers, such as        different types of lymphoma, nasopharyngeal, and gastric cancers. 
+39426639	39426639_ab6	It can        manipulate host cells, and many cellular and viral genes are important in the        Epstein-Barr virus carcinogenesis. 
+39426639	39426639_ab7	This review explores the complex relationship        between c-Myc and Epstein-Barr virus in the context of cancer development. 
+39426639	39426639_ab8	Also,        potential therapeutic strategies targeting c-Myc to treat EBV-related cancers are        discussed.
+39348958	39348958_ti1	Predictive Biomarkers of Lymph Node Metastasis in Early Gastric Cancer: A        Reference of Clinicopathological Characteristics, Protein Expression,        Epstein-Barr Virus Status, and Microsatellite Instability. 
+39348958	39348958_ab1	BACKGROUND/AIM: Predicting lymph node metastasis (LNM) in early gastric cancer        (EGC) is crucial for making treatment decisions. 
+39348958	39348958_ab2	This study aimed to confirm risk        factors for LNM and identify novel auxiliary biomarkers for predicting LNM in        EGC. 
+39348958	39348958_ab3	PATIENTS AND METHODS: We established a training set, comprising 63 patients        with LNM-EGC and 274 patients with non-LNM EGC, and a test set, comprising 19        patients with LNM-EGC and 146 non-LNM EGC. 
+39348958	39348958_ab4	Immunohistochemistry for        lymphangiogenic and related pathway components (VEGF-C, TGF-beta1, SMAD2/3, VEGF-D,        pSTAT3, E-cadherin, CD44, c-MET, YAP, and HER2), in situ hybridization for        Epstein-Barr virus-encoded small RNAs, and multiplex PCR for microsatellite        instability were conducted. 
+39348958	39348958_ab5	RESULTS: In the training set, Lauren's diffuse/mixed        classification, stromal desmoplasia, submucosal invasion >/=500 mum, lymphatic        invasion, and high VEGF-C and SMAD2/3 expression were independent risk factors        for LNM (p<0.05). 
+39348958	39348958_ab6	A large tumor size, mixed histology, submucosal invasion,        perineural invasion, and ulceration were determined as risk factors using        univariate analysis (p<0.05). 
+39348958	39348958_ab7	The tumor cutoff size for predicting LNM was 2.65        cm, based on a ROC analysis. 
+39348958	39348958_ab8	The test set study verified that stromal        desmoplasia, submucosal invasion, and high VEGF-C expression were independent        risk factors for LNM (p<0.05). 
+39348958	39348958_ab9	Moreover, mixed histology, lymphatic invasion,        ulceration, and high SMAD 2/3 expression were identified as additional risk        factors using univariate analysis (p<0.05). 
+39348958	39348958_ab10	CONCLUSION: Stromal desmoplasia,        submucosal invasion, and high VEGF-C expression are potential biomarkers for LNM        in EGC. 
+39348958	39348958_ab11	VEGF-C expression might serve as an adjunct biomarker for predicting LNM        on forceps-biopsy tissue at initial diagnosis.
+39338919	39338919_ti1	Unlocking the Potential: Epstein-Barr Virus (EBV) in Gastric Cancer and Future        Treatment Prospects, a Literature Review. 
+39338919	39338919_ti2	LID - 10.3390/pathogens13090728 [doi] LID - 728 
+39338919	39338919_ab1	Gastric cancer (GC) is a complex disease with various etiologies. 
+39338919	39338919_ab2	While        Helicobacter pylori infection is still one of the leading risk factors for GC,        increasing evidence suggests a link between GC and other infective agents such as        Epstein Bar Virus (EBV). 
+39338919	39338919_ab3	EBV-associated gastric cancer (EBVaGC) is now recognized        as a distinct subgroup of GC, and the complex interactions between the virus and        gastric mucosa may influence its development. 
+39338919	39338919_ab4	A recent integrative analysis of        the genome and proteome of GC tissues by The Cancer Genome Atlas project has        identified EBVaGC as a specific subtype characterized by PIK3CA and ARID1A        mutations, extensive DNA hyper-methylation, and activation of immune signaling        pathways. 
+39338919	39338919_ab5	These molecular characteristics are markers of the unique molecular        profile of this subset of GC and are potential targets for therapy. 
+39338919	39338919_ab6	This review        aims to provide an overview of the current knowledge on EBVaGC. 
+39338919	39338919_ab7	It will focus on        the epidemiology, clinic-pathological features, and genetic characteristics of        EBVaGC. 
+39338919	39338919_ab8	Additionally, it will discuss recent data indicating the potential use of        EBV infection as a predictive biomarker of response to chemotherapy and immune        checkpoint inhibitors. 
+39338919	39338919_ab9	The review also delves into potential therapeutic        approaches for EBVaGC, including targeted therapies and adoptive immunotherapy,        highlighting the promising potential of EBV as a therapeutic target.
+39335135	39335135_ti1	Gastric Cancer: An Up-to-Date Review with New Insights into Early-Onset Gastric        Cancer. 
+39335135	39335135_ti2	LID - 10.3390/cancers16183163 [doi] LID - 3163 
+39335135	39335135_ab1	Gastric cancer (GC) is the fifth most frequently diagnosed cancer and the fifth        most common cause of cancer death in the world. 
+39335135	39335135_ab2	Regarding the age at which the        diagnosis was made, GC is divided into early-onset gastric cancer (EOGC-up to 45        years of age) and conventional GC (older than 45). 
+39335135	39335135_ab3	EOGC constitutes approximately        10% of all GCs. 
+39335135	39335135_ab4	Numerous reports indicate that EOGC is more aggressive than        conventional GC and is often discovered at an advanced tumor stage, which has an        impact on the five-year survival rate. 
+39335135	39335135_ab5	The median survival rate for        advanced-stage GC is very poor, amounting to less than 12 months. 
+39335135	39335135_ab6	Risk factors        for GC include family history, alcohol consumption, smoking, Helicobacter pylori,        and Epstein-Barr virus infection. 
+39335135	39335135_ab7	It has been shown that a proper diet and        lifestyle can play a preventive role in GC. 
+39335135	39335135_ab8	However, research indicates that risk        factors for conventional GC are less correlated with EOGC. 
+39335135	39335135_ab9	In addition, the        unclear etiology of EOGC and the late diagnosis of this disease limit the        possibilities of effective treatment. 
+39335135	39335135_ab10	Genetic factors are considered a likely        cause of EOGC, as young patients are less exposed to environmental carcinogens.  
+39335135	39335135_ab11	Research characterizing GC in young patients is scarce. 
+39335135	39335135_ab12	This comprehensive study        presents all aspects: epidemiology, risk factors, new treatment strategies, and        future directions.
+39306800	39306800_ti1	Clinicopathologic and molecular characterization of stages II-IV gastric cancer        with Claudin 18.2 expression. 
+39306800	39306800_ti2	LID - oyae238 [pii] LID - 10.1093/oncolo/oyae238 [doi] 
+39306800	39306800_ab1	BACKGROUND: Claudin 18.2 (CLDN18.2) is a promising target for targeted therapies        in gastric cancer (GC). 
+39306800	39306800_ab2	This study investigated the prevalence of CLDN18.2        expression in patients with stages II-IV GC or gastroesophageal junction (GEJ)        adenocarcinoma and its correlation with clinicopathologic features and other        crucial GC biomarkers. 
+39306800	39306800_ab3	METHODS: We enrolled 1000 patients diagnosed with stages        II-IV GC after surgical treatment. 
+39306800	39306800_ab4	Immunohistochemistry for CLDN18 (43-14A        clone), PD-L1 (22C3 pharmDx), HER2, and FGFR2 was performed. 
+39306800	39306800_ab5	CLDN18.2 positivity        was defined as moderate-to-strong (2+/3+) membranous staining in >/=75% of tumor        cells. 
+39306800	39306800_ab6	CLDN18.2 expression was compared with biomarker expression, Epstein-Barr        virus (EBV) association and microsatellite instability status, and        clinicopathologic features. 
+39306800	39306800_ab7	RESULT: CLDN18.2 was positive in 34.4% of the        patients. 
+39306800	39306800_ab8	CLDN18.2 positivity was significantly higher in the middle and upper        thirds than in the lower third gastric location (P < .001), but there was no        correlation with age, sex, or stage (P > .05). 
+39306800	39306800_ab9	CLDN18.2 positivity was rare        (2.8%) in mucinous adenocarcinoma but frequent (90.9%) in a majority of gastric        carcinomas with lymphoid stroma. 
+39306800	39306800_ab10	CLDN18.2 positivity was higher in EBV-associated        (P < .001) and PD-L1-positive (PD-L1 CPS >/= 5) GC (P = .014) but lower in HER2        positive GC (P = .005). 
+39306800	39306800_ab11	CLDN18.2 positivity was not significantly associated with        overall survival and disease-free survival. 
+39306800	39306800_ab12	CONCLUSION: This study provides a        comprehensive evaluation of CLDN18.2 status and its correlation with the        clinicopathologic characteristics of patients with stages II-IV GC in Korea and        with crucial biomarkers. 
+39306800	39306800_ab13	It may be valuable for guiding future drug development,        expanding treatment options, and ultimately improving patient outcomes in GC.
+39283078	39283078_ti1	HCMV detection in Asian gastric cancer RNA-seq data sets and clinical validation        in Indian GC patients reveals the HCMV-GC specific gene signatures. 
+39283078	39283078_ab1	Gastric cancer (GC) prevalence is very high in the Asian population. 
+39283078	39283078_ab2	Oncogenic        viruses play a crucial role in the progression of different types of cancers.  
+39283078	39283078_ab3	Through reanalysis of clinical RNA-seq data sets derived from Asian GC patients,        this study identified the presence of human cytomegalovirus (HCMV) in Asian GC        tumors, next to the well-studied association of EBV. 
+39283078	39283078_ab4	Clinical recruitment of the        Indian GC cohort and screening for HCMV presence identified a 14.28% occurrence,        similar to that observed in the bioinformatics analysis. 
+39283078	39283078_ab5	A combinatorial approach        of rank-based meta-analysis and ranking of groups based on an        expectation-maximization algorithm identified that the upregulated LINC02864 and        MAGEA10 correlated with poor survival of GC patients and downregulated tumor        suppressor genes enriching for gastric acid secretion pathway to be associated        with HCMV-positive GC patients, revealing the progressive role of HCMV infection        in GC. 
+39283078	39283078_ab6	Genes that discriminate between different stages of GC were identified        through feature selection implemented in a machine-learning approach. 
+39283078	39283078_ab7	LTF and        KLK10 expressions were found to be specifically dysregulated by HCMV and can also        indicate the GC stages. 
+39283078	39283078_ab8	The results of this study will guide future studies to        identify the functional role of these genes in the HCMV-associated        GC.IMPORTANCENearly 75% of gastric cancer (GC) cases reported globally are from        the Asian population. 
+39283078	39283078_ab9	Most existing public databases, such as TCGA, comprise only        a fractional portion of data derived from Asian ancestry. 
+39283078	39283078_ab10	This study identified        EBV and human cytomegalovirus (HCMV)'s higher detection in GC patients. 
+39283078	39283078_ab11	The        presence and role of EBV associated with GC are well-known, and the observation        of HCMV prompted us to validate the findings in a small cohort of 40 Indian GC        patients. 
+39283078	39283078_ab12	We observed a 14.28% occurrence of HCMV in the Indian cohort, similar        to that observed from next-generation sequencing. 
+39283078	39283078_ab13	A combinatorial approach of        rank-based meta-analysis and ranking of groups based on an        expectation-maximization algorithm identified that the upregulated LINC02864 and        MAGEA10 correlated with poor survival of GC patients and downregulated tumor        suppressor genes enriching for gastric acid secretion pathway to be associated        with HCMV-positive GC patients, revealing the progressive role of HCMV infection        in GC.
+39261055	39261055_ti1	[Efficacy of nivolumab in combination with chemotherapy after radiotherapy for        meningeal carcinomatosis in patients with Epstein-Barr virus-associated gastric        cancer:a case report]. 
+39261055	39261055_ab1	A 62-year-old man presented with fever and anorexia since July X. 
+39261055	39261055_ab2	Initial        treatments were rendered ineffective, and due to altered consciousness and        vomiting, he was referred to our hospital. 
+39261055	39261055_ab3	On admission, he manifested delirium,        drowsiness, and disorientation. 
+39261055	39261055_ab4	While blood tests were normal, gastroscopy        identified a type 3 tumor in his lower gastric body, later diagnosed as a poorly        differentiated adenocarcinoma. 
+39261055	39261055_ab5	Immunohistochemistry demonstrated negative human        epidermal growth factor receptor 2 and positive programmed death-ligand 1        expression with a combined positive score >/=5. 
+39261055	39261055_ab6	Furthermore, a positive        Epstein-Barr virus-encoded small RNA in situ hybridization result was noted.  
+39261055	39261055_ab7	Abdominal contrast-enhanced CT and PET-CT scans demonstrated multiple lymph node        metastases around the stomach and liver, establishing the diagnosis of stage IVB        gastric cancer (T4aN2M1). 
+39261055	39261055_ab8	Brain magnetic resonance imaging (MRI) demonstrated        enhanced lesions in the brainstem, cerebellar sulci, and right occipital lobe.  
+39261055	39261055_ab9	Although cerebrospinal fluid cytology was negative for malignancy, the clinical        symptoms and MRI findings confirmed leptomeningeal carcinomatosis (LMC). 
+39261055	39261055_ab10	The        patient underwent radiotherapy for LMC (total of 30Gy in 10 fractions), followed        by combination therapy with a nivolumab and SOX regimen. 
+39261055	39261055_ab11	Posttreatment, the LMC        symptoms resolved;however, he experienced grade 3 immune-related adverse events        related to liver dysfunction. 
+39261055	39261055_ab12	Nivolumab was discontinued, and with steroid        administration, the adverse events improved. 
+39261055	39261055_ab13	Imaging evaluations posttreatment        showed gastric tumor reduction and the absence of LMC. 
+39261055	39261055_ab14	After 7 cycles, nivolumab        was reintroduced, with no liver dysfunction recurrence noted through 15 cycles.  
+39261055	39261055_ab15	Endoscopic examination 1 year postonset demonstrated that the gastric tumor had        scarred, and MRI showed no signs of LMC recurrence. 
+39261055	39261055_ab16	In 5-8% of solid tumors, LMC        complications are present, resulting in limited treatment options and poor        prognosis. 
+39261055	39261055_ab17	Recent reports suggest the potential of immune checkpoint inhibitors        in treating intracranial metastasis from solid tumors. 
+39261055	39261055_ab18	In Japan, nivolumab was        approved for gastric cancer treatment in 2017 and for first-line therapy in        combination with chemotherapy since 2021. 
+39261055	39261055_ab19	We report a case in which radiotherapy        and chemotherapy combined with nivolumab provided durable control of LMC        originating from gastric cancer for more than 1 year.
+39242811	39242811_ti1	High levels of tumor cell-intrinsic STING signaling are associated with increased        infiltration of CD8(+) T cells in dMMR/MSI-H gastric cancer. 
+39242811	39242811_ab1	Mismatch repair deficient (dMMR)/microsatellite instability-high (MSI-H) gastric        cancer (GC) exhibits an immune-active tumor microenvironment (TME) compared to        MMR proficient (pMMR)/microsatellite stable/Epstein-Barr virus-negative [EBV (-)]        GC. 
+39242811	39242811_ab2	The tumor cell-intrinsic cyclic GMP-AMP synthase (cGAS)-stimulator of        interferon genes (STING) pathway has been considered a key regulator of immune        cell activation in the TME. 
+39242811	39242811_ab3	However, its significance in regulating the        immune-active TME in dMMR/MSI-H GC remains unclear. 
+39242811	39242811_ab4	Here, we demonstrated that        tumor cell-intrinsic cGAS-STING was highly expressed in dMMR GC compared to        pMMR/EBV (-) GC. 
+39242811	39242811_ab5	The expression of tumor cell-intrinsic STING was significantly        and positively associated with the number of CD8(+) tumor-infiltrating        lymphocytes in GC. 
+39242811	39242811_ab6	Analysis of TCGA datasets revealed that the expression of        interferon-stimulated genes and STING downstream T-cell attracting chemokines was        significantly higher in MSI-H GC compared to other subtypes of GC with EBV (-).  
+39242811	39242811_ab7	These results suggest that tumor cell-intrinsic STING signaling plays a key role        in activating immune cells in the dMMR/MSI-H GC TME and might serve as a novel        biomarker predicting the efficacy of immunotherapy for GC treatment.
+39228892	39228892_ti1	Global transcriptomic network analysis of the crosstalk between microbiota and        cancer-related cells in the oral-gut-lung axis. 
+39228892	39228892_ab1	BACKGROUND: The diagnosis and treatment of lung, colon, and gastric cancer        through the histologic characteristics and genomic biomarkers have not had a        strong impact on the mortality rates of the top three global causes of death by        cancer. 
+39228892	39228892_ab2	METHODS: Twenty-five transcriptomic analyses (10 lung cancer, 10 gastric        cancer, and 5 colon cancer datasets) followed our own bioinformatic pipeline        based on the utilization of specialized libraries from the R language and DAVID s        gene enrichment analyses to identify a regulatory metafirm network of        transcription factors and target genes common in every type of cancer, with        experimental evidence that supports its relationship with the unlocking of cell        phenotypic plasticity for the acquisition of the hallmarks of cancer during the        tumoral process. 
+39228892	39228892_ab3	The network's regulatory functional and signaling pathways might        depend on the constant crosstalk with the microbiome network established in the        oral-gut-lung axis. 
+39228892	39228892_ab4	RESULTS: The global transcriptomic network analysis        highlighted the impact of transcription factors (SOX4, TCF3, TEAD4, ETV4, and        FOXM1) that might be related to stem cell programming and cancer progression        through the regulation of the expression of genes, such as cancer-cell membrane        receptors, that interact with several microorganisms, including human T-cell        leukemia virus 1 (HTLV-1), the human papilloma virus (HPV), the Epstein-Barr        virus (EBV), and SARS-CoV-2. 
+39228892	39228892_ab5	These interactions can trigger the MAPK,        non-canonical WNT, and IFN signaling pathways, which regulate key transcription        factor overexpression during the establishment and progression of lung, colon,        and gastric cancer, respectively, along with the formation of the microbiome        network. 
+39228892	39228892_ab6	CONCLUSION: The global transcriptomic network analysis highlights the        important interaction between key transcription factors in lung, colon, and        gastric cancer, which regulates the expression of cancer-cell membrane receptors        for the interaction with the microbiome network during the tumorigenic process.
+39096336	39096336_ti1	Stearoyl-CoA desaturase 1 is targeted by EBV-encoded miR-BART20-5p and regulates        cell autophagy, proliferation, and migration in EBV-associated gastric cancer. 
+39096336	39096336_ab1	Epstein-Barr virus (EBV) is the first human oncogenic virus known to express        microRNAs (miRNAs), which are closely associated with the development of various        tumors, including nasopharyngeal and gastric cancers. 
+39096336	39096336_ab2	Stearoyl-CoA Desaturase 1        (SCD1) is a key enzyme in fatty acid synthesis, highly expressed in numerous        tumors, promoting tumor growth and metastasis, making it a potential therapeutic        target. 
+39096336	39096336_ab3	In this study, we found that SCD1 expression in EBV-associated gastric        cancer (EBVaGC) was significantly lower than in EBV-negative gastric cancer        (EBVnGC) at both cellular and tissue levels. 
+39096336	39096336_ab4	In addition, EBV-miR-BART20-5p        targets the 3'-UTR of SCD1, downregulating its expression. 
+39096336	39096336_ab5	Moreover,        overexpression of SCD1 in EBVaGC cells promoted cell migration and proliferation        while inhibiting autophagy. 
+39096336	39096336_ab6	These results suggest that EBV-encoded        miRNA-BART20-5p may contribute to EBVaGC progression by targeting SCD1.

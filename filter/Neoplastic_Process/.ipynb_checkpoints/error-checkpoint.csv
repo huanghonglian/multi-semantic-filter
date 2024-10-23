@@ -1,0 +1,68 @@
+name,site,list
+Acute_monocytic_leukemia,c,"['AMoL','N AMoL']"
+Anal_Canal_Squamous_Intraepithelial_Neoplasia,c,['ACIN']
+Anaplastic_thyroid_carcinoma,c,['ATC']
+Atypical_Lipoma,c,"['ALT','N ALT']"
+Benign_melanocytic_nevus,c,['mole']
+Biliary_papillomatosis,c,['IPN']
+Blast_Phase,c,"['Blast crisis','N Blast crisis','Blast Stage']"
+Burkitt_Lymphoma,c,"['BL','N BL']"
+Carcinoma__Neuroendocrine,c,"['NEC','N NEC']"
+Cervical_Glandular_Intraepithelial_Neoplasia,c,"['N CGIN','CGIN']"
+Choroid_Plexus_Carcinoma,c,"['CPC','N CPC']"
+Chronic_eosinophilic_leukemia,c,['CEL']
+Choroid_Plexus_Papilloma,c,"['N CPP','CPP']"
+Chronic_myeloproliferative_disorder,c,"['MPD','N MPD','MPN']"
+Collecting_Duct_Carcinoma_of_the_Kidney,c,['BDC']
+Colorectal_Carcinoma,c,['CRC']
+Dermatofibrosarcoma_Protuberans,c,['DFSP']
+Dermoid_Cyst,c,['Dermoid']
+Differentiated_vulvar_intraepithelial_neoplasia,c,"['dVIN','N dVIN']"
+Dysplasia_of_anus,c,"['AIN','N AIN']"
+Early_gastric_cancer,c,['EGC']
+Endometrial_intraepithelial_neoplasia,c,['EIN']
+Endometrial_Stromal_Sarcoma,c,['ESS']
+Epidermodysplasia_Verruciformis,c,"['EV','N EV']"
+Fibrolamellar_Hepatocellular_Carcinoma,c,['FLC']
+Follicular_thyroid_carcinoma,c,['FTC']
+Gastrinoma,c,['G cell tumour']
+Gastrointestinal_Stromal_Tumors,c,"['gists','GIST','N gists']"
+Hepatoblastoma,c,"['N HBL','HBL']"
+Hepatocellular_Adenoma,c,"['HCA','N HCA']"
+High_Grade_Squamous_Intraepithelial_Lesions,c,"['HSIL','N HSIL']"
+Histiocytic_medullary_reticulosis__disorder_,c,['HMR']
+Inflammatory_Myofibroblastic_Tumor,c,"['IMT','N IMT']"
+Intrahepatic_Cholangiocarcinoma,c,['ICC']
+Intraocular_Lymphoma,c,['IOL']
+Juvenile_polyposis_syndrome,c,['PJI']
+Large cell anaplastic lymphoma,c,"['ALCL','N ALCL']"
+Leukemia__Feline,c,['FELV']
+Leukemia__Mast_Cell,c,['MCL']
+Leukemia__Myelomonocytic__Chronic,c,['CMML']
+Lobular_Neoplasia,c,"['LIN','LN']"
+Lymphoma__Large_Cell__Follicular,c,['FL lymphoma']
+Lymphomatoid_Granulomatosis,c,"['AIL','LYG']"
+Malignant_neoplasm_of_lateral_wall_of_bladder,c,"['Wall, Lateral']"
+Mixed_Salivary_Gland_Tumor,c,"['mixed tumors','Mixed tumour']"
+Nevus,c,"['Mole','N Mole','Moles']"
+Nevus_comedonicus,c,"['NC','N NC']"
+Paraganglioma,c,"['PGL','N PGL']"
+Pilomatrixoma,c,['PTR']
+Plexosarcoma,c,['GANT']
+Polycythemia_Vera,c,"['PV','N PV','PRV']"
+Precursor_B_cell_lymphoblastic_leukemia,c,"['pre-b','c all','N c all','pro b']"
+Primary_malignant_neoplasm_of_anus,c,['Primary anal cancer']
+Primary_Myelofibrosis,c,"['AMM','CIMF']"
+Refractory_anemia_with_ringed_sideroblasts,c,['RARS']
+Refractory_cytopenia_with_multilineage_dysplasia,c,"['RCMD','N RCMD']"
+Rhabdoid_Tumor,c,['RDT']
+Sarcoma__Epithelioid,c,"['ES','N ES']"
+Small_Lymphocytic_Lymphoma,c,"['SLL','N SLL']"
+Smoldering_myeloma,c,"['SMM','N SMM']"
+Solitary_fibrous_tumor,c,"['SFT','N SFT']"
+Solitary_Pulmonary_Nodule,c,['SPN']
+Spindle_cell_hemangioma,c,"['SCH','N SCH']"
+Splenic_Marginal_Zone_B_Cell_Lymphoma,c,"['SLVL','N SLVL'.'N SMZL','SMZL']"
+Superficial_spreading_malignant_melanoma_of_skin,c,"['SSM','N SSM']"
+Vaginal_intraepithelial_neoplasia,c,"['VAIN','N VAIN']"
+X_Linked_Lymphoproliferative_Disorder,c,"['XLP','XLP1','EBVS','IMMUNODEFICIENCY 5']"

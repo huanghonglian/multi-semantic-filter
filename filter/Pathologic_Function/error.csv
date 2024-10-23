@@ -1,0 +1,61 @@
+,name,site,list
+0,Accessory_Atrioventricular_Bundle__disorder_,c,"['accessory pathways', 'Accessory pathway']"
+1,Adverse_Event_Following_Immunization,c,"['N AEFI', 'AEFI']"
+2,Avascular_necrosis,c,['AVN']
+3,Benign_prostatic_hypertrophy,c,"['BPH', 'N BPH']"
+4,Blood_Clot,c,"['Clot', 'Clots']"
+5,Cardiac_Flutter,c,['Flutter']
+6,Cellular_infiltrate,c,"['Infiltration', 'INFILTRATE', 'N Infiltration']"
+7,Cellulitis,c,"['Skin infection', 'N Skin infection']"
+8,Cerebrospinal_fluid_leak,c,['N csf leakage']
+9,Childbirth_Problems,c,['Birth Problems']
+10,Cuffing__morphologic_abnormality_,c,"['N Cuffing', 'Cuffing']"
+11,Delayed_Graft_Function,c,"['DGF', 'N DGF']"
+12,Drug_Induced_Thrombocytopenia,c,['DITP']
+13,Dystocia,c,"['Delivery Issue', 'delivery problems', 'Delivery problem']"
+14,Endotracheal_aspiration,c,['Aspiration']
+15,Etat_lacunaire,c,['Status lacunaris']
+16,Extended_Rotated_Sidebent,c,['ERS']
+17,Extensively_Drug_Resistance_Process,c,"['XDR', 'N XDR']"
+18,Fetus_to_fetus_placental_transfusion_syndrome,c,['TTTS']
+19,Flexed_Rotated_Sidebent,c,['FRS']
+20,Flexed_Sidebent_Rotated,c,['N FSR']
+21,Flow_or_discharge,c,['FLUOR']
+22,Fluid_overload,c,"['N VOLUME OVERLOAD', 'VOLUME OVERLOAD']"
+23,Giant_hypertrophy,c,['Massive enlargement']
+24,Growth_Disorders,c,"['disorders growth', 'Growth condition', 'Disease growth']"
+25,Growth_retardation,c,"['Retarded growth', 'Decreased growth', 'N Growth suppression', 'Reducing growth', 'Reduced growth', 'Growth suppression', 'Reduction growth']"
+26,Hemorrhage,c,"['bleed', 'N BLEEDING', 'bleeds', 'N bleeding problem', 'BLEEDING', 'N bleed']"
+27,Hypersensitivity,c,"['Sensitive', 'Sensitivity', 'N Sensitive']"
+28,Hypertrophy,c,"['Enlargement', 'N Enlargement']"
+29,Hypotonic_Hyporesponsive_Episode,c,['HHE']
+30,Hypotonicity,c,['HYPOTONIC']
+31,Infection_and_inflammatory_reaction_due_to_internal_orthopedic_fixation_device,c,"['Insertion infection', 'implant infections', 'Implant Infection']"
+32,Junctional_premature_complex__disorder_,c,['PNC']
+33,Kindling__Neurologic,c,['kindling']
+34,Liquefactive_necrosis,c,['Colliquation']
+35,malignant_fungating_wound,c,"['MFW', 'N MFW']"
+36,Marked_Baseline_Fetal_Heart_Rate_Variability,c,['Hypervariability']
+37,Membranous_Obstruction_of_Inferior_Vena_Cava,c,['MOVC']
+38,Metrorrhagia,c,"['Spotting', 'Bleeding Between Periods', 'Breakthrough Bleeding', 'bleeding period', 'Hemorrhage period', 'N bleeding period']"
+39,Oligomenorrhea,c,['Occasional periods']
+40,Oral_Hemorrhage,c,['bleeding mouth']
+41,Oxygen_Disorders,c,['Oxygen condition']
+42,Paired_ventricular_premature_complexes,c,"['N Couplets', 'Couplets']"
+43,Partial_obstruction,c,['Partial Block']
+44,Pathogenesis,c,['Pathogeneses']
+45,Physiological_Sexual_Disorders,c,['Sex Diseases']
+46,Pre_Eclampsia,c,"['maternal Sepsis', 'PREG1']"
+47,Pregnancy_loss,c,"['Pregnancy Loss', 'N Pregnancy Loss', 'loss pregnancy']"
+48,Pregnancy__Prolonged,c,"['post date', 'N post date', 'Post-dates']"
+49,Premature_Birth,c,"['Pre-Term', 'N Premature', 'Prematurity', 'Premature']"
+50,Reflux,c,"['refluxing', 'refluxed']"
+51,Retraction_ring_dystocia,c,['Contraction ring']
+52,SALIVA_ALTERED,c,['Saliva change']
+53,Serious_Adverse_Drug_Reaction,c,"['N Serious ADR', 'Serious ADR']"
+54,Type_1_hypersensitivity_response,c,"['Type reaction', 'N Type reaction', 'Type I reaction']"
+55,type_II_cellular_hypersensitivity,c,"['N Type reaction', 'Type II reaction', 'Type reaction', 'N Type Hypersensitivity Reaction']"
+56,Valve_formation_obstruction,c,['occluding valves']
+57,Visual_Suppression,c,['Suppression']
+58,whitlow,c,"['N Felon', 'Felon']"
+59,Yin_Deficiency,c,['Yin Xu']

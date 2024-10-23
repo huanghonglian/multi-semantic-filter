@@ -1,0 +1,108 @@
+,name,site,list
+0,ALZHEIMER_DISEASE_19,c,['AD19']
+1,Alpers_Syndrome__disorder_,c,"['N AHS', 'AHS']"
+2,Alzheimer_Disease_11,c,['AD11']
+3,acute_flaccid_myelitis,c,['AFM']
+4,Alopecia__Neurologic_Defects__and_Endocrinopathy_Syndrome,c,['ANES']
+5,3_beta_Hydroxysteroid_dehydrogenase_deficiency,c,['HSDB']
+6,Anemia__Diamond_Blackfan__2,c,['DBA2']
+7,Aspartylglucosaminuria,c,['AGU']
+8,BESTROPHINOPATHY__AUTOSOMAL_RECESSIVE,c,['ARB']
+9,AMYOTROPHY__HEREDITARY_NEURALGIC,c,['HNA']
+10,ANEMIA__SIDEROBLASTIC__AND_SPINOCEREBELLAR_ATAXIA,c,"['ASAT', 'N ASAT']"
+11,Arthrogryposis__renal_dysfunction__and_cholestasis_1,c,"['ARC syndrome', 'ARCS']"
+12,Autoimmune_Lymphoproliferative_Syndrome,c,['ALPS']
+13,Anterior_polar_cataract_2,c,['CATARACT 24']
+14,Alzheimer_Disease_12,c,"['AD12', 'N AD12']"
+15,AL_RAQAD_SYNDROME,c,"['ARS', 'N ARS']"
+16,Barts_Hemoglobinopathy,c,['Hb Barts']
+17,Alopecia__Androgenetic__2,c,['AGA2']
+18,African_swine_fever,c,['ASF']
+19,ATYPICAL_MYCOBACTERIOSIS__FAMILIAL__X_LINKED_1__disorder_,c,['IMMUNODEFICIENCY 33']
+20,Atelosteogenesis_type_2,c,"['N AO2', 'AO2']"
+21,Bohring_syndrome,c,"['BOS', 'N BOS']"
+22,Balos_Concentric_Sclerosis,c,['Balo']
+23,Atrial_Premature_Complexes,c,['apcs']
+24,Auditory_neuropathy_spectrum_disorder,c,['ANSD']
+25,B_CELL_EXPANSION_WITH_NFKB_AND_T_CELL_ANERGY,c,['BENTA']
+26,ARTHROGRYPOSIS__MENTAL_RETARDATION__AND_SEIZURES,c,['AMRS']
+27,Acute_bacterial_endocarditis,c,['abe']
+28,Aspergillosis__Allergic_Bronchopulmonary,c,"['ABPA', 'N ABPA']"
+29,Autosomal_recessive_hereditary_disorder,c,"['Inherited trait', 'Heritable traits', 'Inherited traits', 'Heritable trait', 'N Inherited traits\t']"
+30,Bacterial_Vaginosis,c,['BV']
+31,Baller_Gerold_syndrome,c,['BGS']
+32,Aarskog_syndrome,c,['FGD']
+33,ASTHMA_RELATED_TRAITS__SUSCEPTIBILITY_TO__1,c,"['N AS1', 'AS1']"
+34,Bone_Cysts__Aneurysmal,c,['N ABC']
+35,ALZHEIMER_DISEASE_4,c,['AD4']
+36,APLASIA_CUTIS_CONGENITA_WITH_EPIBULBAR_DERMOIDS,c,['OES']
+37,AMYOTROPHIC_LATERAL_SCLEROSIS_5,c,['ALS5']
+38,Amelogenesis_imperfecta_nephrocalcinosis,c,"['N ERS', 'ERS']"
+39,AMYOTROPHIC_LATERAL_SCLEROSIS_3__disorder_,c,['ALS3']
+40,Autosomal_dominant_epidermolysis_bullosa_simplex,c,['EBS 1']
+41,Ataxia_Telangiectasia,c,"['N ATC\t', 'ATA', 'ATE', 'ATC']"
+42,AMR_Syndrome,c,['APMR']
+43,Amyotrophic_Lateral_Sclerosis_4__Juvenile,c,['ALS4']
+44,ALOPECIA_AREATA_1,c,"['AA1', 'N AA1']"
+45,Avian_encephalomyelitis,c,['AE disease']
+46,AGAMMAGLOBULINEMIA__X_LINKED__TYPE_2__disorder_,c,['XLA2']
+47,Apparent_life_threatening_event_in_infant,c,['ALTE']
+48,Amyotrophic_lateral_sclerosis__type_6,c,['N Amyotrophic Lateral Sclerosis 6']
+49,ARTHROGRYPOSIS_MULTIPLEX_CONGENITA__DISTAL__TYPE_IIA,c,['DA3']
+50,Benign_foot_rot,c,"['BFR', 'N BFR']"
+51,Arthrogryposis_like_hand_anomaly_and_sensorineural_deafness,c,['DA6']
+52,Bancroftian_filarial_fever,c,"['Mumu', 'N Mumu']"
+53,Amyotrophic_Lateral_Sclerosis_9,c,"['ALS9', 'AMYOTROPHIC LATERAL SCLEROSIS 9']"
+54,Benign_Hereditary_Chorea,c,['BCH']
+55,Amyloidosis__familial_visceral,c,['Amyloidosis 8']
+56,acid_base_disorder,c,['acid base condition']
+57,BIETTI_CRYSTALLINE_CORNEORETINAL_DYSTROPHY,c,"['BCD', 'N BCD']"
+58,Alveolar_periostitis,c,"['N Sockets, Dry', 'Sockets, Dry']"
+59,Action_Myoclonus_Renal_Failure_Syndrome,c,['AMRF']
+60,AICARDI_GOUTIERES_SYNDROME,c,"['N AGS', 'AGS']"
+61,Adult_Fanconi_syndrome,c,"['RFS', 'N RFS', 'FRTS']"
+62,AMYOTROPHIC_LATERAL_SCLEROSIS_6__disorder_,c,['ALS6']
+63,ALOPECIA_AREATA_2,c,['AA2']
+64,ABLEPHARON_MACROSTOMIA_SYNDROME,c,['AMS']
+65,Alzheimer_Disease_16,c,['AD16']
+66,Acrokeratoelastoidosis_of_Costa,c,['AKE']
+67,Angioedemas__Hereditary,c,['HAE']
+68,Acute_Chest_Syndrome,c,"['N ACS', 'ACS']"
+69,Aortic_Valve_Insufficiency,c,"['ai', 'N ai']"
+70,ALZHEIMER_DISEASE_18,c,['AD18']
+71,ALZHEIMER_DISEASE_8,c,"['N AD8', 'AD8']"
+72,ANOPHTHALMIA_AND_PULMONARY_HYPOPLASIA,c,['PDAC']
+73,Alkalemia,c,"['N ELEVATED PH', 'ELEVATED PH', 'increased ph', 'pH increase']"
+74,Associated_Pulmonary_Arterial_Hypertension,c,['APAH']
+75,Alzheimer_Disease_7,c,['AD7']
+76,Avian_trichomoniasis,c,['Roup']
+77,Allanson_Pantzar_McLeod_syndrome,c,"['RTD', 'N RTD']"
+78,Amelogenesis_Imperfecta__Type_IB,c,['AIH2']
+79,Barber_Say_syndrome,c,['BSS']
+80,Back_disorder,c,['Disorder of back']
+81,Amaurosis_congenita_of_Leber__type_1,c,['LCA']
+82,Apparent_mineralocorticoid_excess,c,"['AME', 'N AME\t']"
+83,Adrenoleukodystrophy,c,"['N ALD', 'ALD']"
+84,Arteriosclerotic_cardiovascular_disease__NOS,c,"['N ASCVD', 'ASCVD']"
+85,Ataxia_with_vitamin_E_deficiency,c,['AVED']
+86,atrophic__gastritis__Gastritis__Atrophic,c,"['N Chronic', 'Chronic']"
+87,Atypical_absence_seizure,c,"['N Absence, atypical']"
+88,Aggressive_Periodontitis,c,"['N PPP', 'PPP']"
+89,Benign_Paroxysmal_Positional_Vertigo,c,"['BRV', 'N BRV']"
+90,Abnormal_drug_tolerance,c,['Abnormal Tolerance']
+91,Alstrom_Syndrome,c,"['ALMS', 'N ALMS']"
+92,Amelogenesis_Imperfecta__Type_IV,c,['AI4']
+93,ALACRIMA__ACHALASIA__AND_MENTAL_RETARDATION_SYNDROME,c,['AAMR']
+94,Alopecia__Male_Pattern,c,['MPB']
+95,Atypical_Mycobacteriosis__Familial__X_Linked_2,c,['IMMUNODEFICIENCY 34']
+96,Absence_Epilepsy,c,"['Usual absence', 'Simple absence', 'N Simple absence', 'Absence, typical']"
+97,Allogenic_disease,c,['Homologous condition']
+98,Bare_Lymphocyte_Syndrome__Type_I,c,"['BLS, TYPE I']"
+99,Actinic_cheilitis,c,"['N AC', 'AC']"
+100,AMYOTROPHIC_LATERAL_SCLEROSIS_1,c,['ALS1']
+101,ACTIVATED_PI3K_DELTA_SYNDROME,c,['IMMUNODEFICIENCY 14']
+102,ALBINISM__OCULOCUTANEOUS__TYPE_III,c,['ROCA']
+103,Aortic_aneurysm__familial_thoracic_3,c,['LDS2']
+104,Alzheimer_disease__familial__type_3,c,"['AD', 'N AD']"
+105,Anemia_of_prematurity,c,['AOP']
+106,AGAMMAGLOBULINEMIA_3__AUTOSOMAL_RECESSIVE,c,['AGM3']

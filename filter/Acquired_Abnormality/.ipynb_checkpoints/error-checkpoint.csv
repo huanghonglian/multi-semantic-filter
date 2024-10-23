@@ -1,0 +1,5 @@
+,name,site,list
+0,Superficial_ulcer,c,"['erosions', 'Erosion']"
+1,Corneal_dellen,c,['Delle']
+2,Keratosis_pilaris,c,['KP']
+3,Senile_Plaques,c,"['plaques','N plaques','plaque','N plaque']"

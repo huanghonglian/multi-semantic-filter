@@ -1,0 +1,142 @@
+/home/hhl/metamap/public_mm/bin/SKRrun.20 /home/hhl/metamap/public_mm/bin/metamap20.BINARY.Linux --lexicon db -Z 2020AA -y --JSONn ../case/test/MEDLINE/test.medline_0-11.txt ../case/test/MetaMap/out/test.metamap_0-11.txt
+Berkeley DB databases (USAbase 2020AA strict model) are open.
+Static variants will come from table varsan in /home/hhl/metamap/public_mm/DB/DB.USAbase.2020AA.strict.
+Derivational Variants: Adj/noun ONLY.
+Variant generation mode: static.
+Established connection $stream(133765306389904) to TAGGER Server on localhost.
+Established connection $stream(133765306719344) to WSD Server on localhost.
+
+metamap (2020)
+
+Control options:
+  composite_phrases=4
+  lexicon=db
+  mm_data_year=2020AA
+  word_sense_disambiguation
+  JSONn
+
+Processing 39426639.ti.1: The Role of c-Myc in Epstein-Barr Virus-Associated Cancers: Mechanistic Insights  and Therapeutic Implications.
+
+
+Beginning to process ../case/test/MEDLINE/test.medline_0-11.txt sending output to ../case/test/MetaMap/out/test.metamap_0-11.txt.
+Tagging will be done dynamically.
+
+Processing 39426639.ab.1: c-Myc is an important proto-oncogene belonging to the MYC family.
+
+Processing 39426639.ab.2: In normal  conditions, c-Myc regulates different aspects of cellular function.
+
+Processing 39426639.ab.3: However, its  dysregulation can result in the development of cancer due to various mechanisms.
+
+Processing 39426639.ab.4: Epstein-Barr virus is a ubiquitous viral pathogen that infects a huge proportion  of the global population.
+
+Processing 39426639.ab.5: This virus is linked to various cancers, such as  different types of lymphoma, nasopharyngeal, and gastric cancers.
+
+Processing 39426639.ab.6: It can  manipulate host cells, and many cellular and viral genes are important in the  Epstein-Barr virus carcinogenesis.
+
+Processing 39426639.ab.7: This review explores the complex relationship  between c-Myc and Epstein-Barr virus in the context of cancer development.
+
+Processing 39426639.ab.8: Also,  potential therapeutic strategies targeting c-Myc to treat EBV-related cancers are  discussed.
+
+Processing 39348958.ti.1: Predictive Biomarkers of Lymph Node Metastasis in Early Gastric Cancer: A  Reference of Clinicopathological Characteristics, Protein Expression,  Epstein-Barr Virus Status, and Microsatellite Instability.
+
+Processing 39348958.ab.1: BACKGROUND/AIM: Predicting lymph node metastasis in early gastric cancer is crucial for making treatment decisions.
+
+Processing 39348958.ab.2: This study aimed to confirm risk  factors for lymph node metastasis and identify novel auxiliary biomarkers for predicting lymph node metastasis in  early gastric cancer.
+
+Processing 39348958.ab.3: PATIENTS AND METHODS: We established a training set, comprising 63 patients  with lymph node metastasis-early gastric cancer and 274 patients with non-lymph node metastasis early gastric cancer, and a test set, comprising 19  patients with lymph node metastasis-early gastric cancer and 146 non-lymph node metastasis early gastric cancer.
+
+Processing 39348958.ab.4: Immunohistochemistry for  lymphangiogenic and related pathway components (VEGF-C, TGF-beta1, SMAD2/3, VEGF-D,  pSTAT3, E-cadherin, CD44, c-MET, YAP, and HER2), in situ hybridization for  Epstein-Barr virus-encoded small RNAs, and multiplex PCR for microsatellite  instability were conducted.
+
+Processing 39348958.ab.5: RESULTS: In the training set, Lauren's diffuse/mixed  classification, stromal desmoplasia, submucosal invasion >/=500 mum, lymphatic  invasion, and high VEGF-C and SMAD2/3 expression were independent risk factors  for lymph node metastasis (p<0.05).
+
+Processing 39348958.ab.6: A large tumor size, mixed histology, submucosal invasion,  perineural invasion, and ulceration were determined as risk factors using  univariate analysis (p<0.05).
+
+Processing 39348958.ab.7: The tumor cutoff size for predicting lymph node metastasis was 2.65  cm, based on a ROC analysis.
+
+Processing 39348958.ab.8: The test set study verified that stromal  desmoplasia, submucosal invasion, and high VEGF-C expression were independent  risk factors for lymph node metastasis (p<0.05).
+
+Processing 39348958.ab.9: Moreover, mixed histology, lymphatic invasion,  ulceration, and high SMAD 2/3 expression were identified as additional risk  factors using univariate analysis (p<0.05).
+
+Processing 39348958.ab.10: CONCLUSION: Stromal desmoplasia,  submucosal invasion, and high VEGF-C expression are potential biomarkers for lymph node metastasis  in early gastric cancer.
+
+Processing 39348958.ab.11: VEGF-C expression might serve as an adjunct biomarker for predicting lymph node metastasis  on forceps-biopsy tissue at initial diagnosis.
+
+Processing 39338919.ti.1: Unlocking the Potential: Epstein-Barr Virus in Gastric Cancer and Future  Treatment Prospects, a Literature Review.
+
+Processing 39338919.ti.2: LID - 10.3390/pathogens13090728 [doi] LID - 728
+
+Processing 39338919.ab.1: Gastric cancer is a complex disease with various etiologies.
+
+Processing 39338919.ab.2: While  Helicobacter pylori infection is still one of the leading risk factors for Gastric cancer,  increasing evidence suggests a link between Gastric cancer and other infective agents such as  Epstein Bar Virus (Epstein-Barr Virus).
+
+Processing 39338919.ab.3: Epstein-Barr Virus-associated gastric cancer (EBVaGC) is now recognized  as a distinct subgroup of Gastric cancer, and the complex interactions between the virus and  gastric mucosa may influence its development.
+
+Processing 39338919.ab.4: A recent integrative analysis of  the genome and proteome of Gastric cancer tissues by The Cancer Genome Atlas project has  identified EBVaGC as a specific subtype characterized by PIK3CA and ARID1A  mutations, extensive DNA hyper-methylation, and activation of immune signaling  pathways.
+
+Processing 39338919.ab.5: These molecular characteristics are markers of the unique molecular  profile of this subset of Gastric cancer and are potential targets for therapy.
+
+Processing 39338919.ab.6: This review  aims to provide an overview of the current knowledge on EBVaGC.
+
+Processing 39338919.ab.7: It will focus on  the epidemiology, clinic-pathological features, and genetic characteristics of  EBVaGC.
+
+Processing 39338919.ab.8: Additionally, it will discuss recent data indicating the potential use of  Epstein-Barr Virus infection as a predictive biomarker of response to chemotherapy and immune  checkpoint inhibitors.
+
+Processing 39338919.ab.9: The review also delves into potential therapeutic  approaches for EBVaGC, including targeted therapies and adoptive immunotherapy,  highlighting the promising potential of Epstein-Barr Virus as a therapeutic target.
+
+Processing 39335135.ti.1: Gastric Cancer: An Up-to-Date Review with New Insights into Early-Onset Gastric  Cancer.
+
+Processing 39335135.ti.2: LID - 10.3390/cancers16183163 [doi] LID - 3163
+
+Processing 39335135.ab.1: Gastric cancer is the fifth most frequently diagnosed cancer and the fifth  most common cause of cancer death in the world.
+
+Processing 39335135.ab.2: Regarding the age at which the  diagnosis was made, Gastric cancer is divided into early-onset gastric cancer (EOGC-up to 45  years of age) and conventional Gastric cancer (older than 45).
+
+Processing 39335135.ab.3: EOGC constitutes approximately  10% of all GCs.
+
+Processing 39335135.ab.4: Numerous reports indicate that EOGC is more aggressive than  conventional Gastric cancer and is often discovered at an advanced tumor stage, which has an  impact on the five-year survival rate.
+
+Processing 39335135.ab.5: The median survival rate for  advanced-stage Gastric cancer is very poor, amounting to less than 12 months.
+
+Processing 39335135.ab.6: Risk factors  for Gastric cancer include family history, alcohol consumption, smoking, Helicobacter pylori,  and Epstein-Barr virus infection.
+
+Processing 39335135.ab.7: It has been shown that a proper diet and  lifestyle can play a preventive role in Gastric cancer.
+
+Processing 39335135.ab.8: However, research indicates that risk  factors for conventional Gastric cancer are less correlated with EOGC.
+
+Processing 39335135.ab.9: In addition, the  unclear etiology of EOGC and the late diagnosis of this disease limit the  possibilities of effective treatment.
+
+Processing 39335135.ab.10: Genetic factors are considered a likely  cause of EOGC, as young patients are less exposed to environmental carcinogens.
+
+Processing 39335135.ab.11: Research characterizing Gastric cancer in young patients is scarce.
+
+Processing 39335135.ab.12: This comprehensive study  presents all aspects: epidemiology, risk factors, new treatment strategies, and  future directions.
+
+Processing 39306800.ti.1: Clinicopathologic and molecular characterization of stages II-IV gastric cancer  with Claudin 18.2 expression.
+
+Processing 39306800.ti.2: LID - oyae238 [pii] LID - 10.1093/oncolo/oyae238 [doi]
+
+Processing 39306800.ab.1: BACKGROUND: Claudin 18.2 is a promising target for targeted therapies  in gastric cancer.
+
+Processing 39306800.ab.2: This study investigated the prevalence of Claudin 18.2  expression in patients with stages II-IV gastric cancer or gastroesophageal junction  adenocarcinoma and its correlation with clinicopathologic features and other  crucial gastric cancer biomarkers.
+
+Processing 39306800.ab.3: METHODS: We enrolled 1000 patients diagnosed with stages  II-IV gastric cancer after surgical treatment.
+
+Processing 39306800.ab.4: Immunohistochemistry for CLDN18 (43-14A  clone), PD-L1 (22C3 pharmDx), HER2, and FGFR2 was performed.
+
+Processing 39306800.ab.5: Claudin 18.2 positivity  was defined as moderate-to-strong (2+/3+) membranous staining in >/=75% of tumor  cells.
+
+Processing 39306800.ab.6: Claudin 18.2 expression was compared with biomarker expression, Epstein-Barr  virus association and microsatellite instability status, and  clinicopathologic features.
+
+Processing 39306800.ab.7: RESULT: Claudin 18.2 was positive in 34.4% of the  patients.
+
+Processing 39306800.ab.8: Claudin 18.2 positivity was significantly higher in the middle and upper  thirds than in the lower third gastric location (P < .001), but there was no  correlation with age, sex, or stage (P > .05).
+
+Processing 39306800.ab.9: Claudin 18.2 positivity was rare  (2.8%) in mucinous adenocarcinoma but frequent (90.9%) in a majority of gastric  carcinomas with lymphoid stroma.
+
+Processing 39306800.ab.10: Claudin 18.2 positivity was higher in Epstein-Barr  virus-associated  (P < .001) and PD-L1-positive (PD-L1 CPS >/= 5) gastric cancer (P = .014) but lower in HER2  positive gastric cancer (P = .005).
+
+Processing 39306800.ab.11: Claudin 18.2 positivity was not significantly associated with  overall survival and disease-free survival.
+
+Processing 39306800.ab.12: CONCLUSION: This study provides a  comprehensive evaluation of Claudin 18.2 status and its correlation with the  clinicopathologic characteristics of patients with stages II-IV gastric cancer in Korea and  with crucial biomarkers.
+
+Processing 39306800.ab.13: It may be valuable for guiding future drug development,  expanding treatment options, and ultimately improving patient outcomes in gastric cancer.

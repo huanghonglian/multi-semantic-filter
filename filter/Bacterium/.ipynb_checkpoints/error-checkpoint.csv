@@ -1,0 +1,31 @@
+,name,site,list
+0,Rapid_growing_mycobacteria,c,['RGM']
+1,BEV_proteobacterium,c,['BEV']
+2,Diphtheroids,c,['diphtheroid']
+3,Nutritionally_variant_streptococci,c,['NVS']
+4,Salmonella_Doncaster,c,['Doncaster']
+5,Streptococcus_mitis_group,c,['Mitis group']
+6,Stella__Bacteria_,c,['Stella']
+7,Genus_Meniscus,c,['Meniscus']
+8,Bordetella_bronchiseptica,c,['CDC group Iva']
+9,Chryseobacterium_taklimakanense,c,['group']
+10,Chryseobacterium_bernardetii,c,['group']
+11,Thermoanaerobacteriales,c,['cluster V']
+12,Magnetospirillum_magnetotacticum,c,['strain MS-1']
+13,Deltaproteobacteria,c,['delta Subset']
+14,Gammaproteobacteria,c,"['gamma Subset', 'gamma subgroup', 'gamma subdivision']"
+15,Chryseobacterium_nakagawai,c,['group']
+16,Salmonella_enterica_subsp__houtenae,c,['S. IV']
+17,Non_fermentative_Gram_negative_bacillus,c,['Non-fermenter']
+18,Haemophilus_influenzae_type_a,d,['a booster dose of DTaP-HBV-IPV/Hib']
+19,Alphaproteobacteria,c,"['alpha Subset', 'alpha subgroup']"
+20,Methylophaga_aminisulfidivorans,c,['strain MP\t']
+21,Form_bacillus,c,"['Rod', 'Form - rod']"
+22,Salmonella_Miyazaki,c,['Miyazaki']
+23,Betaproteobacteria,c,"['beta subgroup', 'beta Subset']"
+24,Abortus__bacteria_,c,['Abortus']
+25,L_Forms,c,"['l form', 'form l', 'L shape']"
+26,Salmonella_bongori,c,['S. V']
+27,Salmonella_enterica_subsp__salamae,c,['S. II']
+28,Salmonella_enterica_subsp__indica,c,['S. VI']
+29,Gram_Positive_Rods__bacteria_,c,['GPR']

@@ -1,0 +1,60 @@
+/home/hhl/packages/public_mm/bin/SKRrun.20 /home/hhl/packages/public_mm/bin/metamap20.BINARY.Linux --lexicon db -Z 2020AA -y --JSONn ../case/test/MEDLINE/test.medline.txt ../case/test/MetaMap/out/test.metamap.txt
+Berkeley DB databases (USAbase 2020AA strict model) are open.
+Static variants will come from table varsan in /home/hhl/packages/public_mm/DB/DB.USAbase.2020AA.strict.
+Derivational Variants: Adj/noun ONLY.
+Variant generation mode: static.
+Established connection $stream(140043035856928) to TAGGER Server on localhost.
+Established connection $stream(140043035788864) to WSD Server on localhost.
+
+metamap (2020)
+
+Control options:
+  composite_phrases=4
+  lexicon=db
+  mm_data_year=2020AA
+  word_sense_disambiguation
+  JSONn
+
+Processing 34643725.ti.1: CancerSCEM: a database of single-cell expression map across various human  cancers.
+
+
+Beginning to process ../case/test/MEDLINE/test.medline.txt sending output to ../case/test/MetaMap/out/test.metamap.txt.
+Tagging will be done dynamically.
+
+Processing 34643725.ab.1: With the proliferating studies of human cancers by single-cell RNA sequencing  technique (scRNA-seq), cellular heterogeneity, immune landscape and pathogenesis  within diverse cancers have been uncovered successively.
+
+Processing 34643725.ab.2: The exponential  explosion of massive cancer scRNA-seq datasets in the past decade are calling for  a burning demand to be integrated and processed for essential investigations in  tumor microenvironment of various cancer types.
+
+Processing 34643725.ab.3: To fill this gap, we developed a  database of Cancer Single-cell Expression Map (CancerSCEM,  https://ngdc.cncb.ac.cn/cancerscem), particularly focusing on a variety of human  cancers.
+
+Processing 34643725.ab.4: To date, CancerSCE version 1.0 consists of 208 cancer samples across 28  studies and 20 human cancer types.
+
+Processing 34643725.ab.5: A series of uniformly and multiscale analyses  for each sample were performed, including accurate cell type annotation,  functional gene expressions, cell interaction network, survival analysis and etc.
+
+Processing 34643725.ab.6: Plus, we visualized CancerSCEM as a user-friendly web interface for users to  browse, search, online analyze and download all the metadata as well as  analytical results.
+
+Processing 34643725.ab.7: More importantly and unprecedentedly, the newly-constructed  comprehensive online analyzing platform in CancerSCEM integrates seven analyze  functions, where investigators can interactively perform cancer scRNA-seq  analyses.
+
+Processing 34643725.ab.8: In all, CancerSCEM paves an informative and practical way to facilitate  human cancer studies, and also provides insights into clinical therapy  assessments.
+
+Processing 30041684.ti.1: Single-cell transcriptome analysis of lineage diversity in high-grade glioma.
+
+Processing 30041684.ab.1: BACKGROUND: Despite extensive molecular characterization, we lack a comprehensive  understanding of lineage identity, differentiation, and proliferation in  high-grade gliomas.
+
+Processing 30041684.ab.2: METHODS: We sampled the cellular milieu of high-grade gliomas by  profiling dissociated human surgical specimens with a high-density microwell  system for massively parallel single-cell RNA-Seq.
+
+Processing 30041684.ab.3: We analyzed the resulting  profiles to identify subpopulations of both HGG and microenvironmental cells and  applied graph-based methods to infer structural features of the malignantly  transformed populations.
+
+Processing 30041684.ab.4: RESULTS: While HGG cells can resemble glia or even  immature neurons and form branched lineage structures, mesenchymal transformation  results in unstructured populations.
+
+Processing 30041684.ab.5: Glioma cells in a subset of mesenchymal  tumors lose their neural lineage identity, express inflammatory genes, and  co-exist with marked myeloid infiltration, reminiscent of molecular interactions  between glioma and immune cells established in animal models.
+
+Processing 30041684.ab.6: Additionally, we  discovered a tight coupling between lineage resemblance and proliferation among  malignantly transformed cells.
+
+Processing 30041684.ab.7: Glioma cells that resemble oligodendrocyte  progenitors, which proliferate in the brain, are often found in the cell cycle.
+
+Processing 30041684.ab.8: Conversely, glioma cells that resemble astrocytes, neuroblasts, and  oligodendrocytes, which are non-proliferative in the brain, are generally  non-cycling in tumors.
+
+Processing 30041684.ab.9: CONCLUSIONS: These studies reveal a relationship between  cellular identity and proliferation in HGG and distinct population structures  that reflects the extent of neural and non-neural lineage resemblance among  malignantly transformed cells.
+
+Batch processing is finished for ../case/test/MEDLINE/test.medline.txt sending output to ../case/test/MetaMap/out/test.metamap.txt.

@@ -1,0 +1,236 @@
+pmid	location	word_spacing	word_spacing_sum	raw_text	CUI	metamap_word	normalization	semantic	score	sen_id
+34643725	14:22	0	0	database	C0993637	Database	Published Database	inpr	748	34643725_ti1
+34643725	26:32	0	0	single	C0205171	SINGLE	Singular	qnco	581	34643725_ti1
+34643725	33:37	0	0	cell	C0007634	Cell	Cells	cell	581	34643725_ti1
+34643725	38:48	0	0	expression	C0185117	Expression	Expression procedure	topp	581	34643725_ti1
+34643725	49:52	0	0	map	C1706473	Map	Functional Map	cnce	581	34643725_ti1
+34643725	60:67	0	0	various	C3540763	VARIOUS	VARIOUS DRUG CLASSES IN ATC	phsu	660	34643725_ti1
+34643725	68:73	0	0	human	C0086418	Human	Homo sapiens	humn	660	34643725_ti1
+34643725	81:88	0	0	cancers	C1306459	Cancer	Primary malignant neoplasm	neop	827	34643725_ti1
+34643725	0:4	0	0	With	C0332287	With	In addition to	ftcn	581	34643725_ab1
+34643725	9:22	0	0	proliferating	C1514485	Proliferating	Proliferation	ftcn	581	34643725_ab1
+34643725	23:30;34:39	1	1	studies;human	C0178693	human studies	human study	resa	774	34643725_ab1
+34643725	40:47	0	0	cancers	C1306459	Cancer	Primary malignant neoplasm	neop	581	34643725_ab1
+34643725	51:57	0	0	single	C0205171	SINGLE	Singular	qnco	637	34643725_ab1
+34643725	58:62	0	0	cell	C0007634	Cell	Cells	cell	637	34643725_ab1
+34643725	63:77	0	0	RNA sequencing	C0917793	Sequencing, RNA	Sequence Determinations, RNA	lbpr;mbrt	673	34643725_ab1
+34643725	85:94	0	0	technique	C0449851	Technique	Techniques	ftcn	804	34643725_ab1
+34643725	96:101	0	0	scRNA	C0284778	scRNA	RNA, Small Cytoplasmic	bacs;nnon	694	34643725_ab1
+34643725	102:105	0	0	seq	C0004793	Seq	Base Sequence	nusq	861	34643725_ab1
+34643725	108:116	0	0	cellular	C0007634	Cellular	Cells	cell	694	34643725_ab1
+34643725	117:130	0	0	heterogeneity	C0242960	Heterogeneity	Genetic Heterogeneity	orga	861	34643725_ab1
+34643725	132:138	0	0	immune	C0439662	Immune	Immune	fndg	694	34643725_ab1
+34643725	139:148	0	0	landscape	C0870781	landscape	Landscapes	spco	861	34643725_ab1
+34643725	153:165	0	0	pathogenesis	C0699748	Pathogenesis	Pathogenesis	patf	770	34643725_ab1
+34643725	180:187	0	0	diverse	C1880371	Diverse	Diversity	qlco	604	34643725_ab1
+34643725	188:195	0	0	cancers	C1306459	Cancer	Primary malignant neoplasm	neop	604	34643725_ab1
+34643725	206:215	0	0	uncovered	C0439845	Uncovered	Uncovered	ftcn	1000	34643725_ab1
+34643725	4:15	0	0	exponential	C1552645	exponential	exponential	qnco	575	34643725_ab2
+34643725	23:32	0	0	explosion	C0015329	Explosion	Explosion	phpr	742	34643725_ab2
+34643725	36:43	0	0	massive	C0522501	Massive	Massive	qlco	575	34643725_ab2
+34643725	44:50	0	0	cancer	C1306459	Cancer	Primary malignant neoplasm	neop	575	34643725_ab2
+34643725	51:56	0	0	scRNA	C0284778	scRNA	RNA, Small Cytoplasmic	bacs;nnon	575	34643725_ab2
+34643725	57:60	0	0	seq	C0004793	Seq	Base Sequence	nusq	575	34643725_ab2
+34643725	61:69	0	0	datasets	C0150098	Dataset	Data Set	inpr	542	34643725_ab2
+34643725	77:81	0	0	past	C1444637	Past	In the past	tmco	694	34643725_ab2
+34643725	82:88	0	0	decade	C2981279	Decade	Decade	qnco	861	34643725_ab2
+34643725	93:100	0	0	calling	C0679006	Call	Decision	menp	726	34643725_ab2
+34643725	114:121	0	0	burning	C0085624	Burning	Burning sensation	sosy	593	34643725_ab2
+34643725	122:128	0	0	demand	C0699784	demand	Economic demand	idcn	593	34643725_ab2
+34643725	129:131	0	0	to	C0041260	TO	Tryptophanase	aapp;enzy	1000	34643725_ab2
+34643725	150:159;174:188	2	2	processed;investigations	C0085566	Process Investigation	Process Assessment, Health Care	hlca	786	34643725_ab2
+34643725	164:173	0	0	essential	C0205224	Essential	Essential	qlco	770	34643725_ab2
+34643725	189:191	0	0	in	C1707101	IN	CD44 wt Allele	gngm	581	34643725_ab2
+34643725	199:204;240:245	4	4	tumor;types	C2981607	Tumour Type	CDISC SEND Tumor Findings Results Terminology	inpr	757	34643725_ab2
+34643725	225:232	0	0	various	C3540763	VARIOUS	VARIOUS DRUG CLASSES IN ATC	phsu	581	34643725_ab2
+34643725	205:221;233:239	2	2	microenvironment;cancer	C3494179	Cancer Microenvironment	Cancer Microenvironment	npop	774	34643725_ab2
+34643725	0:2	0	0	To	C0041260	TO	Tryptophanase	aapp;enzy	1000	34643725_ab3
+34643725	3:7	0	0	fill	C1708059	Fill	Fill	acty	1000	34643725_ab3
+34643725	13:16	0	0	gap	C3887622	Gap	Gap (space)	spco	1000	34643725_ab3
+34643725	40:48	0	0	database	C0993637	Database	Published Database	inpr	744	34643725_ab3
+34643725	52:58;66:70	1	1	Cancer;cell	C0334227	Cancer Cell	Tumor cells, malignant	cell	600	34643725_ab3
+34643725	59:65	0	0	Single	C0205171	SINGLE	Singular	qnco	578	34643725_ab3
+34643725	71:81	0	0	Expression	C0185117	Expression	Expression procedure	topp	578	34643725_ab3
+34643725	82:85	0	0	Map	C1706473	Map	Functional Map	cnce	578	34643725_ab3
+34643725	124:126	0	0	ac	C0267026	AC	Actinic cheilitis	dsyn	637	34643725_ab3
+34643725	127:129	0	0	cn	C0221023	CN	Cyclic neutropenia	dsyn	637	34643725_ab3
+34643725	156:164	0	0	focusing	C0000936	focusing	Visual Accommodation	ortf	748	34643725_ab3
+34643725	170:177	0	0	variety	C2346866	Variety	Assortment	cnce	748	34643725_ab3
+34643725	181:186	0	0	human	C0086418	Human	Homo sapiens	humn	748	34643725_ab3
+34643725	194:201	0	0	cancers	C1306459	Cancer	Primary malignant neoplasm	neop	748	34643725_ab3
+34643725	3:7	0	0	date	C0011008	DATE	Date in time	tmco	1000	34643725_ab4
+34643725	19:26	0	0	version	C0333052	Version	Version	inpr	812	34643725_ab4
+34643725	31:39	0	0	consists	C0332529	CONSIST	Consistency	qlco	760	34643725_ab4
+34643725	47:53	0	0	cancer	C1306459	Cancer	Primary malignant neoplasm	neop	760	34643725_ab4
+34643725	54:61	0	0	samples	C2347026	Sample	Biospecimen	bdsu	726	34643725_ab4
+34643725	79:86	0	0	studies	C0947630	studies	Scientific Study	lbpr	861	34643725_ab4
+34643725	91:93	0	0	20	C3842589	20%	20%	qnco	645	34643725_ab4
+34643725	94:99	0	0	human	C0086418	Human	Homo sapiens	humn	645	34643725_ab4
+34643725	100:106	0	0	cancer	C1306459	Cancer	Primary malignant neoplasm	neop	645	34643725_ab4
+34643725	107:112	0	0	types	C0332307	Types	Type - attribute	qlco	812	34643725_ab4
+34643725	2:8	0	0	series	C2348044	Series	Series - set of composite instances	inpr	770	34643725_ab5
+34643725	37:45;62:68	2	2	analyses;sample	C1303103	analysis sample	Sample analysis	lbpr	781	34643725_ab5
+34643725	74:83	0	0	performed	C0884358	PERFORMED	Performed	ftcn	1000	34643725_ab5
+34643725	85:94	0	0	including	C0332257	Including	Including (qualifier)	ftcn	1000	34643725_ab5
+34643725	95:103	0	0	accurate	C0443131	Accurate	Accurate (qualifier)	qlco	645	34643725_ab5
+34643725	104:113	0	0	cell type	C0449475	Cell type	cell type	inpr	694	34643725_ab5
+34643725	114:124	0	0	annotation	C1706814	Annotation	Annotation	inpr	812	34643725_ab5
+34643725	133:143	0	0	functional	C0542341	Functional	Function (attribute)	ftcn	660	34643725_ab5
+34643725	144:160	0	0	gene expressions	C0017262	Gene Expressions	Gene Expression	genf	901	34643725_ab5
+34643725	162:178	0	0	cell interaction	C0007582	Cell interaction	Cell Communication	celf	734	34643725_ab5
+34643725	179:186	0	0	network	C1513822	Network	Consortium or Network	prog	827	34643725_ab5
+34643725	188:205	0	0	survival analysis	C0038953	Survival Analysis	Survival Analysis	resa	1000	34643725_ab5
+34643725	210:213	0	0	etc	C1548556	Etc.	Etc.	idcn	1000	34643725_ab5
+34643725	0:4	0	0	Plus	C0332287	Plus	In addition to	ftcn	1000	34643725_ab6
+34643725	9:19	0	0	visualized	C0234621	Visualized	Visual	ftcn	1000	34643725_ab6
+34643725	36:40;54:63	2	2	user;interface	C1710590	User Interface	User Interface Device	mnob	607	34643725_ab6
+34643725	41:49	0	0	friendly	C2700214	Friendly	Friendly	qlco	581	34643725_ab6
+34643725	50:53	0	0	web	C0282111	Web	Internet	mnob	581	34643725_ab6
+34643725	64:67	0	0	for	C0521125	For	Preposition For	qlco	604	34643725_ab6
+34643725	68:73	0	0	users	C1706077	Users	user - individual	popg	770	34643725_ab6
+34643725	92:98	0	0	search	C1706202	Search	Search - action	acty	1000	34643725_ab6
+34643725	136:144	0	0	metadata	C1708992	Metadata	Metadata	inpr	1000	34643725_ab6
+34643725	163:173	0	0	analytical	C0936012	Analytical	Analysis	resa	694	34643725_ab6
+34643725	174:181	0	0	results	C2825142	Result	Experimental Result	fndg	827	34643725_ab6
+34643725	0:4	0	0	More	C0205172	More	More	qnco	861	34643725_ab7
+34643725	42:47	0	0	newly	C0750546	newly	newly	idcn	575	34643725_ab7
+34643725	48:59	0	0	constructed	C2827421	Construct	Construct	idcn	542	34643725_ab7
+34643725	67:80	0	0	comprehensive	C1880156	Comprehensive	Comprehensive	qlco	575	34643725_ab7
+34643725	98:106	0	0	platform	C1710360	Platform	Technology Platform	resd	742	34643725_ab7
+34643725	132:137	0	0	seven	C0205453	Seven	Seven	qnco	1000	34643725_ab7
+34643725	153:162	0	0	functions	C0542341	Functions	Function (attribute)	ftcn	1000	34643725_ab7
+34643725	170:183	0	0	investigators	C0035173	Investigators	Research Personnel	prog	861	34643725_ab7
+34643725	202:209	0	0	perform	C0884358	Perform	Performed	ftcn	1000	34643725_ab7
+34643725	210:216	0	0	cancer	C1306459	Cancer	Primary malignant neoplasm	neop	645	34643725_ab7
+34643725	217:222	0	0	scRNA	C0284778	scRNA	RNA, Small Cytoplasmic	bacs;nnon	645	34643725_ab7
+34643725	223:226	0	0	seq	C0004793	Seq	Base Sequence	nusq	645	34643725_ab7
+34643725	234:242	0	0	analyses	C1524024	analysis	analysis aspect	ftcn	779	34643725_ab7
+34643725	19:24	0	0	paves	C0211067	PAVe	PAVe protocol 1	topp	1000	34643725_ab8
+34643725	28:39	0	0	informative	C2986490	Informative	Informative	qlco	1000	34643725_ab8
+34643725	58:60	0	0	to	C0041260	TO	Tryptophanase	aapp;enzy	1000	34643725_ab8
+34643725	79:84;92:99	1	1	human;studies	C0178693	human studies	human study	resa	913	34643725_ab8
+34643725	85:91	0	0	cancer	C1306459	Cancer	Primary malignant neoplasm	neop	827	34643725_ab8
+34643725	110:118	0	0	provides	C1999230	Provide	Providing (action)	acty	1000	34643725_ab8
+34643725	119:127	0	0	insights	C0233820	insights	Insight	menp	760	34643725_ab8
+34643725	133:141	0	0	clinical	C0205210	Clinical	Clinical	qlco	593	34643725_ab8
+34643725	142:149;157:168	0	0	therapy;assessments	C1515410	Therapy assessments	Therapy Evaluation	resa	640	34643725_ab8
+30041684	0:11;26:34	1	1	Single-cell;analysis	C0597452	Single-Cell Analysis	Single-Cell Analysis	lbpr	804	30041684_ti1
+30041684	12:25	0	0	transcriptome	C3178810	Transcriptome	Transcriptome	nusq	748	30041684_ti1
+30041684	38:45	0	0	lineage	C1881379	Lineage	Lineage	cnce	581	30041684_ti1
+30041684	46:55	0	0	diversity	C1880371	Diversity	Diversity	qlco	581	30041684_ti1
+30041684	59:76	0	0	high-grade glioma	C0555198	High-Grade Glioma	Malignant Glioma	neop	1000	30041684_ti1
+30041684	0:10	0	0	BACKGROUND	C1706907	Background	Background	cnce	1000	30041684_ab1
+30041684	20:29	0	0	extensive	C0205231	Extensive	Extensive	qlco	660	30041684_ab1
+30041684	30:39	0	0	molecular	C1521991	Molecular	Molecular	qlco	660	30041684_ab1
+30041684	40:56	0	0	characterization	C1880022	Characterization	Characterization	acty	827	30041684_ab1
+30041684	61:65	0	0	lack	C0332268	lack	Lacking	qlco	1000	30041684_ab1
+30041684	68:81	0	0	comprehensive	C1880156	Comprehensive	Comprehensive	qlco	586	30041684_ab1
+30041684	89:102	0	0	understanding	C0162340	Understanding	Comprehension	menp	753	30041684_ab1
+30041684	106:113	0	0	lineage	C1881379	Lineage	Lineage	cnce	586	30041684_ab1
+30041684	114:122	0	0	identity	C0424215	Identity	Sense of identity (observable entity)	menp	586	30041684_ab1
+30041684	124:139	0	0	differentiation	C1511938	Differentiation	Histopathologic Grade differentiation	clna	1000	30041684_ab1
+30041684	145:158	0	0	proliferation	C0334094	Proliferation	Proliferation (morphologic abnormality)	patf	760	30041684_ab1
+30041684	169:187	0	0	high-grade gliomas	C0555198	High-Grade Glioma	Malignant Glioma	neop	662	30041684_ab1
+30041684	0:7	0	0	METHODS	C0025664	METHODS	Methods aspects	ftcn	1000	30041684_ab2
+30041684	12:19	0	0	sampled	C0441621	sampled	Sampling - Surgical action	diap	1000	30041684_ab2
+30041684	24:32	0	0	cellular	C0007634	Cellular	Cells	cell	581	30041684_ab2
+30041684	43:47	0	0	HGGs	C0555198	High-Grade Glioma	Malignant Glioma	neop	614	30041684_ab2
+30041684	48:50	0	0	by	C0006539	BY	Belarus	geoa	570	30041684_ab2
+30041684	58:67	0	0	profiling	C2003903	Profile	Profiling (action)	ftcn	536	30041684_ab2
+30041684	68:79	0	0	dissociated	C0086168	Dissociation	Dissociation	mobd	498	30041684_ab2
+30041684	80:85	0	0	human	C0086418	Human	Homo sapiens	humn	570	30041684_ab2
+30041684	86:104	0	0	surgical specimens	C1647891	Surgical specimen	Specimen obtained by surgical procedure	sbst	736	30041684_ab2
+30041684	112:116	0	0	high	C1299351	High	Abnormally high	qlco	570	30041684_ab2
+30041684	117:124	0	0	density	C0178587	Density	density	qnco	570	30041684_ab2
+30041684	142:148	0	0	system	C0449913	System	System	ftcn	570	30041684_ab2
+30041684	153:162	0	0	massively	C0522501	Massively	Massive	qlco	1000	30041684_ab2
+30041684	163:171	0	0	parallel	C2826345	PARALLEL	Parallel Study	resa	1000	30041684_ab2
+30041684	172:178	0	0	single	C0205171	SINGLE	Singular	qnco	645	30041684_ab2
+30041684	179:183	0	0	cell	C0007634	Cell	Cells	cell	645	30041684_ab2
+30041684	184:191	0	0	RNA-Seq	C4760607	RNA-Seq	RNA-Seq	mbrt	861	30041684_ab2
+30041684	3:11	0	0	analyzed	C0936012	Analyzed	Analysis	resa	1000	30041684_ab3
+30041684	16:25	0	0	resulting	C0678226	resulting	Due to	ftcn	694	30041684_ab3
+30041684	33:41	0	0	profiles	C2003903	Profile	Profiling (action)	ftcn	827	30041684_ab3
+30041684	42:44	0	0	to	C0041260	TO	Tryptophanase	aapp;enzy	1000	30041684_ab3
+30041684	54:68	0	0	subpopulations	C1257890	Subpopulation	Population Group	popg	737	30041684_ab3
+30041684	104:109	0	0	cells	C0007634	Cells	Cells	cell	861	30041684_ab3
+30041684	121:128	0	0	applied	C4048755	Applied	Apply	ftcn	593	30041684_ab3
+30041684	129:134	0	0	graph	C0681493	Graph	Graph - visual representation	inpr	593	30041684_ab3
+30041684	135:140	0	0	based	C1705938	Based	Base - General Qualifier	idcn	593	30041684_ab3
+30041684	141:148	0	0	methods	C0025664	METHODS	Methods aspects	ftcn	760	30041684_ab3
+30041684	152:157	0	0	infer	C0679201	Infer	Inference	menp	1000	30041684_ab3
+30041684	158:168	0	0	structural	C0678594	Structural	Structure	spco	581	30041684_ab3
+30041684	169:177	0	0	features	C1521970	Features	Characteristics	qlco	748	30041684_ab3
+30041684	204:215	0	0	transformed	C1510411	Transformed	metaplastic cell transformation	patf	581	30041684_ab3
+30041684	216:227	0	0	populations	C0032659	Populations	geographic population	qnco	581	30041684_ab3
+30041684	0:7	0	0	RESULTS	C2825142	Result	Experimental Result	fndg	966	30041684_ab4
+30041684	19:24	0	0	cells	C0007634	Cells	Cells	cell	861	30041684_ab4
+30041684	38:42	0	0	glia	C0027836	GLIA	Neuroglia	cell	1000	30041684_ab4
+30041684	58:74	0	0	immature neurons	C0814005	immature neuron	Neuroblast	cell	884	30041684_ab4
+30041684	79:83	0	0	form	C1522492	Form	Formation	ftcn	645	30041684_ab4
+30041684	84:92	0	0	branched	C2700384	Branched	Branched	spco	645	30041684_ab4
+30041684	93:100	0	0	lineage	C1881379	Lineage	Lineage	cnce	645	30041684_ab4
+30041684	101:111	0	0	structures	C0678594	structures	Structure	spco	812	30041684_ab4
+30041684	113:124	0	0	mesenchymal	C1513143	Mesenchymal	Mesenchymal	qlco	694	30041684_ab4
+30041684	125:139	0	0	transformation	C0040682	transformation	cell transformation	celf	861	30041684_ab4
+30041684	147:154	0	0	results	C2825142	Result	Experimental Result	fndg	770	30041684_ab4
+30041684	171:182	0	0	populations	C0032659	Populations	geographic population	qnco	770	30041684_ab4
+30041684	0:6	0	0	Glioma	C0017638	GLIOMA	Glioma	neop	578	30041684_ab5
+30041684	18:24	0	0	subset	C1515021	Subset	Subgroup	clas	578	30041684_ab5
+30041684	7:12;28:39;47:53	4;0	4	cells;mesenchymal;tumors	C1334699	Mesenchymal Cell Tumors	Mesenchymal Cell Neoplasm	neop	778	30041684_ab5
+30041684	65:71	0	0	neural	C3714606	Neural	Neural	ftcn	660	30041684_ab5
+30041684	72:79	0	0	lineage	C1881379	Lineage	Lineage	cnce	660	30041684_ab5
+30041684	80:88	0	0	identity	C0424215	Identity	Sense of identity (observable entity)	menp	827	30041684_ab5
+30041684	98:110	0	0	inflammatory	C0333348	Inflammatory	Inflammatory	ftcn	694	30041684_ab5
+30041684	111:116	0	0	genes	C0017337	Genes	Genes	gngm	861	30041684_ab5
+30041684	129:131	0	0	co	C3245499	CO	Colombia	geoa	753	30041684_ab5
+30041684	132:137	0	0	exist	C2987476	Exist	Exist	qlco	753	30041684_ab5
+30041684	143:149	0	0	marked	C0522501	Marked	Massive	qlco	753	30041684_ab5
+30041684	150:157	0	0	myeloid	C0439677	Myeloid	Myeloid	qlco	753	30041684_ab5
+30041684	158:170	0	0	infiltration	C1692321	Infiltration	Cellular infiltrate	patf	753	30041684_ab5
+30041684	172:183	0	0	reminiscent	C0871247	reminiscence	reminiscence	menp	699	30041684_ab5
+30041684	187:209	0	0	molecular interactions	C1167622	Molecular Interaction	Binding (Molecular Function)	moft	650	30041684_ab5
+30041684	225:231	0	0	glioma	C0017638	GLIOMA	Glioma	neop	1000	30041684_ab5
+30041684	236:248	0	0	immune cells	C4330475	Immune Cell	Immune Cell	cell	966	30041684_ab5
+30041684	249:260	0	0	established	C1272684	Established	Accepted	qlco	770	30041684_ab5
+30041684	264:277	0	0	animal models	C0599779	Animal models	Animal Model	anim	833	30041684_ab5
+30041684	24:34	0	0	discovered	C1880355	Discover	Discover	acty	966	30041684_ab6
+30041684	37:42	0	0	tight	C0439816	Tight	Tightness sensation quality	qlco	586	30041684_ab6
+30041684	43:51	0	0	coupling	C1948027	Coupling	Couple (action)	ftcn	753	30041684_ab6
+30041684	60:67	0	0	lineage	C1881379	Lineage	Lineage	cnce	586	30041684_ab6
+30041684	123:134	0	0	transformed	C1510411	Transformed	metaplastic cell transformation	patf	593	30041684_ab6
+30041684	84:97;135:140	3	3	proliferation;cells	C0596290	Cell Proliferation	Cell Proliferation	celf	781	30041684_ab6
+30041684	0:6	0	0	Glioma	C0017638	GLIOMA	Glioma	neop	694	30041684_ab7
+30041684	7:12	0	0	cells	C0007634	Cells	Cells	cell	861	30041684_ab7
+30041684	27:42;50:61		0	oligodendrocyte;progenitors	C4505105	Progenitors, Oligodendrocyte	Oligodendrocyte Precursor Cells	cell	1000	30041684_ab7
+30041684	88:93	0	0	brain	C0006104	BRAIN	Brain	bpoc	770	30041684_ab7
+30041684	99:104	0	0	often	C0332183	Often	Frequently	tmco	1000	30041684_ab7
+30041684	105:110	0	0	found	C0150312	Found	Present	fndg	760	30041684_ab7
+30041684	118:128	0	0	cell cycle	C0007586	Cell Cycle	Cell Cycle	celf	806	30041684_ab7
+30041684	12:18	0	0	glioma	C0017638	GLIOMA	Glioma	neop	694	30041684_ab8
+30041684	19:24	0	0	cells	C0007634	Cells	Cells	cell	861	30041684_ab8
+30041684	39:49	0	0	astrocytes	C0004112	Astrocytes	Astrocytes	cell	1000	30041684_ab8
+30041684	51:62	0	0	neuroblasts	C0814005	neuroblasts	Neuroblast	cell	1000	30041684_ab8
+30041684	75:91	0	0	oligodendrocytes	C0028944	Oligodendrocytes	Oligodendroglia	cell	1000	30041684_ab8
+30041684	103:106	0	0	non	C1518422	Non	Negation	ftcn	760	30041684_ab8
+30041684	107:120	0	0	proliferative	C0334094	Proliferative	Proliferation (morphologic abnormality)	patf	760	30041684_ab8
+30041684	128:133	0	0	brain	C0006104	BRAIN	Brain	bpoc	593	30041684_ab8
+30041684	156:159	0	0	non	C1518422	Non	Negation	ftcn	760	30041684_ab8
+30041684	160:167	0	0	cycling	C1511572	Cycling	event cycle	tmco	760	30041684_ab8
+30041684	171:177	0	0	tumors	C0027651	Tumors	Neoplasms	neop	593	30041684_ab8
+30041684	0:11	0	0	CONCLUSIONS	C1707478	Conclusions	Conclusion	idcn	1000	30041684_ab9
+30041684	19:26	0	0	studies	C0947630	studies	Scientific Study	lbpr	1000	30041684_ab9
+30041684	27:33	0	0	reveal	C0443289	reveal	Revealed	qlco	1000	30041684_ab9
+30041684	36:48	0	0	relationship	C0439849	Relationship	Relationships	qlco	760	30041684_ab9
+30041684	64:72	0	0	cellular	C0007634	Cellular	Cells	cell	593	30041684_ab9
+30041684	73:81	0	0	identity	C0424215	Identity	Sense of identity (observable entity)	menp	593	30041684_ab9
+30041684	86:99	0	0	proliferation	C0334094	Proliferation	Proliferation (morphologic abnormality)	patf	790	30041684_ab9
+30041684	120:130	0	0	population	C0032659	Population	geographic population	qnco	861	30041684_ab9
+30041684	131:141	0	0	structures	C0678594	structures	Structure	spco	1000	30041684_ab9
+30041684	154:162	0	0	reflects	C0558058	reflects	Reflecting	menp	1000	30041684_ab9
+30041684	167:173	0	0	extent	C0439792	Extent	Extent	spco	770	30041684_ab9
+30041684	177:183	0	0	neural	C3714606	Neural	Neural	ftcn	604	30041684_ab9
+30041684	188:191	0	0	non	C1518422	Non	Negation	ftcn	578	30041684_ab9
+30041684	192:198	0	0	neural	C3714606	Neural	Neural	ftcn	578	30041684_ab9
+30041684	244:255	0	0	transformed	C1510411	Transformed	metaplastic cell transformation	patf	578	30041684_ab9
+30041684	199:206;256:261	4	4	lineage;cells	C0282637	Cell Lineage	Cell Lineage	idcn	584	30041684_ab9

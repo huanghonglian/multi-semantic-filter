@@ -1,0 +1,30 @@
+,name,site,list
+0,positive_regulation_of_gene_expression,d,['related to the loss of E2 host gene regulation.IMPORTANCE Human papillomavirus 16 (HPV16)-positive tumors']
+1,Base_Excision_Repair,c,['BER']
+2,double_strand_break_repair_via_homologous_recombination,c,['GGR']
+3,Immunoglobulin_Gene_Rearrangement,d,['IGR']
+4,positive_regulation_of_viral_transcription,d,"['HIF-1s role in transcriptional upregulation of metabolic, angiogenic']"
+5,Peptide_Chain_Initiation__Translational,d,['internal translational initiation site']
+6,Increased_DNA_Replication,c,['Increased Replication']
+7,UV_damage_excision_repair,c,['AER']
+8,Genetic_Selection,c,['selection']
+9,pancreatic_DNase_activity,c,['DNase I activity']
+10,Gene_Replication_Order__Temporal,c,"['Timing, Gene Replication']"
+11,Gene_Dosage_Compensation_mechanism,c,['dosage compensation']
+12,Intronic_Splice_Region_Mutation,d,['ISS']
+13,Gene_Amplification,c,['natural Amplification']
+14,poly_A__binding,d,['PAN RNA']
+15,Sequence_Insertion,c,['Sequence Placement']
+16,cAMP_response_element_binding,c,['CRE binding']
+17,DNA_Modification_Process,c,['DNA change']
+18,deoxyribonuclease_I_activity,c,['DNase I']
+19,DNA_Repair,c,['Unscheduled DNA Synthesis']
+20,RNA_modification,d,['changes from baseline HIV RNA levels']
+21,chromatin_silencing,c,['TGS']
+22,cAMP_response_element_binding_protein_binding_activity,c,"['CREB Protein binding', 'CBP']"
+23,transcription_coupled_nucleotide_excision_repair,c,['TCR']
+24,Nucleotide_Excision_Repair,d,"['man-ner', 'protein ner']"
+25,relaxing_enzyme_activity,d,['no detectable activity against human topoisomerases I']
+26,DNA_Replication,c,"['formation dna', 'DNA Synthesis']"
+27,Immunoglobulin_Class_Switching,d,['CSR']
+28,Epigenetic_Process,c,['Epigenetics']

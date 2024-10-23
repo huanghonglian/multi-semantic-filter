@@ -1,0 +1,56 @@
+/home/hhl/packages/public_mm/bin/SKRrun.20 /home/hhl/packages/public_mm/bin/metamap20.BINARY.Linux --lexicon db -Z 2020AA -y --JSONn ../case/test/MEDLINE/test.medline.txt ../case/test/MetaMap/out/test.metamap.txt
+Berkeley DB databases (USAbase 2020AA strict model) are open.
+Static variants will come from table varsan in /home/hhl/packages/public_mm/DB/DB.USAbase.2020AA.strict.
+Derivational Variants: Adj/noun ONLY.
+Variant generation mode: static.
+Established connection $stream(140573012869152) to TAGGER Server on localhost.
+Established connection $stream(140573012801088) to WSD Server on localhost.
+
+metamap (2020)
+
+Control options:
+  composite_phrases=4
+  lexicon=db
+  mm_data_year=2020AA
+  word_sense_disambiguation
+  JSONn
+
+
+Beginning to process ../case/test/MEDLINE/test.medline.txt sending output to ../case/test/MetaMap/out/test.metamap.txt.
+Tagging will be done dynamically.
+### WARNING: aadef token failed:
+tok(aadef,
+    [tok(lc,multiple,multiple,pos(180,188)),
+     tok(ws,' ',' ',pos(188,189)),
+     tok(ws,' ',' ',pos(189,190)),
+     tok(lc,sclerosis,sclerosis,pos(190,199))],
+    [tok(uc,'MS',ms,pos(201,203))],
+    pos(180,199))
+
+### WARNING: aadef token failed:
+tok(aadef,
+    [tok(lc,multiple,multiple,pos(180,188)),
+     tok(ws,' ',' ',pos(188,189)),
+     tok(ws,' ',' ',pos(189,190)),
+     tok(lc,sclerosi,sclerosi,pos(190,198))],
+    [tok(uc,'M',m,pos(201,202))],
+    pos(180,198))
+
+
+Processing 29735578.ti.1: Lifestyle and Environmental Factors in Multiple Sclerosis.
+
+Processing 29735578.ti.2: LID - 10.1101/cshperspect.a028944 [doi] LID - a028944
+
+Processing 29735578.ab.1: Lifestyle and environmental factors potently influence the risk of multiple  sclerosis, because genetic predisposition only explains a fraction of the  risk increase.
+
+Processing 29735578.ab.2: There is strong evidence for associations of Epstein-Barr virus infection, smoking, sun exposure/vitamin D, and adolescent obesity to risk  of multiple  sclerosis.
+
+Processing 29735578.ab.3: There is also circumstantial evidence on organic solvents and shift work,  all associate with greater risk, although certain factors like nicotine, alcohol,  and a high coffee consumption associate with a reduced risk.
+
+Processing 29735578.ab.4: Certain factors,  smoking, Epstein-Barr virus infection, and obesity interact with human leukocyte antigen  risk genes, arguing for a pathogenic pathway involving adaptive immunity.
+
+Processing 29735578.ab.5: There  is a potential for prevention, in particular for people at greater risk such as  relatives of individuals with multiple  sclerosis.
+
+Processing 29735578.ab.6: All of the described factors for multiple  sclerosis may  influence adaptive and/or innate immunity, as has been argued for multiple  sclerosis risk gene  variants.
+
+Batch processing is finished for ../case/test/MEDLINE/test.medline.txt sending output to ../case/test/MetaMap/out/test.metamap.txt.

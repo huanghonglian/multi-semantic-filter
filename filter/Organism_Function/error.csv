@@ -1,0 +1,5 @@
+,name,site,list
+0,Hand_functions,c,"['Use of hands', 'Operator hand ']"
+1,Eating,c,['Eat ']
+2,Smell_Perception,c,"['Smell ', 'Smelling ']"
+3,Deglutition,c,['Swallowing ']

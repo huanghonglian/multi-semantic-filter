@@ -1,0 +1,1 @@
+((Stomach Neoplasm[Title/Abstract]) OR (Gastric Cancer[Title/Abstract])) AND (((Herpesvirus 4, Human[Title/Abstract]) OR (Epstein Barr Virus[Title/Abstract])) OR (EBV[Title/Abstract]))

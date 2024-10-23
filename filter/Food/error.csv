@@ -1,0 +1,13 @@
+,name,site,list
+0,Tuna___dietary,d,['Tuna']
+1,Dietary_Fiber,c,['Bulk']
+2,Candy,c,['Confection']
+3,Sea_urchin___dietary,c,['Uni ']
+4,Snacks,d,"['LES', 'GP-LES']"
+5,Cod___dietary,d,"['non-cod-ing', 'lncRNAs', 'cod.27G']"
+6,Abalone__dietary_,d,['Abalone software']
+7,lard,d,['LARD program']
+8,ale_beer,c,['ale']
+9,Apple,d,"['Apple App Store', 'apple-green']"
+10,Cauliflower__dietary_,d,['cauliflower-like']
+11,Dietary_Supplements,c,"['Supplements', 'Supplement']"

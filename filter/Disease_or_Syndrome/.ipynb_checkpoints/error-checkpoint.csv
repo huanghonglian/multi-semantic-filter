@@ -1,0 +1,693 @@
+,name,site,list
+0,Bulbo_Spinal_Atrophy__X_Linked,c,['SBMA']
+1,Burnett_Schwartz_Berberian_syndrome,c,"['KPA', 'N KPA']"
+2,Burn_Mckeown_syndrome,c,"['BMKS', 'N BMKS']"
+3,Calcium_pyrophosphate_arthropathy,c,['CHONDROCALCINOSIS 2']
+4,Camurati_Engelmann_Syndrome,c,['PDD']
+5,Cardiac_Arrest,c,"['arrested', 'N arrested', 'SCA', 'N SCA']"
+6,CARDIOMYOPATHY__FAMILIAL_HYPERTROPHIC__20,c,['CMH20']
+7,Cardiomyopathy__Familial_Idiopathic,c,"['IDC', 'N IDC']"
+8,CARDIOMYOPATHY__FAMILIAL_RESTRICTIVE__1__disorder_,c,"['RCM', 'N RCM']"
+9,Cardiovascular_Diseases,c,"['CVD, NOS', 'N CVD, NOS']"
+10,Caries__Cervical,c,['Cervical Cavity']
+11,Carney_Complex,c,"['NAME SYNDROME', 'CNC', 'N CNC']"
+12,Carpal_Tunnel_Syndrome,c,"['CTS', 'N CTS']"
+13,Cataract__Age_Related_Cortical__1,c,['CATARACT 28']
+14,Cataract__Congenital_Zonular__with_Sutural_Opacities,c,['CCZS']
+15,CATARACT__COPPOCK_LIKE,c,"['CCL', 'N CCL']"
+16,CATARACT__MARNER_TYPE,c,['CTM']
+17,Cat_Diseases,c,['Cat condition']
+18,Cat_eye_syndrome,c,"['CES', 'N CES']"
+19,Cavitary_Optic_Disc_Anomalies,c,['CODA']
+20,Central_Core_Myopathy__disorder_,c,['CCO']
+21,Central_Diabetes_Insipidus,c,['CDI']
+22,Central_Serous_Chorioretinopathy,c,"['N CSC', 'CSC']"
+23,Central_visual_impairment,c,['CVI']
+24,Cerebellar_decompression_injury,c,"['staggered', 'N staggered']"
+25,Cerebelloparenchymal_Disorder_II,c,['CPD2']
+26,Cerebral_Adrenoleukodystrophy,c,['CALD']
+27,CEREBRAL_AMYLOID_ANGIOPATHY__ITM2B_RELATED__1,c,['FBD']
+28,Charcot_Marie_Tooth_Disease__Type_Ib,c,['CMT1B']
+29,Charcot_Marie_Tooth_disease__X_linked__1,c,"['CMTX 1', 'CMTX']"
+30,CHARGE_Syndrome,c,['CHARGE Association']
+31,CHLORPROPAMIDE_ALCOHOL_FLUSHING,c,['CPAF']
+32,Cholestasis_edema_syndrome__Norwegian_type,c,"['LCS', 'N LCS', 'CHLS']"
+33,CHOLESTASIS__INTRAHEPATIC__OF_PREGNANCY__1,c,['ICP1']
+34,Choroideremia,c,"['N TCD', 'TCD']"
+35,Christ_Siemens_Touraine_syndrome,c,"['ED1', 'EDA']"
+36,CHROMATE_RESISTANCE__disorder_,c,"['CHR', 'N CHR']"
+37,Chronic_obstructive_pulmonary_disease_of_horses,c,['heave']
+38,Chronic_respiratory_disease_due_to_Mycoplasma_gallisepticum,c,['MG infection']
+39,Chronic_Spontaneous_Urticaria,c,['CIU']
+40,CITRULLINEMIA__TYPE_II__NEONATAL_ONSET,c,['NICCD']
+41,Classical_Lissencephaly,c,"['LIS1', 'ILS', 'N LIS1']"
+42,Cleft_Lip__Congenital_Healed,c,['CHCL']
+43,Cockayne_Syndrome__Type_II,c,['COCKAYNE SYNDROME B']
+44,Coenuriasis,c,['Gid']
+45,Coffin_Siris_syndrome,c,"['CSS', 'N CSS']"
+46,COLLAGENOSIS__FAMILIAL_REACTIVE_PERFORATING,c,"['RPC', 'N RPC']"
+47,Common_Cold,c,"['Cold', 'colds', 'N colds']"
+48,COMPLEMENT_COMPONENT_2_DEFICIENCY,c,['C2D']
+49,Complete_atrioventricular_block,c,"['chb', 'N chb']"
+50,Complex_Regional_Pain_Syndromes,c,"['CRPS', 'N CRPS']"
+51,CONE_ROD_DYSTROPHY_1__disorder_,c,['CRD1']
+52,Cone_Rod_Dystrophy_2,c,['CRD2']
+53,Congenital_disorder_of_glycosylation_type_1G,c,['CDG Ig']
+54,Congenital_dyserythropoietic_anemia,c,"['CDA, NOS', 'N CDA, NOS']"
+55,Congenital_Generalized_Lipodystrophy_Type_1,c,['BSCL1']
+56,Congenital_Hemidysplasia_with_Ichthyosiform_Erythroderma_and_Limb_Defects,c,"['syndrome child', 'N syndrome child']"
+57,Congenital_Hyperinsulinism,c,['HHI']
+58,Congenital_reticular_ichthyosiform_erythroderma,c,['CRIE']
+59,Congenital_Thrombotic_Thrombocytopenic_Purpura,c,['USS']
+60,Congestive_heart_failure,c,"['CHF', 'N CHF', 'ccf']"
+61,Continuous_spike_and_waves_during_slow_sleep,c,"['CSWS', 'N CSWS']"
+62,COPPER_TOXICOSIS__IDIOPATHIC,c,"['ICT', 'N ICT']"
+63,CORNEAL_ENDOTHELIAL_DYSTROPHY_2,c,['CHED']
+64,Cortical_cataract,c,"['CS', 'N CS']"
+65,CRANIOMETAPHYSEAL_DYSPLASIA__AUTOSOMAL_DOMINANT,c,['CMD']
+66,Craniosynostosis,c,['CRS']
+67,Crossed_Polydactyly__Type_I,c,"['CP1', 'N CP1']"
+68,Cryopyrin_Associated_Periodic_Syndromes,c,['CAPS']
+69,CTLA4_Haploinsufficiency,c,['CHAI']
+70,Cumulative_Trauma_Disorders,c,['RSI']
+71,Curb,c,['curbing']
+72,Cutaneous_Neurocristic_Hamartoma,c,['CNH']
+73,Cyclic_neutropenia,c,"['CN', 'CH', 'N CH']"
+74,Deafness__Sensorineural__And_Male_Infertility,c,"['DIS', 'N DIS']"
+75,Decompression_Sickness,c,"['bend', 'N bend', 'BENDS']"
+76,Deep_thrombophlebitis,c,['dvts']
+77,Deficiency_of_acetyl_CoA_acetyltransferase,c,['BKT']
+78,Deficiency_of_interleukin_36_receptor_antagonist,c,['GPP']
+79,Deficiency_of_mevalonate_kinase,c,['HIDS']
+80,Degenerative_polyarthritis,c,"['a o', 'oas', 'o a', 'OA', 'N a o', 'oas', 'OA', 'N oas', 'primary OA', 'N OA']"
+81,Dental_White_Spot,c,"['White Spots', 'N White Spots']"
+82,Dentatorubral_Pallidoluysian_Atrophy,c,"['NOD', 'DRPLA']"
+83,DERMATITIS_HERPETIFORMIS__FAMILIAL,c,"['DH', 'N DH']"
+84,Dermatofibrosis_lenticularis_disseminata,c,['BOS']
+85,Dermoids_of_cornea,c,['CND']
+86,Deuteranomaly,c,['Green-weak']
+87,DIABETES_MELLITUS__INSULIN_DEPENDENT__15,c,['INSULIN-DEPENDENT DIABETES MELLITUS 15']
+88,DIABETES_MELLITUS__INSULIN_DEPENDENT__17,c,['INSULIN-DEPENDENT DIABETES MELLITUS 17']
+89,DIABETES_MELLITUS__INSULIN_DEPENDENT__2,d,['INSULIN-DEPENDENT DIABETES MELLITUS 2[Disease or Syndrome]']
+90,Diabetes_Mellitus__Neonatal__with_Congenital_Hypothyroidism,c,['NDH']
+91,Diabetic_Ketoacidosis,c,"['DKA', 'N DKA']"
+92,Diamond_Blackfan_Anemia_1,c,"['DBA', 'BDS', 'N BDS']"
+93,Diamond_Blackfan_Anemia_7,c,['DIAMOND-BLACKFAN ANEMIA 7']
+94,DIARRHEA_5__WITH_TUFTING_ENTEROPATHY__CONGENITAL,c,['CTE']
+95,Diffuse_panbronchiolitis,c,['DPB']
+96,Disorder_of_face,c,"['face disease', 'Disease of face']"
+97,distal_ileal_obstruction_syndrome,c,['dios']
+98,dmac,c,"['DMAC', 'N DMAC']"
+99,Dopa_Responsive_Dystonia,c,['DRD']
+100,Dourine,c,['Covering disease']
+101,dowling_degos_disease,c,"['DDD', 'N DDD']"
+102,DOYNE_HONEYCOMB_RETINAL_DYSTROPHY,c,['DHD']
+103,Drug_Hypersensitivity_Syndrome,c,['DHS']
+104,Duane_Retraction_Syndrome,c,['DUS']
+105,DYSFUNCTION___SKIN_DISORDERS,c,['DYSFUNCTION']
+106,Dyskeratosis_Congenita,c,['DKC']
+107,DYSTONIA_12,c,['RDP']
+108,Dystonia__Dopa_Responsive__due_to_Sepiapterin_Reductase_Deficiency,c,"['SRD', 'N SRD']"
+109,Early_myoclonic_encephalopathy,c,['EME']
+110,EAR_WAX__WETDRY,c,"['WW', 'N WW']"
+111,East_Coast_Fever,c,['Turning disease']
+112,Ecthyma__Contagious,c,"['ORF', 'N ORF']"
+113,Ectodermal_dysplasia__hypohidrotic__with_immune_deficiency,c,['EDA-ID']
+114,ECTRODACTYLY__ECTODERMAL_DYSPLASIA__AND_CLEFT_LIPPALATE_SYNDROME_1,c,"['N EEC', 'EEC']"
+115,Ehlers_Danlos_Syndrome,c,['elastic skin']
+116,EHLERS_DANLOS_SYNDROME__MUSCULOCONTRACTURAL_TYPE_1,c,['ATCS']
+117,Elliptocytosis_1,c,"['EL1', 'N EL1']"
+118,ELLIPTOCYTOSIS_2__disorder_,c,['EL2']
+119,Elliptocytosis_4,c,['EL4']
+120,Encephalomyelitis__Eastern_Equine,c,['EEE']
+121,Encephalomyelitis__Western_Equine,c,"['WEE', 'N WEE']"
+122,Encephalopathy_NEC_in_ICD10CM,c,['Other encephalopathy']
+123,ENCEPHALOPATHY__PROGRESSIVE__WITH_OR_WITHOUT_LIPODYSTROPHY,c,['PELD']
+124,Endemic_Tyrolean_Infantile_Cirrhosis,c,['ETIC']
+125,Endocardial_Fibroelastosis,c,['EFE']
+126,Endocrine_Cerebroosteodysplasia,c,"['ECO', 'N ECO']"
+127,Endometriosis,c,['Endo']
+128,ENDPLATE_ACETYLCHOLINESTERASE_DEFICIENCY__disorder_,c,['EAD']
+129,Epidermolysis_Bullosa_Acquisita,c,['EBA']
+130,EPIDERMOLYSIS_BULLOSA__NONSPECIFIC__AUTOSOMAL_RECESSIVE,c,['EBNS']
+131,Epidermolysis_Bullosa_Simplex_Superficialis,c,['EBSS']
+132,EPILEPSY__PARTIAL__WITH_PERICENTRAL_SPIKES,c,['EPPS']
+133,EPILEPSY__PYRIDOXINE_DEPENDENT,c,['EPD']
+134,EPILEPTIC_ENCEPHALOPATHY__CHILDHOOD_ONSET,c,['EEOC']
+135,Episodic_ataxia_type_1,c,['EAM']
+136,Episodic_ataxia_type_2__disorder_,c,"['APCA', 'N APCA']"
+137,Episodic_Ataxia__Type_3,c,['EA3']
+138,EPISODIC_ATAXIA__TYPE_4,c,['N EA4']
+139,Equine_laminitis,c,"['Founder', 'N Founder', 'founders']"
+140,Equine_viral_rhinopneumonitis,c,"['EVR', 'N EVR']"
+141,Erythropoietic_Protoporphyria,c,"['EPP', 'N EPP']"
+142,Excessive_attrition_of_teeth,c,"['Attrition', 'N Attrition']"
+143,Excessive_tearing,c,['Tearing']
+144,Exudative_retinopathy,c,['coat condition']
+145,Facial_Hemiatrophy,c,['HFA']
+146,FAMILIAL_ADENOMATOUS_POLYPOSIS__ATTENUATED__disorder_,c,['AAPC']
+147,Familial_benign_hypercalcemia,c,['FFH']
+148,Familial_benign_pemphigus,c,['HHD']
+149,Familial_dilated_cardiomyopathy,c,['FDC']
+150,Familial_HDL_deficiency,c,"['N FHD', 'HDLD', 'FHD']"
+151,Familial_Hemophagocytic_Lymphocytosis,c,"['FHL', 'FEL', 'FHLH', 'N FEL']"
+152,Familial_hypobetalipoproteinemia,c,['FHBL']
+153,Familial_Hypophosphatemic_Rickets,c,['HVDRR']
+154,Familial_Mediterranean_Fever,c,"['Periodic condition', 'Diseases, Periodic', 'FMF']"
+155,FANCONI_ANEMIA__COMPLEMENTATION_GROUP_B,c,['FA2']
+156,FANCONI_ANEMIA__COMPLEMENTATION_GROUP_I,c,"['FANCI', 'N FANCI']"
+157,Fatal_Familial_Insomnia,c,['FFI']
+158,Fatty_Liver_Disease,c,"['NASH', 'N NASH']"
+159,Feeding_Disorders,c,['Feeding condition']
+160,Femur_bifid_with_monodactylous_ectrodactyly,c,['GWC']
+161,Fetal_valproate_syndrome,c,['FVS']
+162,FG_syndrome,c,"['OKS', 'FGS']"
+163,Fibromuscular_Dysplasia,c,"['FMD', 'N FMD']"
+164,Fibromyalgia,c,"['Fibro', 'N Fibro']"
+165,Fleck_corneal_dystrophy,c,"['FCD', 'N FCD']"
+166,Floating_harbor_syndrome,c,['FLHS']
+167,Focal_nodular_hyperplasia_of_liver,c,"['FNH', 'N FNH']"
+168,Friedreich_Ataxia,c,"['FA', 'family ataxia', 'N FA']"
+169,Frontotemporal_dementia,c,"['FTD', 'WLD']"
+170,FRONTOTEMPORAL_DEMENTIA__CHROMOSOME_3_LINKED,c,['DEM']
+171,FRONTOTEMPORAL_LOBAR_DEGENERATION_WITH_TDP43_INCLUSIONS__GRN_RELATED,c,['HDDD']
+172,Fryns_syndrome,c,['FRNS']
+173,furuncle,c,"['BOIL', 'BOILS', 'N BOIL']"
+174,Furuncle_of_breast,c,['breast boil']
+175,GALACTOSIALIDOSIS,c,"['GSL', 'N GSL']"
+176,Gastroesophageal_reflux_disease,c,"['GER', 'GERD']"
+177,Generalized_Epilepsy_with_Febrile_Seizures_Plus,c,['GEFS+']
+178,Generalized_Myotonia_of_Thomsen,c,['THD']
+179,Gerstmann_Straussler_Scheinker_Disease,c,['GSS']
+180,Gestational_Diabetes,c,"['GDM', 'N GDM']"
+181,Giant_Axonal_Neuropathy,c,['GAN']
+182,Gilles_de_la_Tourette_syndrome,c,"['GTS', 'N GTS']"
+183,Globoid_cell_leukodystrophy,c,['GLD']
+184,Glucocorticoid_remediable_aldosteronism,c,"['GRA', 'N GRA']"
+185,Glutaric_Aciduria_III,c,['GA3']
+186,Glutaric_aciduria__type_1,c,"['GA1', 'N GA1', 'GA I', 'N GA I']"
+187,Glycogen_Storage_Disease_Type_VI,c,"['Her Disease', 'N Her Disease']"
+188,Gorlin_Chaudhry_Moss_syndrome,c,['GCMS']
+189,Granulomatous_Disease__Chronic__Autosomal_Recessive__Cytochrome_B_Positive__Type_I,c,['CDG1']
+190,Granulomatous_Disease__Chronic__X_Linked,c,['CGD']
+191,Gray_Platelet_Syndrome,c,"['N GPS', 'GPS']"
+192,GRISCELLI_SYNDROME__TYPE_2,c,['PAID SYNDROME']
+193,Group_B_Streptococcal_Infection,c,"['GBS', 'N GBS']"
+194,Growth_failure,c,"['failure growth', 'Linear Growth Failure']"
+195,Gyrate_Atrophy,c,['GACR']
+196,Haemophilus_Infections,c,['Hib']
+197,Hantavirus_Infections,c,"['HPS', 'N HPS']"
+198,Harding_ataxia,c,['EOCA']
+199,Harlequin_Fetus,c,"['HI', 'N HI']"
+200,Hartnup_Disease,c,"['H DISEASE', 'h condition', 'N h condition']"
+201,Hashimoto_Disease,c,"['HT', 'N HT']"
+202,Hay_Wells_syndrome,c,['AEC']
+203,HEART_AND_BRAIN_MALFORMATION_SYNDROME,c,['HBMS']
+204,HEMIHYPERPLASIA__ISOLATED,c,['HHP']
+205,Hemoglobin_SC_Disease,c,['HbSC']
+206,Hemophagocytic_Lymphohistiocytosis__Familial__1,c,"['FHL1', 'N FHL1']"
+207,HEMOPHAGOCYTIC_LYMPHOHISTIOCYTOSIS__FAMILIAL__3,c,['FHL3']
+208,Hemophilia_A,c,['HEMA']
+209,Hemorrhagic_Fevers__Viral,c,['VHFs']
+210,Hemorrhagic_Fever_with_Renal_Syndrome,c,"['hfr', 'N hfr']"
+211,Hemorrhoids,c,"['pile', 'Piles']"
+212,Heparin_induced_thrombocytopenia,c,"['HIT', 'N HIT']"
+213,Hereditary_benign_telangiectasia__disorder_,c,['HBT']
+214,Hereditary_pyropoikilocytosis,c,['HPP']
+215,HETEROTAXY__VISCERAL__2__AUTOSOMAL,c,"['HTX', 'N HTX']"
+216,HHH_syndrome,c,['HHH']
+217,Hirschsprung_Disease__Cardiac_Defects__and_Autonomic_Dysfunction,c,['HCAD']
+218,Histiocytosis_with_joint_contractures_and_sensorineural_deafness,c,"['PHID', 'N PHID']"
+219,HMN__Hereditary_Motor_Neuropathy__Proximal_Type_I,c,"['SMA I', 'N SMA I']"
+220,Horizontal_dissociated_gaze_palsy,c,['DHD']
+221,Hyalinosis__Systemic,c,['HFS']
+222,Hyaloideoretinal_degeneration_of_Wagner,c,"['ERVR', 'N ERVR']"
+223,Hydranencephaly_with_Renal_Aplasia_Dysplasia,c,"['MARCH', 'N MARCH']"
+224,Hydrocephalus__Normal_Pressure,c,['NPH']
+225,HYPERCHOLESTEROLEMIA__AUTOSOMAL_RECESSIVE,c,"['ARH', 'N ARH']"
+226,Hyperferritinemia__hereditary__with_congenital_cataracts,c,['HHCS']
+227,Hyperglycinemia__Transient_Neonatal,c,['TNH']
+228,Hyperostosis__Diffuse_Idiopathic_Skeletal,c,"['DISH', 'N DISH']"
+229,HYPERPIGMENTATION__FAMILIAL_PROGRESSIVE__1,c,['FPH']
+230,Hypertelorism__Severe__With_Midface_Prominence__Myopia__Mental_Retardation__And_Bone_Fragility,c,['HMMS']
+231,Hypoalphalipoproteinemia__Familial,c,"['HDLC', 'FHA']"
+232,Hypocalciuric_hypercalcemia__familial__type_1,c,"['HHC', 'N HHC']"
+233,HYPOGONADOTROPIC_HYPOGONADISM_15_WITH_OR_WITHOUT_ANOSMIA,c,['HH15']
+234,HYPOGONADOTROPIC_HYPOGONADISM_18_WITH_OR_WITHOUT_ANOSMIA,c,['HH18']
+235,HYPOGONADOTROPIC_HYPOGONADISM_4_WITH_OR_WITHOUT_ANOSMIA,c,['HH4']
+236,Hypomagnesemia_1__Intestinal,c,['HSH']
+237,Hypomenorrhea,c,"['light period', 'N Light periods']"
+238,HYPOMYELINATION_WITH_BRAINSTEM_AND_SPINAL_CORD_INVOLVEMENT_AND_LEG_SPASTICITY,c,['HBSL']
+239,Hypoparathyroidism_familial_isolated,c,['FIH']
+240,HYPOPARATHYROIDISM_RETARDATION_DYSMORPHISM_SYNDROME,c,"['HRDS', 'N HRDS']"
+241,HYPOPHOSPHATEMIC_RICKETS_WITH_HYPERCALCIURIA__HEREDITARY,c,['HHRH']
+242,Hypophosphatemic_Rickets__X_Linked_Dominant,c,['HYP']
+243,HYPOPLASTIC_LEFT_HEART_SYNDROME_1,c,['HLHS']
+244,Hypoproteinemia__Hypercatabolic,c,"['IMMUNODEFICIENCY 43', 'IMMUNODEFICIENCY 43']"
+245,HYPOTRICHOSIS_1,c,"['N HHS', 'HHS']"
+246,HYPOTRICHOSIS_6,c,"['HTL', 'LAH', 'N LAH']"
+247,Hypotrichosis_simplex,c,"['HTS', 'N HTS']"
+248,Ichthyosis__Cyclic__with_Epidermolytic_Hyperkeratosis,c,['AEI']
+249,Idiopathic_Interstitial_Pneumonias,c,"['IIP', 'N IIP']"
+250,Idiopathic_pulmonary_hypertension,c,['IPAH']
+251,Immune_dysfunction_with_T_cell_inactivation_due_to_calcium_entry_defect_1,c,"['IMMUNODEFICIENCY 9', 'N IMMUNODEFICIENCY 9']"
+252,Immune_dysfunction_with_T_cell_inactivation_due_to_calcium_entry_defect_2,c,['IMMUNODEFICIENCY 10']
+253,IMMUNODEFICIENCY_13,c,['ICL']
+254,IMMUNODEFICIENCY_50,c,['IMD50']
+255,IMMUNODEFICIENCY_CENTROMERIC_INSTABILITY_FACIAL_ANOMALIES_SYNDROME_1,c,['ICF1']
+256,IMMUNODEFICIENCY_CENTROMERIC_INSTABILITY_FACIAL_ANOMALIES_SYNDROME_2,c,['ICF2']
+257,IMMUNODEFICIENCY_CENTROMERIC_INSTABILITY_FACIAL_ANOMALIES_SYNDROME_4,c,['ICF4']
+258,IMMUNODEFICIENCY__COMMON_VARIABLE__10,c,['DAVID']
+259,Immunodeficiency_due_to_Defect_in_CD3_Zeta,c,"['IMMUNODEFICIENCY 25', 'N IMMUNODEFICIENCY 25']"
+260,Immunodeficiency_with_thymoma,c,"['GOOD SYNDROME', 'GOOD SYNDROME']"
+261,Impacted_tooth,c,"['Impacted', 'N Impacted', 'N Impaction', 'Impaction']"
+262,INCLUSION_BODY_MYOPATHY_WITH_EARLY_ONSET_PAGET_DISEASE_WITH_OR_WITHOUT_FRONTOTEMPORAL_DEMENTIA_2,c,['MSP2']
+263,INCLUSION_BODY_MYOPATHY_WITH_EARLY_ONSET_PAGET_DISEASE_WITH_OR_WITHOUT_FRONTOTEMPORAL_DEMENTIA_3,c,['MSP3']
+264,Inclusion_Body_Myositis__disorder_,c,['IBM']
+265,Indifference_to_Pain__Congenital__Autosomal_Recessive,c,['CIP']
+266,Indirect_Contact_Transmission_Infection,c,"['Infection, Indirect']"
+267,Infantile_convulsions_and_paroxysmal_choreoathetosis__familial__disorder_,c,"['ICCA', 'N ICCA']"
+268,Infantile_Neuroaxonal_Dystrophy,c,"['PLAN', 'N PLAN']"
+269,Infantile_neuronal_ceroid_lipofuscinosis,c,['INCL']
+270,Infantile_Sialic_Acid_Storage_Disease,c,['ISSD']
+271,Infection_due_to_Clostridium_novyi,c,"['blacks disease', 'Black disease']"
+272,Infection_due_to_glycopeptide_intermediate_Staphylococcus_aureus,c,"['GISA', 'N GISA']"
+273,Infectious_Canine_Hepatitis,c,"['ICH', 'N ICH']"
+274,Inferior_Wall_Myocardial_Infarction,c,['imi']
+275,Infestation,c,['infestations']
+276,Inflammatory_Bowel_Disease_11,c,['INFLAMMATORY BOWEL DISEASE 11']
+277,Inflammatory_Bowel_Disease_14,c,['INFLAMMATORY BOWEL DISEASE 14']
+278,Inflammatory_Bowel_Disease_15,c,"['INFLAMMATORY BOWEL DISEASE 15', 'INFLAMMATORY BOWEL DISEASE 15', 'INFLAMMATORY BOWEL DISEASE 15']"
+279,Inflammatory_Bowel_Disease_16,c,"['INFLAMMATORY BOWEL DISEASE 16', 'INFLAMMATORY BOWEL DISEASE 16']"
+280,Inflammatory_Bowel_Disease_18,c,['INFLAMMATORY BOWEL DISEASE 18']
+281,Inflammatory_Bowel_Disease_20,c,['INFLAMMATORY BOWEL DISEASE 20']
+282,Inflammatory_Bowel_Disease_21,c,['INFLAMMATORY BOWEL DISEASE 21']
+283,Intermediate_syndrome,c,['Between syndrome']
+284,Interosseous_desmitis,c,['Splints']
+285,Interstitial_emphysema,c,['PIE']
+286,Intrauterine_growth_restriction__metaphyseal_dysplasia__adrenal_hypoplasia_congenita__and_genital_anomaly_syndrome,c,"['IMAGE', 'N IMAGE']"
+287,Invasive_Pulmonary_Aspergillosis,c,"['N IPA', 'IPA']"
+288,Irritable_Bowel_Syndrome,c,"['IBS', 'N IBS']"
+289,Isolated_Growth_Hormone_Deficiency__Type_IB,c,['IGHD IB']
+290,Isovaleryl_CoA_dehydrogenase_deficiency,c,"['IVA', 'N IVA']"
+291,Juberg_Marsidi_syndrome,c,"['JMS', 'N JMS']"
+292,Juvenile_arthritis,c,['JIA']
+293,Juvenile_hemochromatosis,c,"['JH', 'N JH']"
+294,Juvenile_Myoclonic_Epilepsy,c,"['JME', 'N JME', 'EJM']"
+295,Juvenile_Onset_Still_Disease,c,"['Still Disease', 'disease still', 'N Still Disease', 'N disease still']"
+296,Juvenile_rheumatoid_arthritis,c,['JRA']
+297,Kallmann_Syndrome,c,['HHA']
+298,Kaufman_oculocerebrofacial_syndrome,c,"['KOS', 'N KOS']"
+299,Keratoconjunctivitis_Sicca,c,['kc']
+300,Keratoconus_posticus_circumscriptus,c,['KPC']
+301,Keratosis_Follicularis,c,"['DAR', 'N DAR']"
+302,Kidney_Failure__Acute,c,['AKI']
+303,Kidney_Failure__Chronic,c,['ESRD']
+304,Klippel_Trenaunay_Weber_Syndrome,c,['KTS']
+305,KSHV_Inflammatory_Cytokine_Syndrome,c,"['KICS', 'N KICS']"
+306,Lafora_Disease,c,['MELF']
+307,Larsen_syndrome,c,"['LRS', 'N LRS']"
+308,Laryngeal_Atresia__Encephalocele__and_Limb_Deformities,c,"['LEL', 'N LEL']"
+309,Latent_Tuberculosis,c,['LTBI']
+310,Lattice_corneal_dystrophy_Type_I,c,"['LCD', 'N LCD']"
+311,Left_Bundle_Branch_Block,c,['LBBB']
+312,Left_Sided_Heart_Failure,c,"['lvf', 'N lvf']"
+313,Lennox_Gastaut_syndrome,c,"['LGS', 'N LGS']"
+314,Lesch_Nyhan_Syndrome,c,"['LNS', 'N LNS']"
+315,Leukodystrophy__Hypomyelinating__2,c,"['HLD2', 'N HLD2']"
+316,Leukoencephalitis__Acute_Hemorrhagic,c,['AHL']
+317,Leukomalacia__Periventricular,c,"['PVL', 'N PVL']"
+318,Lewy_Body_Disease,c,['LBD']
+319,Lichenoid_Eruptions,c,"['Lichenoid reaction', 'lichenoid reactions', 'N lichenoid reactions']"
+320,Li_Fraumeni_Like_Syndrome,c,['LFL']
+321,Li_Fraumeni_Syndrome,c,['LFS']
+322,Lipoid_nephrosis,c,"['Disease, Minimal Change', 'N Disease, Minimal Change']"
+323,Lipomucopolysaccharidosis,c,"['ML I', 'N ML I']"
+324,Littles_Disease,c,['Little Disease']
+325,Liver_Dysplastic_Nodule,c,"['DN', 'N DN']"
+326,Long_Qt_Syndrome_12,c,['LONG QT SYNDROME 12']
+327,lower__respiratory__tract__infection_NOS__Acute_lower_respiratory_tract_infection,c,"['Acute', 'N Acute']"
+328,Lown_Ganong_Levine_Syndrome,c,['lgl']
+329,Lung_consolidation,c,"['Consolidation', 'N Consolidation']"
+330,LUNG_DISEASE__IMMUNODEFICIENCY__AND_CHROMOSOME_BREAKAGE_SYNDROME,c,['LICS']
+331,Lupus_Erythematosus__Discoid,c,"['DLE', 'N DLE']"
+332,Lupus_Erythematosus__Systemic,d,"['SLE NOS[Disease or Syndrome]', 'SLE NOS[Disease or Syndrome]', 'SLE NOS[Disease or Syndrome]', 'SLE NOS[Disease or Syndrome]']"
+333,Lupus_erythematosus_tumidus,c,"['LET', 'N LET']"
+334,Machado_Joseph_Disease,c,['SCA3']
+335,MACROGLOBULINEMIA__WALDENSTROM__SUSCEPTIBILITY_TO__1,c,['WM1']
+336,Macrophage_Activation_Syndrome,c,"['MAS', 'N MAS']"
+337,Macular_dystrophy__corneal_type_1,c,['MCD']
+338,Macular_Edema__Cystoid,c,"['MDDC', 'N MDDC']"
+339,Malnutrition,c,"['Deficiency', 'Deficit, NOS']"
+340,Malnutrition_related_diabetes_mellitus,c,['MRDM']
+341,Mandibulofacial_Dysostosis,c,['TCS']
+342,Maple_Syrup_Urine_Disease,c,['MSU']
+343,Marfan_Syndrome,c,"['MFS', 'N MFS']"
+344,Marinesco_Sjogren_syndrome,c,"['MSS', 'N MSS']"
+345,Marles_Greenberg_Persaud_syndrome,c,['MOTA']
+346,Maturity_onset_diabetes_mellitus_in_young,c,['modi']
+347,Megaloblastic_Anemia_1,c,"['IGS', 'N IGS']"
+348,MELAS_Syndrome,c,['mela']
+349,MENTAL_RETARDATION__ANTERIOR_MAXILLARY_PROTRUSION__AND_STRABISMUS,c,['MRAMS']
+350,Mental_Retardation__Autosomal_Recessive_2,c,['N MRT2']
+351,METACARPAL_4_5_FUSION,c,['MF4']
+352,METAPHYSEAL_DYSPLASIA_WITHOUT_HYPOTRICHOSIS,c,['CHHV']
+353,Methylcobalamin_Deficiency__CblG_Type,c,['HMAG']
+354,microbial_disease,c,['microbial condition']
+355,MICROCEPHALY__EPILEPSY__AND_DIABETES_SYNDROME,c,['MEDS']
+356,Microphthalmia__Syndromic_10,c,['MOBA']
+357,MITOCHONDRIAL_MYOPATHY_AND_SIDEROBLASTIC_ANEMIA,c,['MLASA']
+358,Mobius_Syndrome,c,['MBS']
+359,Mucocutaneous_Lymph_Node_Syndrome,c,['KD']
+360,Mucolipidosis_Type_IV,c,"['ML IV', 'ML4']"
+361,Mucopolysaccharidosis_II,c,['Mucopolysaccharidosis 2']
+362,Mucopolysaccharidosis_III,c,['Mucopolysaccharidosis 3']
+363,Multiple_Acyl_Coenzyme_A_Dehydrogenase_Deficiency,c,['ACAD']
+364,Multiple_Sulfatase_Deficiency_Disease,c,"['MSD', 'N MSD']"
+365,Muscular_Dystrophy__Facioscapulohumeral,c,['FMD']
+366,Muscular_Dystrophy__Oculopharyngeal,c,['OPMD']
+367,MYELOPROLIFERATIVE_DISORDER__CHRONIC__WITH_EOSINOPHILIA,c,['MPE']
+368,MYOPATHY__MYOFIBRILLAR__DESMIN_RELATED,c,['DRM']
+369,MYOPATHY__TUBULAR_AGGREGATE__1,c,['TAM1']
+370,MYOPATHY__TUBULAR_AGGREGATE__2,c,['TAM2']
+371,MYOPATHY_WITH_EXERCISE_INTOLERANCE__SWEDISH_TYPE,c,"['HML', 'N HML']"
+372,MYOPIA__HIGH__WITH_CATARACT_AND_VITREORETINAL_DEGENERATION,c,['MCVD']
+373,Myotonia_Fluctuans__disorder_,c,"['MF', 'N MF']"
+374,MYOTONIC_DYSTROPHY_1,c,"['DM1', 'N DM1']"
+375,Nail_Patella_Syndrome,c,"['NPS', 'N NPS']"
+376,Nakajo_syndrome,c,['CANDLE']
+377,Namaqualand_hip_dysplasia,c,['N NHD']
+378,Nance_Horan_syndrome,c,['NHS']
+379,Nanukayami,c,"['FEVER, SEVEN DAY']"
+380,Native_American_myopathy,c,"['N NAM', 'NAM']"
+381,Natural_Killer_Cell_Deficiency__Familial_Isolated,c,['Mini-chromosome Maintenance 4']
+382,NAVAJO_NEUROHEPATOPATHY,c,"['NN', 'N NNH', 'NNH']"
+383,Neonatal_Abstinence_Syndrome,c,"['NAS', 'N NAS']"
+384,Neonatal_hemochromatosis,c,"['NH', 'N NH']"
+385,Neuroaxonal_Dystrophies,c,"['N NAD', 'NAD']"
+386,Neuronal_intranuclear_inclusion_disease,c,['NIID']
+387,Neutropenia__Severe_Congenital__X_Linked,c,['XLN']
+388,Nevus_Sebaceus_of_Jadassohn,c,"['SFM', 'N SFM']"
+389,Nonketotic_Hyperglycinemia,c,"['GCE', 'N GCE']"
+390,Noonan_Syndrome_2,c,"['NS2', 'N NS2']"
+391,NOONAN_SYNDROME_3,c,"['NS3', 'N NS3']"
+392,Noonan_Syndrome_4,c,"['NS4', 'N NS4']"
+393,Noonan_Syndrome_5,c,['NS5']
+394,Normal_drug_tolerance,c,"['Normal Tolerance', 'N Normal Tolerance']"
+395,Nuclear_non_senile_cataract,c,"['NS', 'N NS']"
+396,Obstetric_disorders,c,['Obstetric condition']
+397,Ocular_albinism__type_II,c,['AIED']
+398,Ocular_Cicatricial_Pemphigoid,c,"['N OCP', 'OCP']"
+399,Oculocerebrocutaneous_syndrome,c,['OCCS']
+400,Oculocerebrorenal_Syndrome,c,['OCRL']
+401,Oculocutaneous_albinism_type_1A,c,['ATN']
+402,Oculorespiratory_syndrome,c,"['ORS', 'N ORS']"
+403,Opitz_G_syndrome__type_2,c,['G SYNDROME']
+404,Opitz_trigonocephaly_syndrome,c,"['N syndrome c', 'syndrome c', 'C SYNDROME']"
+405,OPTIC_ATROPHY_2__disorder_,c,['OPA2']
+406,OPTIC_ATROPHY_6__disorder_,c,['OPTIC ATROPHY 6']
+407,OROFACIAL_CLEFT_1,c,['OFC']
+408,orthopedic_disorders,c,['orthopedic condition']
+409,Osteoarthritis_of_the_hand,c,"['HOA', 'N HOA']"
+410,Osteogenesis_Imperfecta,c,['OI']
+411,Osteogenesis_imperfecta__Levin_type,c,['GDD']
+412,Osteoporosis_with_pseudoglioma,c,['OPS']
+413,Otitis_Media_with_Effusion,c,"['OME', 'N OME']"
+414,Oto_Palato_digital_syndrome_type_1,c,['OPD1']
+415,OTOPALATODIGITAL_SYNDROME__TYPE_II,c,['FPO']
+416,Otorhinolaryngologic_Diseases,c,"['ENT Diseases', 'ENT condition']"
+417,Ovalocytosis__Malaysian_Melanesian_Filipino_Type,c,"['SAO', 'N SAO']"
+418,Ovarian_Diseases,c,['ovarian condition']
+419,Ovarian_Failure__Premature,c,['POI']
+420,OVERLAP_CONNECTIVE_TISSUE_DISEASE,c,['MASS PHENOTYPE']
+421,Painful_Bladder_Syndrome,c,"['PBS', 'N PBS']"
+422,Pallister_Hall_syndrome,c,['PHS']
+423,PANCREATIC_AND_CEREBELLAR_AGENESIS,c,"['PACA', 'N PACA']"
+424,Papillon_Lefevre_Disease,c,"['PLS', 'PALS', 'N PALS', 'N PLS']"
+425,PARAGANGLIOMAS_2__disorder_,c,['PGL2']
+426,PARAGANGLIOMAS_3,c,"['PGL3', 'N PGL3']"
+427,Paramyotonia_Congenita__disorder_,c,['PMC']
+428,Parasite_infestation,c,"['Infestation, NOS']"
+429,PARKINSON_DISEASE_15__AUTOSOMAL_RECESSIVE__disorder_,c,['PKPS']
+430,PARKINSON_DISEASE_2__AUTOSOMAL_RECESSIVE_JUVENILE,c,['PARK2']
+431,Paroxysmal_nocturnal_dyspnea,c,"['PND', 'pnds', 'N PND']"
+432,Paroxysmal_nocturnal_hemoglobinuria,c,['PNH']
+433,Patau_syndrome,c,['N Trisomy NOS']
+434,Pelger_Huet_Anomaly,c,['PHA']
+435,Pelizaeus_Merzbacher_Disease,c,['PMD']
+436,Pelvic_Inflammatory_Disease,c,"['PID', 'N PID']"
+437,Pemphigus_and_fogo_selvagem,c,['Wild fire']
+438,Pentalogy_of_Cantrell,c,"['TAS', 'N TAS']"
+439,Peripheral_Vascular_Insufficiency,c,['PVI']
+440,PEROXISOME_BIOGENESIS_DISORDER_1A__ZELLWEGER_,c,['ZS']
+441,Peroxisome_Biogenesis_Disorder__Complementation_Group_1,c,['CG1']
+442,PEROXISOME_BIOGENESIS_DISORDER__COMPLEMENTATION_GROUP_10,c,['CG10']
+443,Peroxisome_Biogenesis_Disorder__Complementation_Group_12,c,['CG12']
+444,PEROXISOME_BIOGENESIS_DISORDER__COMPLEMENTATION_GROUP_2,c,['CG2']
+445,Peroxisome_Biogenesis_Disorder__Complementation_Group_3,c,['CG3']
+446,Peroxisome_Biogenesis_Disorder__Complementation_Group_4,c,['CG4']
+447,PEROXISOME_BIOGENESIS_DISORDER__COMPLEMENTATION_GROUP_5,c,['CG5']
+448,Peroxisome_Biogenesis_Disorder__Complementation_Group_7,c,['CG7']
+449,PEROXISOME_BIOGENESIS_DISORDER__COMPLEMENTATION_GROUP_8,c,['CG8']
+450,Peroxisome_Biogenesis_Disorder__Complementation_Group_C,c,['CGC']
+451,Peroxisome_Biogenesis_Disorder__Complementation_Group_E,c,['CGE']
+452,Peroxisome_Biogenesis_Disorder__Complementation_Group_G,c,"['CGG', 'N CGG']"
+453,Peroxisome_Biogenesis_Disorder__Complementation_Group_H,c,['CGH']
+454,Peroxisome_Biogenesis_Disorder__Complementation_Group_R,c,['CGR']
+455,Peroxisome_biogenesis_disorders,c,"['PBD', 'N PBD']"
+456,Persistent_Polyclonal_B_Cell_Lymphocytosis,c,"['PPBL', 'N PPBL']"
+457,Petit_mal_status,c,"['Status, Absence']"
+458,Phenylketonurias,c,['PKU']
+459,PHOTOPAROXYSMAL_RESPONSE_1,c,"['PPR', 'N PPR']"
+460,Photopsia,c,"['Light flashes', 'Flashing lights', 'flickering', 'flicker', 'Flashes']"
+461,PIGMENTARY_DISORDER__RETICULATE__WITH_SYSTEMIC_MANIFESTATIONS,c,"['PDR', 'N PDR']"
+462,Pili_torti_deafness_syndrome,c,"['PTD', 'N PTD']"
+463,Pinta,c,['AZUL']
+464,PITT_HOPKINS_SYNDROME,c,['PTHS']
+465,Pituitary_Diseases,c,"['Pituitary', 'N Pituitary']"
+466,Pituitary_Hormone_Deficiency__Combined__1,c,['CPHD1']
+467,Pityriasis_Rubra_Pilaris,c,"['PRP', 'N PRP']"
+468,Plant_Diseases,c,"['diseases plants', 'plant condition']"
+469,Plasmodium_ovale_infection,c,"['N p ovale', 'p ovale']"
+470,PLCG2_associated_antibody_deficiency_and_immune_dysregulation,c,['PLAID']
+471,Pneumocystis_jiroveci_pneumonia,c,"['PCP', 'N PCP', 'PJP']"
+472,Polycystic_Ovary_Syndrome,c,"['PCO', 'PCOS']"
+473,Polyglandular_Type_I_Autoimmune_Syndrome,c,['APS I']
+474,Polymyalgia_Rheumatica,c,['pmr']
+475,PONTOCEREBELLAR_HYPOPLASIA__TYPE_9,c,['PCH9']
+476,POPLITEAL_PTERYGIUM_SYNDROME__LETHAL_TYPE,c,['BPS']
+477,Porcine_Reproductive_and_Respiratory_Syndrome,c,['PRRS']
+478,PORTAL_HYPERTENSION__NONCIRRHOTIC,c,['NCPH']
+479,Postural_Orthostatic_Tachycardia_Syndrome,c,"['POTS', 'N POTS']"
+480,Potassium_aggravated_myotonia,c,['PAM']
+481,Potocki_Lupski_syndrome,c,['PTLS']
+482,Prader_Willi_Syndrome,c,"['PWS', 'N PWS']"
+483,PREMATURE_CHROMATID_SEPARATION_TRAIT,c,['PCS']
+484,Premature_ventricular_contractions,c,['VPC']
+485,Premenstrual_syndrome,c,['PMS']
+486,Premenstrual_Tension,c,"['pmt', 'N pmt']"
+487,prenatal_nutritional_deficiency,c,['prenatal Deficiency']
+488,Prieto_X_linked_mental_retardation_syndrome,c,['PRS']
+489,Primary_hyperoxaluria_type_2,c,['HP2']
+490,Primary_hyperoxaluria__type_I,c,['Oxalosis 1']
+491,Primary_sclerosing_cholangitis,c,['PSC']
+492,Proliferative_Glomerulonephritis_with_Monoclonal_IgG_Deposits,c,['PGNMID']
+493,Proliferative_vitreoretinopathy,c,['PVR']
+494,PROPERDIN_DEFICIENCY__X_LINKED,c,['PFD']
+495,Prune_Belly_Syndrome,c,"['PBS', 'N PBS']"
+496,Pseudofolliculitis_barbae__disorder_,c,['PFB']
+497,Pseudo_Hurler_Polydystrophy,c,['ML III']
+498,Pseudohyperkalemia_Cardiff,c,"['CHC', 'N CHC']"
+499,Pseudohypoaldosteronism__Type_IIa,c,['PHA2A']
+500,Pseudohypoparathyroidism__Type_Ia,c,['PHP IA']
+501,PSEUDOHYPOPARATHYROIDISM__TYPE_IB,c,"['PHP IB', 'N PHP IB']"
+502,PULMONARY_ALVEOLAR_PROTEINOSIS__ACQUIRED,c,"['PAP, ACQUIRED']"
+503,Pulmonary_Histiocytosis_X,c,['PLCH']
+504,Pyle_metaphyseal_dysplasia,c,['pyle']
+505,Pyogenic_Arthritis__Pyoderma_Gangrenosum_and_Acne,c,"['PAPA', 'PAPAS']"
+506,Pyotraumatic_dermatitis,c,"['Hot spots', 'hot spot', 'N Hot spots', 'N hot spot']"
+507,RAINE_SYNDROME,c,"['RNS', 'N RNS']"
+508,Rapidly_progressive_glomerulonephritis,c,['RPGN']
+509,Rasmussen_subacute_encephalitis,c,['CFE']
+510,Raynaud_Disease,c,"['raynaud', 'N raynaud']"
+511,Recessive_mitochondrial_ataxia_syndrome,c,['Miras']
+512,reflex_disorder,c,['reflex Disease']
+513,Reifenstein_Syndrome,c,['PAIS']
+514,Reis_Bucklers_corneal_dystrophy,c,['CDRB']
+515,Renal_Osteodystrophy,c,['ROD']
+516,Renal_tubular_acidosis,c,['RTA']
+517,Respiratory_Distress_Syndrome__Newborn,c,['RDS']
+518,RESPIRATORY_RHYTHMICITY_IN_SLEEP,c,['RRIS']
+519,Respiratory_Tract_Infections,c,"['rti', 'N rti']"
+520,Restless_Legs_Syndrome,c,['RLS']
+521,Reticulate_acropigmentation_of_Kitamura,c,['RAK']
+522,RETINAL_CONE_DYSTROPHY_4,c,['RCD4']
+523,Retinal_lattice_degeneration,c,['Lattice degeneration']
+524,Retinitis_Pigmentosa_11,c,['RP11']
+525,RETINITIS_PIGMENTOSA_12__disorder_,c,['RP12']
+526,Retinitis_Pigmentosa_17,c,['RP17']
+527,Retinitis_Pigmentosa_18,c,"['N RP18', 'RP18']"
+528,RETINITIS_PIGMENTOSA_6__disorder_,c,['RP6']
+529,Retinitis_Pigmentosa_7,c,['RP7']
+530,RETINITIS_PIGMENTOSA_9,c,['RP9']
+531,Rett_Syndrome,c,['RTT']
+532,Rheumatic_Fever,c,"['ARF', 'N ARF', 'N ARF']"
+533,Rheumatic_Heart_Disease,c,['RHD']
+534,Ring_chromosome_17_syndrome,c,['Ring 17']
+535,Roberts_SC_phocomelia_syndrome,c,"['RBS', 'N RBS']"
+536,ROBINOW_SYNDROME__AUTOSOMAL_DOMINANT_2,c,['DRS2']
+537,Rodent_Diseases,c,['Rodent Disease']
+538,ROTHMUND_THOMSON_SYNDROME__TYPE_1,c,['RTS1']
+539,SCALP_EAR_NIPPLE_SYNDROME,c,['SENS']
+540,Scheuermanns_Disease,c,"['Calve', 'N Calve']"
+541,SCHISTOSOMA_MANSONI_INFECTION__SUSCEPTIBILITYRESISTANCE_TO,c,['SM1']
+542,SCHIZOPHRENIA_4__disorder_,c,['SCHIZOPHRENIA 4']
+543,SCHOPF_SCHULZ_PASSARGE_SYNDROME__disorder_,c,['SSPS']
+544,Schwartz_Jampel_Syndrome,c,"['SJS', 'N SJS']"
+545,SCLEROSING_CHOLANGITIS__NEONATAL,c,"['NSC', 'N NSC']"
+546,Sclerosteosis,c,['SOST']
+547,Scott_Syndrome,c,['SCTS']
+548,Secondary_dental_caries,c,['Secondary Cavity']
+549,Sensorineural_Hearing_Loss__disorder_,c,['SNHL']
+550,Serum_Sickness,c,"['Serum reaction', 'N Serum reaction']"
+551,Severe_Acute_Respiratory_Syndrome,c,"['SARS', 'N SARS']"
+552,Severe_Aplastic_Anemia,c,['SAA']
+553,SEVERE_COMBINED_IMMUNODEFICIENCY__ATHABASKAN_TYPE,c,['N RS-SCID']
+554,Severe_malnutrition,c,"['Severe Deficiency', 'N Severe Deficiency']"
+555,Severe_Sepsis,c,['Severe Systemic infection']
+556,Sex_Differentiation_Disorders,c,"['DSD', 'CARD', 'N CARD', 'N DSD', 'N CARD']"
+557,Short_Stature_Obesity_Syndrome,c,['SSOS']
+558,SHORT_syndrome,c,['SHORT SYNDROME']
+559,Shprintzen_Goldberg_syndrome,c,['CATCH 22']
+560,Sialodacryoadenitis_of_rat,c,['SDA']
+561,Sickle_Cell_SS_Disease,c,['Hb SS']
+562,Sick_Sinus_Syndrome,c,['SSS']
+563,SICK_SINUS_SYNDROME_1__AUTOSOMAL_RECESSIVE,c,['SICK SINUS SYNDROME 1']
+564,SKINHAIREYE_PIGMENTATION__VARIATION_IN__2__disorder_,c,['RHA']
+565,Sleep_Apnea__Central,c,"['CSA', 'N CSA']"
+566,Slowed_Nerve_Conduction_Velocity__Autosomal_Dominant,c,['SNCV']
+567,SMITH_KINGSMORE_SYNDROME,c,"['SKS', 'N SKS']"
+568,Spastic_paraplegia_15__autosomal_recessive,c,['SPG15']
+569,Spastic_paraplegia_4__autosomal_dominant,c,['SPG4']
+570,Spastic_Paraplegia__Ataxia__And_Mental_Retardation,c,['SPAR']
+571,Spastic_syndrome,c,"['Stretches', 'N Stretches']"
+572,SPATIAL_VISUALIZATION__APTITUDE_FOR,c,['VSPA']
+573,Specific_viral_infections,c,"['Specific virus', 'N Specific virus', 'Specific Viral Diseases', 'Specific virus infection']"
+574,SPHEROCYTOSIS__HEREDITARY__2,c,['HS2']
+575,SPHEROCYTOSIS__TYPE_1__disorder_,c,"['HS1', 'SPH', 'N HS1']"
+576,SPHEROCYTOSIS__TYPE_3__disorder_,c,['HS3']
+577,Spherocytosis__Type_4,c,['HS4']
+578,Spherocytosis__Type_5,c,['HS5']
+579,Spinal_Muscular_Atrophy,c,"['SMA', 'N SMA']"
+580,spine_infection,c,['infections spine']
+581,Spinocerebellar_Ataxia_Type_1,c,"['SCA1', 'CPD1']"
+582,Spinocerebellar_Ataxia_Type_2,c,['SCA2']
+583,Spinocerebellar_Ataxia_Type_7,c,['SCA7']
+584,SPONDYLOCARPOTARSAL_SYNOSTOSIS_SYNDROME,c,"['SCT', 'N SCT']"
+585,Spondyloepiphyseal_dysplasia__Omani_type,c,"['N HSD', 'HSD']"
+586,Spondylometaphyseal_dysplasia__Sedaghatian_type,c,"['N SMDS', 'SMDS']"
+587,Spondylo_ocular_syndrome,c,['SOS']
+588,Stargardts_disease,c,['FFM']
+589,STEEL_SYNDROME,c,['STLS']
+590,Stickler_syndrome__type_1,c,['AOM']
+591,STING_ASSOCIATED_VASCULOPATHY__INFANTILE_ONSET,c,['SAVI']
+592,Streptococcal_lymphadenitis_of_swine,c,['SLS']
+593,STUVE_WIEDEMANN_SYNDROME,c,['SWS']
+594,Subacute_Bacterial_Endocarditis,c,"['ie', 'N ie']"
+595,Subcortical_Band_Heterotopia,c,['SBH']
+596,SUBCORTICAL_BAND_HETEROTOPIA__X_LINKED,c,['SBH']
+597,Sudden_infant_death_syndrome,c,"['SID', 'N SIDS', 'SIDS']"
+598,SUPPRESSOR_OF_TUMORIGENICITY_3,c,"['N CCTS', 'CCTS']"
+599,Supraventricular_tachycardia,c,['SVT']
+600,Symphysis_Pubis_Dysfunction,c,['SPD']
+601,Syndactyly__Mesoaxial_Synostotic__with_Phalangeal_Reduction,c,['MSSD']
+602,Syndactyly__Type_I,c,['SD1']
+603,Syndactyly__Type_IV,c,"['SD4', 'N SD4']"
+604,Syndrome_of_infant_of_diabetic_mother,c,['IDM']
+605,Synovitis__Acne__Pustulosis__Hyperostosis__and_Osteitis_Syndrome,c,['PPHS']
+606,TAKENOUCHI_KOSAKI_SYNDROME,c,['TKS']
+607,TARSAL_CARPAL_COALITION_SYNDROME,c,"['TCC', 'N TCC']"
+608,Taste_Disorders,c,"['Disorder of taste', 'Taste Disorder', 'N Disorder of taste']"
+609,Tay_Sachs_Disease,c,['TSD']
+610,Tay_Sachs_Disease__AB_Variant,c,['AB variant']
+611,T_CELL_RECEPTOR_ALPHABETA_DEFICIENCY,c,['IMMUNODEFICIENCY 7']
+612,Tear_disorder,c,['Tear condition']
+613,Telangiectasia__Hereditary_Hemorrhagic__Type_4,c,"['HHT4', 'N HHT4']"
+614,TELOMERE_LENGTH__MEAN_LEUKOCYTE,c,['LTL']
+615,Testicular_Feminization,c,['CAIS']
+616,Testicular_regression_syndrome,c,['TRS']
+617,Thin_basement_membrane_disease,c,"['TMN', 'N TMN']"
+618,THOC6_related_developmental_delay_microcephaly_facial_dysmorphism_syndrome,c,['BBIS']
+619,Thoracic_Outlet_Syndrome,c,['TOS']
+620,Thoracolaryngopelvic_dysplasia,c,['TLPD']
+621,Three_M_Syndrome_1,c,['3M1']
+622,Thrombocythemia__Essential,c,"['ET', 'N ET']"
+623,THROMBOCYTOPENIA_1__disorder_,c,"['THROMBOCYTOPENIA 1', 'XLT']"
+624,THROMBOCYTOPENIA_2__disorder_,c,['THROMBOCYTOPENIA 2']
+625,Thrombocytopenia_3,c,['THROMBOCYTOPENIA 3']
+626,Thrombocytopenia_4,c,"['THROMBOCYTOPENIA 4', 'N THROMBOCYTOPENIA 4']"
+627,TNF_receptor_associated_periodic_fever_syndrome__TRAPS_,c,"['FHF', 'N FHF']"
+628,TORCH_syndrome,c,"['TORCH', 'N TORCH']"
+629,TORG_WINCHESTER_SYNDROME,c,['MONA']
+630,TORTICOLLIS__KELOIDS__CRYPTORCHIDISM__AND_RENAL_DYSPLASIA__disorder_,c,['TKC']
+631,Total_Hypotrichosis__Mari_type,c,"['AH', 'N AH']"
+632,Toxic_Epidermal_Necrolysis,c,"['N TEN', 'TEN']"
+633,Toxic_Shock_Syndrome,c,['TSS']
+634,Transient_hypogammaglobulinemia_of_infancy,c,"['THI', 'N THI']"
+635,Transient_Ischemic_Attack,c,"['TIA', 'N TIA']"
+636,Transitory_tachypnea_of_newborn,c,['TTN']
+637,transverse__myelitis__Myelitis__Acute_Transverse,c,"['Acute', 'N Acute']"
+638,TREMOR__HEREDITARY_ESSENTIAL__1,c,['FET1']
+639,Trichohepatoenteric_Syndrome,c,"['THE SYNDROME', 'N THE SYNDROME']"
+640,Triglyceride_storage_disease_with_ichthyosis,c,"['CDS', 'DCS', 'N DCS']"
+641,TROPICAL_CALCIFIC_PANCREATITIS,c,['TCP']
+642,TUMOR_PREDISPOSITION_SYNDROME,c,['TPDS']
+643,Type_II_Mucolipidosis,c,"['cell disease i', 'I cell disease', 'N I cell disease', 'ML II']"
+644,Tyrosine_Kinase_2_Deficiency,c,['IMMUNODEFICIENCY 35']
+645,UDPglucose_4_epimerase_deficiency_disease,c,['GALE']
+646,Uncombable_hair_syndrome,c,['UHS']
+647,Upper_Respiratory_Infections,c,"['Cold', 'N Cold']"
+648,Urticaria,c,"['Hive', 'N Hive', 'hived']"
+649,URUGUAY_FACIOCARDIOMUSCULOSKELETAL_SYNDROME,c,['FCMS']
+650,Usher_Syndrome__Type_I,c,['US1']
+651,USHER_SYNDROME__TYPE_IIA,c,['USH2A']
+652,Uterine_Diseases,c,"['uterine condition', 'N uterine condition']"
+653,Vaginal_Diseases,c,['Vaginal condition']
+654,Van_der_Woude_syndrome,c,"['PIT', 'LPS']"
+655,Velamentous_insertion_of_umbilical_cord__disorder_,c,"['Membranous Insertion', 'N Membranous Insertion']"
+656,Venezuelan_equine_encephalomyelitis,c,['VEE']
+657,Venoocclusive_disease,c,['VOD']
+658,Ventricular_Fibrillation,c,"['VF', 'N VF']"
+659,Ventricular_preexcitation,c,['Preexcitation']
+660,Verloes_Bourguignon_syndrome,c,['VBS']
+661,Vesicoureteral_Reflux_1,c,"['N VUR', 'VUR']"
+662,Vesicular_Exanthema_of_Swine,c,"['VES', 'N VES']"
+663,Vibratory_urticaria,c,['VBU']
+664,Villitis_of_unknown_etiology,c,['VUE']
+665,viral__hepatitis_B__Hepatitis_B__Chronic,c,"['Chronic', 'N Chronic']"
+666,Vitelliform_Macular_Dystrophy,c,"['Best disease', 'Best condition', 'N Best disease']"
+667,Waardenburg_Anophthalmia_Syndrome,c,"['MLA', 'N MLA']"
+668,Waardenburg_Syndrome__Type_2C,c,['WS2C']
+669,Waisman_syndrome,c,['WSN']
+670,Wells_syndrome,c,['well syndrome']
+671,Werner_Syndrome,c,"['WRN', 'N WRN']"
+672,Wernicke_Encephalopathy,c,['wernicke']
+673,West_Nile_viral_infection,c,['WNV']
+674,WILSON_TURNER_X_LINKED_MENTAL_RETARDATION_SYNDROME,c,['WTS']
+675,Wiskott_Aldrich_Syndrome,c,"['WAS', 'N WAS']"
+676,Wolff_Parkinson_White_Syndrome,c,['wpws']
+677,Wolf_Hirschhorn_Syndrome,c,['WHS']
+678,Wolman_Disease,c,"['CESD', 'N CESD']"
+679,Wound__non_healed,c,['non healing wound']
+680,Xeroderma_Pigmentosum__Complementation_Group_D,c,['XP-D']
+681,Xeroderma_pigmentosum__group_A,c,"['XPA', 'N XPA']"
+682,Xeroderma_pigmentosum__group_B,c,['XP-B']
+683,Xeroderma_pigmentosum__variant_type,c,['XPV']
+684,X_linked_agammaglobulinemia,c,"['IMMUNODEFICIENCY 1', 'N IMMUNODEFICIENCY 1', 'N IMMUNODEFICIENCY 1']"
+685,X_linked_agammaglobulinemia_with_growth_hormone_deficiency,c,['IGHD3']
+686,X_Linked_Combined_Immunodeficiency_Diseases,c,"['IMMUNODEFICIENCY 4', 'N IMMUNODEFICIENCY 4', 'N IMMUNODEFICIENCY 4', 'IMMUNODEFICIENCY 6', 'IMMUNODEFICIENCY 4']"
+687,X_linked_mental_retardation_Gustavson_type,c,['GUST']
+688,X_linked_recessive_nephrolithiasis_with_renal_failure,c,['NEPHROLITHIASIS 1']
+689,ZAP70_deficiency,c,['IMMUNODEFICIENCY 48']
+690,Zellweger_Syndrome,c,"['CHR', 'N CHR']"
+691,Zunich_neuroectodermal_syndrome,c,['CHIME']

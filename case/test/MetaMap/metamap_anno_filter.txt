@@ -1,0 +1,327 @@
+39426639	4:8	Role	C0035820	Role	Social Role	socb	39426639_ti1
+39426639	21:39	Epstein-Barr Virus	C0014644	Epstein Barr virus	Epstein-Barr virus	virs	39426639_ti1
+39426639	51:58	Cancers	C1306459	Cancer	Primary malignant neoplasm	neop	39426639_ti1
+39426639	0:5	c-Myc	C0086661	c myc	MYC gene	gngm	39426639_ab1
+39426639	9:11	an	C4321249	AN	DIAPH3 wt Allele	gngm	39426639_ab1
+39426639	28:36;54:64	oncogene;MYC family	C0919472	MYC-Family Oncogene	MYC-Family Oncogene	gngm	39426639_ab1
+39426639	29:34	c-Myc	C0086661	c myc	MYC gene	gngm	39426639_ab2
+39426639	67:73	cancer	C1306459	Cancer	Primary malignant neoplasm	neop	39426639_ab3
+39426639	81:88	various	C3540763	VARIOUS	VARIOUS DRUG CLASSES IN ATC	phsu	39426639_ab3
+39426639	0:18	Epstein-Barr virus	C0014644	Epstein Barr virus	Epstein-Barr virus	virs	39426639_ab4
+39426639	35:49	viral pathogen	C1520005	Viral Pathogenesis	Viral Pathogenesis	patf	39426639_ab4
+39426639	24:31	various	C3540763	VARIOUS	VARIOUS DRUG CLASSES IN ATC	phsu	39426639_ab5
+39426639	32:39	cancers	C1306459	Cancer	Primary malignant neoplasm	neop	39426639_ab5
+39426639	75:83	lymphoma	C0024299	LYMPHOMA	Lymphoma	neop	39426639_ab5
+39426639	105:120	gastric cancers	C0024623	Gastric Cancers	Malignant neoplasm of stomach	neop	39426639_ab5
+39426639	59:70	viral genes	C0017376	Genes, Viral	Genes, Viral	gngm	39426639_ab6
+39426639	99:117	Epstein-Barr virus	C0014644	Epstein Barr virus	Epstein-Barr virus	virs	39426639_ab6
+39426639	118:132	carcinogenesis	C0596263	Carcinogenesis	Carcinogenesis	neop	39426639_ab6
+39426639	71:89	Epstein-Barr virus	C0014644	Epstein Barr virus	Epstein-Barr virus	virs	39426639_ab7
+39426639	108:114	cancer	C1306459	Cancer	Primary malignant neoplasm	neop	39426639_ab7
+39426639	56:61	c-Myc	C0086661	c myc	MYC gene	gngm	39426639_ab8
+39426639	71:90	EBV-related cancers	C1333432	EBV Related Cancers	EBV-Related Malignant Neoplasm	neop	39426639_ab8
+39426639	102:111	discussed	C2584313	Discuss	Discussion (communication)	socb	39426639_ab8
+39348958	25:46	Lymph Node Metastasis	C0686619	lymph node metastasis	Secondary malignant neoplasm of lymph node	neop	39348958_ti1
+39348958	50:70	Early Gastric Cancer	C0349530	Early Gastric Cancer	Early gastric cancer	neop	39348958_ti1
+39348958	131:149	Protein Expression	C1171362	Protein Expression	protein expression	genf	39348958_ti1
+39348958	27:48	lymph node metastasis	C0686619	lymph node metastasis	Secondary malignant neoplasm of lymph node	neop	39348958_ab1
+39348958	58:78	early gastric cancer	C0349530	Early Gastric Cancer	Early gastric cancer	neop	39348958_ab1
+39348958	52:55	LNM	C0686619	lymph node metastasis	Secondary malignant neoplasm of lymph node	neop	39348958_ab2
+39348958	111:114	LNM	C0686619	lymph node metastasis	Secondary malignant neoplasm of lymph node	neop	39348958_ab2
+39348958	125:128	EGC	C0349530	Early Gastric Cancer	Early gastric cancer	neop	39348958_ab2
+39348958	39:47	training	C0220931	Training	Training	edac	39348958_ab3
+39348958	88:91	LNM	C0686619	lymph node metastasis	Secondary malignant neoplasm of lymph node	neop	39348958_ab3
+39348958	92:95	EGC	C0349530	Early Gastric Cancer	Early gastric cancer	neop	39348958_ab3
+39348958	122:125	LNM	C0686619	lymph node metastasis	Secondary malignant neoplasm of lymph node	neop	39348958_ab3
+39348958	126:129	EGC	C0349530	Early Gastric Cancer	Early gastric cancer	neop	39348958_ab3
+39348958	182:185	LNM	C0686619	lymph node metastasis	Secondary malignant neoplasm of lymph node	neop	39348958_ab3
+39348958	186:189	EGC	C0349530	Early Gastric Cancer	Early gastric cancer	neop	39348958_ab3
+39348958	202:205	LNM	C0686619	lymph node metastasis	Secondary malignant neoplasm of lymph node	neop	39348958_ab3
+39348958	206:209	EGC	C0349530	Early Gastric Cancer	Early gastric cancer	neop	39348958_ab3
+39348958	88:97	TGF-beta1	C1515406	TGFbeta1	Recombinant Transforming Growth Factor-Beta 1	phsu	39348958_ab4
+39348958	143:147	CD44	C1097299	CD44	CD44 protein, human	imft	39348958_ab4
+39348958	156:159	YAP	C1538138	YAP	YY1AP1 gene	gngm	39348958_ab4
+39348958	16:24	training	C0220931	Training	Training	edac	39348958_ab5
+39348958	84:95	desmoplasia	C0016059	Desmoplasia	Fibrosis	patf	39348958_ab5
+39348958	108:116	invasion	C1269955	Invasion	Tumor Cell Invasion	neop	39348958_ab5
+39348958	236:239	LNM	C0686619	lymph node metastasis	Secondary malignant neoplasm of lymph node	neop	39348958_ab5
+39348958	48:56	invasion	C1269955	Invasion	Tumor Cell Invasion	neop	39348958_ab6
+39348958	4:9;37:40	tumor;LNM	C0686619	lymph node tumor metastasis	Secondary malignant neoplasm of lymph node	neop	39348958_ab7
+39348958	48:59	desmoplasia	C0016059	Desmoplasia	Fibrosis	patf	39348958_ab8
+39348958	72:80	invasion	C1269955	Invasion	Tumor Cell Invasion	neop	39348958_ab8
+39348958	150:153	LNM	C0686619	lymph node metastasis	Secondary malignant neoplasm of lymph node	neop	39348958_ab8
+39348958	20:31	desmoplasia	C0016059	Desmoplasia	Fibrosis	patf	39348958_ab10
+39348958	51:59	invasion	C1269955	Invasion	Tumor Cell Invasion	neop	39348958_ab10
+39348958	117:120	LNM	C0686619	lymph node metastasis	Secondary malignant neoplasm of lymph node	neop	39348958_ab10
+39348958	131:134	EGC	C0349530	Early Gastric Cancer	Early gastric cancer	neop	39348958_ab10
+39348958	69:72	LNM	C0686619	lymph node metastasis	Secondary malignant neoplasm of lymph node	neop	39348958_ab11
+39338919	25:43	Epstein-Barr Virus	C0014644	Epstein Barr virus	Epstein-Barr virus	virs	39338919_ti1
+39338919	53:67	Gastric Cancer	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39338919_ti1
+39338919	0:14	Gastric cancer	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39338919_ab1
+39338919	46:53	various	C3540763	VARIOUS	VARIOUS DRUG CLASSES IN ATC	phsu	39338919_ab1
+39338919	13:42	Helicobacter pylori infection	C0850666	Helicobacter Pylori Infection	Infection caused by Helicobacter pylori	dsyn	39338919_ab2
+39338919	88:90	GC	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39338919_ab2
+39338919	143:145	GC	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39338919_ab2
+39338919	150:155;200:205	other;Virus	C0348217	Other virus	Other viral diseases NOS	dsyn	39338919_ab2
+39338919	188:195	Epstein	C1396851	Epstein	Epstein	dsyn	39338919_ab2
+39338919	207:210	EBV	C0014644	Epstein Barr virus	Epstein-Barr virus	virs	39338919_ab2
+39338919	0:29	EBV-associated gastric cancer	C4274414	Epstein-Barr Virus-Associated Gastric Carcinoma	Epstein-Barr virus associated gastric carcinoma	neop	39338919_ab3
+39338919	31:37	EBVaGC	C4274414	EBVaGC	Epstein-Barr virus associated gastric carcinoma	neop	39338919_ab3
+39338919	90:92	GC	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39338919_ab3
+39338919	152:166	gastric mucosa	C0017136	Gastric Mucosa	Gastric mucosa	tisu	39338919_ab3
+39338919	9:20	integrative	C1158478	Integration	DNA Integration	genf	39338919_ab4
+39338919	67:69	GC	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39338919_ab4
+39338919	85:91	Cancer	C1306459	Cancer	Primary malignant neoplasm	neop	39338919_ab4
+39338919	135:141	EBVaGC	C4274414	EBVaGC	Epstein-Barr virus associated gastric carcinoma	neop	39338919_ab4
+39338919	181:187	PIK3CA	C1335212	PIK3CA	PIK3CA gene	gngm	39338919_ab4
+39338919	206:215	mutations	C0026882	Mutations	Mutation	genf	39338919_ab4
+39338919	231:236	hyper	C0424295	HYPER	Hyperactive behavior	mobd	39338919_ab4
+39338919	101:103	GC	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39338919_ab5
+39338919	19:23	aims	C2744535	AIM	CD69 protein, human	imft	39338919_ab6
+39338919	35:37	an	C4321249	AN	DIAPH3 wt Allele	gngm	39338919_ab6
+39338919	75:81	EBVaGC	C4274414	EBVaGC	Epstein-Barr virus associated gastric carcinoma	neop	39338919_ab6
+39338919	76:99	genetic characteristics	C1517495	Gene Characteristics	Gene Feature	gngm	39338919_ab7
+39338919	110:116	EBVaGC	C4274414	EBVaGC	Epstein-Barr virus associated gastric carcinoma	neop	39338919_ab7
+39338919	22:29	discuss	C2584313	Discuss	Discussion (communication)	socb	39338919_ab8
+39338919	81:94	EBV infection	C0149678	EPSTEIN BARR VIRUS INFECTION	Epstein-Barr Virus Infections	dsyn	39338919_ab8
+39338919	95:97	as	C0052432	AS	artesunate	orch;phsu	39338919_ab8
+39338919	153:159;167:188	immune;checkpoint inhibitors	C4684977	Immune Checkpoint Inhibitor	Immune Checkpoint Inhibitor	imft;phsu	39338919_ab8
+39338919	72:78	EBVaGC	C4274414	EBVaGC	Epstein-Barr virus associated gastric carcinoma	neop	39338919_ab9
+39338919	184:187	EBV	C0014644	Epstein Barr virus	Epstein-Barr virus	virs	39338919_ab9
+39335135	0:14	Gastric Cancer	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39335135_ti1
+39335135	16:18	An	C4321249	AN	DIAPH3 wt Allele	gngm	39335135_ti1
+39335135	60:65;72:79;87:93	Early;Gastric;Cancer	C0349530	Early Gastric Cancer	Early gastric cancer	neop	39335135_ti1
+39335135	0:14	Gastric cancer	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39335135_ab1
+39335135	59:65	cancer	C1306459	Cancer	Primary malignant neoplasm	neop	39335135_ab1
+39335135	108:114	cancer	C1306459	Cancer	Primary malignant neoplasm	neop	39335135_ab1
+39335135	14:17	age	C0001779	AGE	Age	orga	39335135_ab2
+39335135	58:60	GC	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39335135_ab2
+39335135	77:82;89:103	early;gastric cancer	C0349530	Early Gastric Cancer	Early gastric cancer	neop	39335135_ab2
+39335135	157:159	GC	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39335135_ab2
+39335135	9:16	reports	C0700287	reports	Reporting	hlca	39335135_ab4
+39335135	44:54;80:82	aggressive;GC	C2945759	aggressive cancer	aggressive cancer	neop	39335135_ab4
+39335135	122:127	tumor	C0027651	Tumour	Neoplasms	neop	39335135_ab4
+39335135	145:147	an	C4321249	AN	DIAPH3 wt Allele	gngm	39335135_ab4
+39335135	45:53	stage GC	C0280253	gastric cancer stage	stage, gastric cancer	neop	39335135_ab5
+39335135	24:26	GC	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39335135_ab6
+39335135	51:70	alcohol consumption	C0001948	ALCOHOL CONSUMPTION	Alcohol consumption	inbe	39335135_ab6
+39335135	72:79	smoking	C0453996	Smoking	Tobacco smoking behavior	inbe	39335135_ab6
+39335135	81:100	Helicobacter pylori	C0079488	HELICOBACTER PYLORI	Helicobacter pylori	bact	39335135_ab6
+39335135	113:141	Epstein-Barr virus infection	C0149678	EPSTEIN BARR VIRUS INFECTION	Epstein-Barr Virus Infections	dsyn	39335135_ab6
+39335135	12:17	shown	C1547282	Show	Show	anim	39335135_ab7
+39335135	32:36	diet	C0012159	Diet	Diet therapy	hlca	39335135_ab7
+39335135	48:57	lifestyle	C0023676	Lifestyle	Life Style	socb	39335135_ab7
+39335135	80:84	role	C0035820	Role	Social Role	socb	39335135_ab7
+39335135	88:90	GC	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39335135_ab7
+39335135	70:72	GC	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39335135_ab8
+39335135	80:87	disease	C0012634	Disease	Disease	dsyn	39335135_ab9
+39335135	100:125	environmental carcinogens	C0007091	Carcinogens, Environmental	Carcinogens, Environmental	hops	39335135_ab10
+39335135	24:26	GC	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39335135_ab11
+39306800	52:61;65:79	stages II;gastric cancer	C0278496	Stage II Gastric Cancer	Malignant neoplasm of stomach stage II	neop	39306800_ti1
+39306800	62:64	IV	C1336445	IV	Stage IV Uveal Melanoma AJCC v7	neop	39306800_ti1
+39306800	91:105	gastric cancer	C0699791	Gastric Cancer	Stomach Carcinoma	neop	39306800_ab1
+39306800	86:95;99:101	stages II;GC	C0278496	Stage II Gastric Cancer	Malignant neoplasm of stomach stage II	neop	39306800_ab2
+39306800	96:98	IV	C1336445	IV	Stage IV Uveal Melanoma AJCC v7	neop	39306800_ab2
+39306800	105:130;144:158	gastroesophageal junction;adenocarcinoma	C1332166	Gastroesophageal Junction Adenocarcinoma	Gastroesophageal Junction Adenocarcinoma	neop	39306800_ab2
+39306800	236:238	GC	C0699791	Gastric Cancer	Stomach Carcinoma	neop	39306800_ab2
+39306800	50:56;64:66;70:72	stages;II;GC	C0278496	Stage II Gastric Cancer	Malignant neoplasm of stomach stage II	neop	39306800_ab3
+39306800	67:69	IV	C1336445	IV	Stage IV Uveal Melanoma AJCC v7	neop	39306800_ab3
+39306800	25:31	CLDN18	C1413467	CLDN18	CLDN18 gene	gngm	39306800_ab4
+39306800	55:60	PD-L1	C1540292	PD-L1	CD274 gene	gngm	39306800_ab4
+39306800	77:81	HER2	C0242957	HER-2	ERBB2 gene	gngm	39306800_ab4
+39306800	60:72;80:85	Epstein-Barr;virus	C0014644	Epstein Barr virus	Epstein-Barr virus	virs	39306800_ab6
+39306800	150:152	no	C0028128	NO	nitric oxide	orch;phsu	39306800_ab8
+39306800	177:180	age	C0001779	AGE	Age	orga	39306800_ab8
+39306800	182:185	sex	C0079399	sex	Gender	orga	39306800_ab8
+39306800	46:69	mucinous adenocarcinoma	C0007130	Mucinous Adenocarcinoma	Mucinous Adenocarcinoma	neop	39306800_ab9
+39306800	96:104	majority	C0680220	majority	majority	socb	39306800_ab9
+39306800	108:115;123:133	gastric;carcinomas	C0699791	GASTRIC CARCINOMA	Stomach Carcinoma	neop	39306800_ab9
+39306800	34:37	EBV	C0014644	Epstein Barr virus	Epstein-Barr virus	virs	39306800_ab10
+39306800	87:92	PD-L1	C1540292	PD-L1	CD274 gene	gngm	39306800_ab10
+39306800	104:106	GC	C0699791	Gastric Cancer	Stomach Carcinoma	neop	39306800_ab10
+39306800	152:154	GC	C0699791	Gastric Cancer	Stomach Carcinoma	neop	39306800_ab10
+39306800	172:181;185:187	stages II;GC	C0278496	Stage II Gastric Cancer	Malignant neoplasm of stomach stage II	neop	39306800_ab12
+39306800	182:184	IV	C1336445	IV	Stage IV Uveal Melanoma AJCC v7	neop	39306800_ab12
+39306800	191:196	Korea	C0022771	Korea	Korea	geoa	39306800_ab12
+39306800	137:139	GC	C0699791	Gastric Cancer	Stomach Carcinoma	neop	39306800_ab13
+39283078	0:4	HCMV	C0205725	Cytomegalovirus, human	herpesvirus 5, human	virs	39283078_ti1
+39283078	24:38	gastric cancer	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39283078_ti1
+39283078	98:100	GC	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39283078_ti1
+39283078	122:126	HCMV	C0205725	Cytomegalovirus, human	herpesvirus 5, human	virs	39283078_ti1
+39283078	127:129	GC	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39283078_ti1
+39283078	0:14	Gastric cancer	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39283078_ab1
+39283078	0:9;17:24	Oncogenic;viruses	C0029017	Oncogenic Viruses	Oncogenic Viruses	virs	39283078_ab2
+39283078	40:44	role	C0035820	Role	Social Role	socb	39283078_ab2
+39283078	52:63;86:93	progression;cancers	C0178874	cancer progression	Tumor Progression	neop	39283078_ab2
+39283078	68:70	GC	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39283078_ab3
+39283078	126:147	human cytomegalovirus	C0205725	Cytomegalovirus, human	herpesvirus 5, human	virs	39283078_ab3
+39283078	164:166;174:180	GC;tumors	C0038356	gastric tumors	Stomach Neoplasms	neop	39283078_ab3
+39283078	164:166	GC	C1306459	Cancer	Primary malignant neoplasm	neop	39283078_ab3
+39283078	222:225	EBV	C0014644	EBV	Epstein-Barr virus	virs	39283078_ab3
+39283078	42:44	GC	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39283078_ab4
+39283078	70:74	HCMV	C0205725	Cytomegalovirus, human	herpesvirus 5, human	virs	39283078_ab4
+39283078	260:265;273:289	tumor;suppressor genes	C0079427	Tumor Suppressor Genes	Tumor Suppressor Genes	gngm	39283078_ab5
+39283078	364:368	HCMV	C0205725	Cytomegalovirus, human	herpesvirus 5, human	virs	39283078_ab5
+39283078	378:380	GC	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39283078_ab5
+39283078	417:421	role	C0035820	Role	Social Role	socb	39283078_ab5
+39283078	425:439	HCMV infection	C2047215	Human cytomegalovirus infection	Herpesvirus 5 infection	dsyn	39283078_ab5
+39283078	450:452	GC	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39283078_ab5
+39283078	0:5	Genes	C0017337	Genes	Genes	gngm	39283078_ab6
+39283078	42:48;52:54	stages;GC	C0280253	gastric cancer stage	stage, gastric cancer	neop	39283078_ab6
+39283078	0:3	LTF	C1416933	LTF	LTF gene	gngm	39283078_ab7
+39283078	15:20	KLK10	C1416670	KLK10	KLK10 gene	gngm	39283078_ab7
+39283078	79:83	HCMV	C0205725	Cytomegalovirus, human	herpesvirus 5, human	virs	39283078_ab7
+39283078	117:126	GC stages	C0280253	gastric cancer stage	stage, gastric cancer	neop	39283078_ab7
+39283078	100:105	genes	C0017337	Genes	Genes	gngm	39283078_ab8
+39283078	106:108	in	C1707101	IN	CD44 wt Allele	gngm	39283078_ab8
+39283078	113:117	HCMV	C0205725	Cytomegalovirus, human	herpesvirus 5, human	virs	39283078_ab8
+39283078	136:138;171:177	GC;cancer	C0699791	GASTRIC CANCER, CARCINOMA	Stomach Carcinoma	neop	39283078_ab8
+39283078	179:181	GC	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39283078_ab8
+39283078	189:197	reported	C0700287	Reported	Reporting	hlca	39283078_ab8
+39283078	29:32	EBV	C0014644	EBV	Epstein-Barr virus	virs	39283078_ab10
+39283078	37:58	human cytomegalovirus	C0205725	Cytomegalovirus, human	herpesvirus 5, human	virs	39283078_ab10
+39283078	60:64	HCMV	C0205725	Cytomegalovirus, human	herpesvirus 5, human	virs	39283078_ab10
+39283078	88:90	GC	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39283078_ab10
+39283078	24:28	role	C0035820	Role	Social Role	socb	39283078_ab11
+39283078	32:35	EBV	C0014644	EBV	Epstein-Barr virus	virs	39283078_ab11
+39283078	52:54	GC	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39283078_ab11
+39283078	101:105	HCMV	C0205725	Cytomegalovirus, human	herpesvirus 5, human	virs	39283078_ab11
+39283078	174:176	GC	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39283078_ab11
+39283078	35:39	HCMV	C0205725	Cytomegalovirus, human	herpesvirus 5, human	virs	39283078_ab12
+39283078	260:265;273:289	tumor;suppressor genes	C0079427	Tumor Suppressor Genes	Tumor Suppressor Genes	gngm	39283078_ab13
+39283078	364:368	HCMV	C0205725	Cytomegalovirus, human	herpesvirus 5, human	virs	39283078_ab13
+39283078	378:380	GC	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39283078_ab13
+39283078	417:421	role	C0035820	Role	Social Role	socb	39283078_ab13
+39283078	425:439	HCMV infection	C2047215	Human cytomegalovirus infection	Herpesvirus 5 infection	dsyn	39283078_ab13
+39283078	450:452	GC	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39283078_ab13
+39261055	13:22	nivolumab	C3657270	NIVOLUMAB	nivolumab	imft;phsu	39261055_ti1
+39261055	86:110	meningeal carcinomatosis	C0220654	MENINGEAL CARCINOMATOSIS	Meningeal Carcinomatosis	neop	39261055_ti1
+39261055	128:146	Epstein-Barr virus	C0014644	Epstein Barr virus	Epstein-Barr virus	virs	39261055_ti1
+39261055	158:165;173:179	gastric;cancer	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39261055_ti1
+39261055	33:38	fever	C0015967	FEVER	Fever	sosy	39261055_ab1
+39261055	97:105	vomiting	C0042963	VOMITING	Vomiting	sosy	39261055_ab2
+39261055	114:125;130:138	referred to;hospital	C0019982	Refer to hospital	Hospital Referral	hlca	39261055_ab2
+39261055	28:36	delirium	C0011206	DELIRIUM	Delirium	mobd	39261055_ab3
+39261055	61:75	disorientation	C0009676	Disorientation	Confusion	mobd	39261055_ab3
+39261055	70:75	tumor	C0027651	Tumour	Neoplasms	neop	39261055_ab4
+39261055	153:167	adenocarcinoma	C0001418	ADENOCARCINOMA	Adenocarcinoma	neop	39261055_ab4
+39261055	43:48;56:90	human;epidermal growth factor receptor 2	C0242957	human epidermal growth factor receptor 2	ERBB2 gene	gngm	39261055_ab5
+39261055	104:129	programmed death-ligand 1	C1540292	PROGRAMMED DEATH LIGAND 1	CD274 gene	gngm	39261055_ab5
+39261055	0:9	Abdominal	C0000726	Abdominal	Abdomen	blor	39261055_ab7
+39261055	70:80;88:98	lymph node;metastases	C0686619	Lymph node metastases	Secondary malignant neoplasm of lymph node	neop	39261055_ab7
+39261055	159:168;176:190	stage IVB;gastric cancer	C4524806	stage IVB gastric cancer	Clinical Stage IVB Gastric Cancer AJCC v8	neop	39261055_ab7
+39261055	68:75;83:92	lesions;brainstem	C4546143	Brainstem lesion	Lesion of brainstem	dsyn	39261055_ab8
+39261055	94:110	cerebellar sulci	C0228468	Cerebellar sulcus	Structure of cerebellar fissure	bsoj	39261055_ab8
+39261055	9:28	cerebrospinal fluid	C0007806	Spinal Fluid, Cerebro	Cerebrospinal Fluid	bdsu	39261055_ab9
+39261055	55:65	malignancy	C1306459	Malignancy	Primary malignant neoplasm	neop	39261055_ab9
+39261055	87:95	symptoms	C1457887	SYMPTOMS	Symptoms	sosy	39261055_ab9
+39261055	123:152	leptomeningeal carcinomatosis	C0220654	Leptomeningeal Carcinomatosis	Meningeal Carcinomatosis	neop	39261055_ab9
+39261055	46:49	LMC	C0220654	Leptomeningeal Carcinomatosis	Meningeal Carcinomatosis	neop	39261055_ab10
+39261055	129:138	nivolumab	C3657270	NIVOLUMAB	nivolumab	imft;phsu	39261055_ab10
+39261055	19:22	LMC	C0220654	Leptomeningeal Carcinomatosis	Meningeal Carcinomatosis	neop	39261055_ab11
+39261055	30:38	symptoms	C1457887	SYMPTOMS	Symptoms	sosy	39261055_ab11
+39261055	95:109	adverse events	C0877248	adverse events	Adverse event	patf	39261055_ab11
+39261055	0:9	Nivolumab	C3657270	NIVOLUMAB	nivolumab	imft;phsu	39261055_ab12
+39261055	72:86	adverse events	C0877248	adverse events	Adverse event	patf	39261055_ab12
+39261055	8:19	evaluations	C0220825	evaluations	Evaluation	hlca	39261055_ab13
+39261055	41:47	showed	C1547282	Show	Show	anim	39261055_ab13
+39261055	48:61	gastric tumor	C0038356	Gastric Tumour	Stomach Neoplasms	neop	39261055_ab13
+39261055	91:94	LMC	C0220654	Leptomeningeal Carcinomatosis	Meningeal Carcinomatosis	neop	39261055_ab13
+39261055	16:25	nivolumab	C3657270	NIVOLUMAB	nivolumab	imft;phsu	39261055_ab14
+39261055	62:75	gastric tumor	C0038356	Gastric Tumour	Stomach Neoplasms	neop	39261055_ab15
+39261055	87:94	scarred	C2004491	Scarred	Cicatrix	patf	39261055_ab15
+39261055	104:110	showed	C1547282	Show	Show	anim	39261055_ab15
+39261055	111:113	no	C0028128	NO	nitric oxide	orch;phsu	39261055_ab15
+39261055	123:126	LMC	C0220654	Leptomeningeal Carcinomatosis	Meningeal Carcinomatosis	neop	39261055_ab15
+39261055	11:23	solid tumors	C0280100	solid tumors	Solid Neoplasm	neop	39261055_ab16
+39261055	25:28	LMC	C0220654	Leptomeningeal Carcinomatosis	Meningeal Carcinomatosis	neop	39261055_ab16
+39261055	36:49	complications	C0009566	Complications	Complication	patf	39261055_ab16
+39261055	7:14	reports	C0700287	reports	Reporting	hlca	39261055_ab17
+39261055	40:68	immune checkpoint inhibitors	C4684977	Immune Checkpoint Inhibitor	Immune Checkpoint Inhibitor	imft;phsu	39261055_ab17
+39261055	3:8	Japan	C0022341	JAPAN	Japan	geoa	39261055_ab18
+39261055	10:19	nivolumab	C3657270	NIVOLUMAB	nivolumab	imft;phsu	39261055_ab18
+39261055	44:58	gastric cancer	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39261055_ab18
+39261055	3:9	report	C0700287	Report	Reporting	hlca	39261055_ab19
+39261055	77:86	nivolumab	C3657270	NIVOLUMAB	nivolumab	imft;phsu	39261055_ab19
+39261055	115:118	LMC	C0220654	Leptomeningeal Carcinomatosis	Meningeal Carcinomatosis	neop	39261055_ab19
+39261055	143:157	gastric cancer	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39261055_ab19
+39242811	12:14;36:41	of;STING	C1823437	STIMULATOR OF INTERFERON GENES	TMEM173 gene	gngm	39242811_ti1
+39242811	89:101	infiltration	C1692321	Infiltration	Cellular infiltrate	patf	39242811_ti1
+39242811	123:127;142:148	dMMR;cancer	C4543702	dMMR cancer	Microsatellite instability-high solid malignant tumor	neop	39242811_ti1
+39242811	73:80;88:94	gastric;cancer	C0699791	Gastric Cancer	Stomach Carcinoma	neop	39242811_ab1
+39242811	247:250	EBV	C0014644	EBV	Epstein-Barr virus	virs	39242811_ab1
+39242811	263:265	GC	C0699791	Gastric Cancer	Stomach Carcinoma	neop	39242811_ab1
+39242811	4:9	tumor	C0027651	Tumour	Neoplasms	neop	39242811_ab2
+39242811	25:48	cyclic GMP-AMP synthase	C3147783	CYCLIC GMP-AMP SYNTHASE	CGAS gene	gngm	39242811_ab2
+39242811	56:69;77:93	stimulator of;interferon genes	C1823437	STIMULATOR OF INTERFERON GENES	TMEM173 gene	gngm	39242811_ab2
+39242811	72:76;83:85	dMMR;GC	C4543702	dMMR cancer	Microsatellite instability-high solid malignant tumor	neop	39242811_ab3
+39242811	55:59	cGAS	C3147783	CYCLIC GMP-AMP SYNTHASE	CGAS gene	gngm	39242811_ab4
+39242811	60:65	STING	C1823437	STIMULATOR OF INTERFERON GENES	TMEM173 gene	gngm	39242811_ab4
+39242811	90:97	dMMR GC	C4543702	dMMR cancer	Microsatellite instability-high solid malignant tumor	neop	39242811_ab4
+39242811	122:125	EBV	C0014644	EBV	Epstein-Barr virus	virs	39242811_ab4
+39242811	130:132	GC	C0699791	Gastric Cancer	Stomach Carcinoma	neop	39242811_ab4
+39242811	15:17;39:44	of;STING	C1823437	STIMULATOR OF INTERFERON GENES	TMEM173 gene	gngm	39242811_ab5
+39242811	163:165	GC	C0699791	Gastric Cancer	Stomach Carcinoma	neop	39242811_ab5
+39242811	44:54;87:92	expression;genes	C0017262	expression gene	Gene Expression	genf	39242811_ab6
+39242811	65:75	interferon	C0021747	INTERFERON	Interferons	imft	39242811_ab6
+39242811	97:102	STING	C1823437	STIMULATOR OF INTERFERON GENES	TMEM173 gene	gngm	39242811_ab6
+39242811	184:186	GC	C0699791	Gastric Cancer	Stomach Carcinoma	neop	39242811_ab6
+39242811	199:204;217:219	other;GC	C1707251	Cancer Other	Cancer Other	neop	39242811_ab6
+39242811	225:228	EBV	C0014644	EBV	Epstein-Barr virus	virs	39242811_ab6
+39242811	48:53	STING	C1823437	STIMULATOR OF INTERFERON GENES	TMEM173 gene	gngm	39242811_ab7
+39242811	122:126;133:135	dMMR;GC	C4543702	dMMR cancer	Microsatellite instability-high solid malignant tumor	neop	39242811_ab7
+39242811	211:224	immunotherapy	C0005525	Immunotherapy	Biological Response Modifiers	imft;phsu	39242811_ab7
+39242811	229:231	GC	C1306459	Cancer	Primary malignant neoplasm	neop	39242811_ab7
+39228892	60:74	gastric cancer	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39228892_ab1
+39228892	173:179	impact	C1825598	IMPACT	IMPACT gene	gngm	39228892_ab1
+39228892	253:259	cancer	C1306459	Cancer	Primary malignant neoplasm	neop	39228892_ab1
+39228892	49:60	lung cancer	C0242379	Lung Cancer	Malignant neoplasm of lung	neop	39228892_ab2
+39228892	65:72;80:86	gastric;cancer	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39228892_ab2
+39228892	94:106	colon cancer	C0007102	COLON CANCER	Malignant tumor of colon	neop	39228892_ab2
+39228892	238:243	DAVID	C3809991	DAVID	IMMUNODEFICIENCY, COMMON VARIABLE, 10	dsyn	39228892_ab2
+39228892	290:291;344:351	a;factors	C0050325	A-factor	A-factor (Streptomyces)	orch	39228892_ab2
+39228892	292:302;330:343	regulatory;transcription	C1158770	Transcription Regulation	Transcriptional Regulation	genf	39228892_ab2
+39228892	356:368	target genes	C1332838	Target Gene	Candidate Disease Gene	gngm	39228892_ab2
+39228892	393:399	cancer	C1306459	Cancer	Primary malignant neoplasm	neop	39228892_ab2
+39228892	500:521	phenotypic plasticity	C4704854	Phenotypic Plasticity	Phenotypic Plasticity	orgf	39228892_ab2
+39228892	562:568	cancer	C1306459	Cancer	Primary malignant neoplasm	neop	39228892_ab2
+39228892	587:602	tumoral process	C1519665	Tumor Process	Tumor-Associated Process	neop	39228892_ab2
+39228892	75:81	impact	C1825598	IMPACT	IMPACT gene	gngm	39228892_ab4
+39228892	108:112	SOX4	C1420327	SOX4	SOX4 gene	gngm	39228892_ab4
+39228892	114:118	TCF3	C1336596	TCF3	TCF3 gene	gngm	39228892_ab4
+39228892	120:125	TEAD4	C1420682	TEAD4	TEAD4 gene	gngm	39228892_ab4
+39228892	144:149	FOXM1	C1414685	FOXM1	FOXM1 gene	gngm	39228892_ab4
+39228892	202:220	cancer progression	C1947901	Cancer Progression	Cancer Progression	patf	39228892_ab4
+39228892	240:253;258:268;272:277	regulation of;expression;genes	C0017263	Regulation of Gene Expression	Gene Expression Regulation	genf	39228892_ab4
+39228892	353:367	microorganisms	C0445623	Microorganisms	Microorganism	orgm	39228892_ab4
+39228892	379:391;399:415	human T-cell;leukemia virus 1	C0020094	human T cell leukemia virus 1	Human T-lymphotropic virus 1	virs	39228892_ab4
+39228892	430:451	human papilloma virus	C0021344	Human Papilloma Virus	human papillomavirus	virs	39228892_ab4
+39228892	463:475;483:488	Epstein-Barr;virus	C0014644	Epstein Barr virus	Epstein-Barr virus	virs	39228892_ab4
+39228892	500:510	SARS-CoV-2	C5203676	SARS-CoV-2	2019 novel coronavirus	virs	39228892_ab4
+39228892	142:156	overexpression	C1514559	Overexpression	Protein Overexpression	genf	39228892_ab5
+39228892	225:239	gastric cancer	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39228892_ab5
+39228892	270:279	formation	C0220781	formation	Anabolism	biof	39228892_ab5
+39228892	160:174	gastric cancer	C0024623	GASTRIC CANCER	Malignant neoplasm of stomach	neop	39228892_ab6
+39228892	210:216	cancer	C1306459	Cancer	Primary malignant neoplasm	neop	39228892_ab6
+39228892	307:318	tumorigenic	C0596263	Tumorigenesis	Carcinogenesis	neop	39228892_ab6
+39096336	41:44	EBV	C0014644	Epstein Barr virus	Epstein-Barr virus	virs	39096336_ti1
+39096336	104:117	proliferation	C0334094	Proliferation	Proliferation (morphologic abnormality)	patf	39096336_ti1
+39096336	123:132	migration	C0600210	migration	population migration	socb	39096336_ti1
+39096336	136:165	EBV-associated gastric cancer	C4274414	Epstein-Barr Virus-Associated Gastric Carcinoma	Epstein-Barr virus associated gastric carcinoma	neop	39096336_ti1
+39096336	0:18	Epstein-Barr virus	C0014644	Epstein Barr virus	Epstein-Barr virus	virs	39096336_ab1
+39096336	44:59	oncogenic virus	C0029017	Oncogenic Virus	Oncogenic Viruses	virs	39096336_ab1
+39096336	157:164	various	C3540763	VARIOUS	VARIOUS DRUG CLASSES IN ATC	phsu	39096336_ab1
+39096336	172:178	tumors	C0027651	Tumors	Neoplasms	neop	39096336_ab1
+39096336	209:224	gastric cancers	C0024623	Gastric Cancers	Malignant neoplasm of stomach	neop	39096336_ab1
+39096336	101:109;117:123	numerous;tumors	C0260037	Numerous tumors	Multiple tumors	neop	39096336_ab2
+39096336	135:147	tumor growth	C0598934	tumor growth	tumor growth	neop	39096336_ab2
+39096336	152:162	metastasis	C0027627	Metastasis	Neoplasm Metastasis	neop	39096336_ab2
+39096336	48:70;78:84	EBV-associated gastric;cancer	C4274414	Epstein-Barr Virus-Associated Gastric Carcinoma	Epstein-Barr virus associated gastric carcinoma	neop	39096336_ab3
+39096336	86:92	EBVaGC	C4274414	EBVaGC	Epstein-Barr virus associated gastric carcinoma	neop	39096336_ab3
+39096336	139:153	gastric cancer	C0699791	Gastric Cancer	Stomach Carcinoma	neop	39096336_ab3
+39096336	13:16	EBV	C0014644	Epstein Barr virus	Epstein-Barr virus	virs	39096336_ab4
+39096336	17:31	overexpression	C1514559	Overexpression	Protein Overexpression	genf	39096336_ab5
+39096336	43:49	EBVaGC	C4274414	EBVaGC	Epstein-Barr virus associated gastric carcinoma	neop	39096336_ab5
+39096336	84:97	proliferation	C0334094	Proliferation	Proliferation (morphologic abnormality)	patf	39096336_ab5
+39096336	27:30	EBV	C0014644	Epstein Barr virus	Epstein-Barr virus	virs	39096336_ab6
+39096336	80:86	EBVaGC	C4274414	EBVaGC	Epstein-Barr virus associated gastric carcinoma	neop	39096336_ab6

@@ -1,0 +1,17 @@
+,name,site,list
+0,Cooking__activity_,c,"['Cook','cooked']"
+1,Automobile_Driving,c,['Driving']
+2,Bowling__activity_,c,['bowl']
+3,Diving__activity_,c,['dive']
+4,Dressing__activity_of_daily_living,c,['Dressing__activity_of_daily_living']
+5,Dumbbells__activity_,d,['DNA dumbbells']
+6,Gardening,c,"['garden','gardens']"
+7,hair_brushing_activity,c,['Brushing']
+8,Recreational_flying,c,['Flying']
+9,Running__physical_activity_,c,"['Running','Run']"
+10,Shopping__activity_,c,"['Shop','Shopping']"
+11,Snorkel_diving,c,['snorkel']
+12,Swimming,c,['Swim']
+13,Treadmill__physical_activity_,c,['Treadmill']
+14,Walking__activity_,c,"['Walk','By Foot','Ambulation','On Foot']"
+15,Walking__activity_,d,"['genome walking','walking approach','sequence walking','primer walking','cosmid walking','walking blood','Walking through','primer-walking','genome-walking']"
